@@ -8,7 +8,7 @@ size = 3
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "silences" 
+        name = "utterance" 
         xmin = 0 
         xmax = 1397.3025 
         intervals: size = 85 
@@ -380,10 +380,10 @@ item []:
             text = "" 
         intervals [6]:
             xmin = 182.53086919171736 
-            xmax = 182.91410446335198 
+            xmax = 182.94344948242428 
             text = "おお" 
         intervals [7]:
-            xmin = 182.91410446335198 
+            xmin = 182.94344948242428 
             xmax = 184.02131685190776 
             text = "うっつってるよね" 
         intervals [8]:
@@ -644,10 +644,10 @@ item []:
             text = "" 
         intervals [72]:
             xmin = 994.29925 
-            xmax = 994.5390907831991 
+            xmax = 994.4445124588353 
             text = "お" 
         intervals [73]:
-            xmin = 994.5390907831991 
+            xmin = 994.4445124588353 
             xmax = 995.4338238315557 
             text = "レベル上がったぞ" 
         intervals [74]:
@@ -752,7 +752,7 @@ item []:
             text = "" 
     item [3]:
         class = "IntervalTier" 
-        name = "shout" 
+        name = "affectburst" 
         xmin = 0 
         xmax = 1397.3025 
         intervals: size = 19 
@@ -762,10 +762,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 182.53086919171736 
-            xmax = 182.91410446335198 
+            xmax = 182.94344948242428 
             text = "{s}" 
         intervals [3]:
-            xmin = 182.91410446335198 
+            xmin = 182.94344948242428 
             xmax = 430.0900463603234 
             text = "" 
         intervals [4]:
@@ -826,9 +826,9 @@ item []:
             text = "" 
         intervals [18]:
             xmin = 994.29925 
-            xmax = 994.5390907831991 
+            xmax = 994.4445124588353 
             text = "{a}" 
         intervals [19]:
-            xmin = 994.5390907831991 
+            xmin = 994.4445124588353 
             xmax = 1397.3025 
             text = "" 

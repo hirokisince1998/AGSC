@@ -8,7 +8,7 @@ size = 3
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "silences" 
+        name = "utterance" 
         xmin = 0 
         xmax = 1214.565 
         intervals: size = 189 
@@ -920,10 +920,10 @@ item []:
             text = "" 
         intervals [37]:
             xmin = 325.2185 
-            xmax = 326.61584622163423 
+            xmax = 326.59144759657704 
             text = "やばいやばいやばいよ" 
         intervals [38]:
-            xmin = 326.61584622163423 
+            xmin = 326.59144759657704 
             xmax = 326.932905987339 
             text = "" 
         intervals [39]:
@@ -1040,10 +1040,10 @@ item []:
             text = "" 
         intervals [67]:
             xmin = 406.83123553603593 
-            xmax = 406.9922595125801 
+            xmax = 406.977509178397 
             text = "あ" 
         intervals [68]:
-            xmin = 406.9922595125801 
+            xmin = 406.977509178397 
             xmax = 407.2441673503026 
             text = "やべ" 
         intervals [69]:
@@ -1440,10 +1440,10 @@ item []:
             text = "" 
         intervals [167]:
             xmin = 680.0745 
-            xmax = 680.1816973886912 
+            xmax = 680.1608550210456 
             text = "あ" 
         intervals [168]:
-            xmin = 680.1816973886912 
+            xmin = 680.1608550210456 
             xmax = 681.3490377656514 
             text = "ファール取られちゃった" 
         intervals [169]:
@@ -1812,10 +1812,10 @@ item []:
             text = "" 
         intervals [260]:
             xmin = 954.0025 
-            xmax = 954.5757527416164 
+            xmax = 954.5157222486407 
             text = "あ" 
         intervals [261]:
-            xmin = 954.5757527416164 
+            xmin = 954.5157222486407 
             xmax = 955.9000278817715 
             text = "来ちゃった" 
         intervals [262]:
@@ -2148,7 +2148,7 @@ item []:
             text = "" 
     item [3]:
         class = "IntervalTier" 
-        name = "shout" 
+        name = "affectburst" 
         xmin = 0 
         xmax = 1214.565 
         intervals: size = 67 
@@ -2214,10 +2214,10 @@ item []:
             text = "" 
         intervals [16]:
             xmin = 406.83123553603593 
-            xmax = 406.9922595125801 
+            xmax = 406.977509178397 
             text = "{a}" 
         intervals [17]:
-            xmin = 406.9922595125801 
+            xmin = 406.977509178397 
             xmax = 418.294693378231 
             text = "" 
         intervals [18]:
@@ -2302,10 +2302,10 @@ item []:
             text = "" 
         intervals [38]:
             xmin = 680.0745 
-            xmax = 680.1816973886912 
+            xmax = 680.1608550210456 
             text = "{a}" 
         intervals [39]:
-            xmin = 680.1816973886912 
+            xmin = 680.1608550210456 
             xmax = 917.1761423720787 
             text = "" 
         intervals [40]:
@@ -2334,10 +2334,10 @@ item []:
             text = "" 
         intervals [46]:
             xmin = 954.0025 
-            xmax = 954.5757527416164 
+            xmax = 954.5157222486407 
             text = "{s}" 
         intervals [47]:
-            xmin = 954.5757527416164 
+            xmin = 954.5157222486407 
             xmax = 964.1705 
             text = "" 
         intervals [48]:

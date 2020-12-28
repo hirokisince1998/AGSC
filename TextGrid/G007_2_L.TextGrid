@@ -8,7 +8,7 @@ size = 3
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "silences" 
+        name = "utterance" 
         xmin = 0 
         xmax = 1214.565 
         intervals: size = 231 
@@ -78,10 +78,10 @@ item []:
             text = "008" 
         intervals [17]:
             xmin = 309.80774151336936 
-            xmax = 316.64884176262734 
+            xmax = 316.6666908691807 
             text = "" 
         intervals [18]:
-            xmin = 316.64884176262734 
+            xmin = 316.6666908691807 
             xmax = 316.8179394691194 
             text = "009" 
         intervals [19]:
@@ -298,10 +298,10 @@ item []:
             text = "" 
         intervals [72]:
             xmin = 525.5817829781836 
-            xmax = 526.6738717136151 
+            xmax = 526.5328101571895 
             text = "036" 
         intervals [73]:
-            xmin = 526.6738717136151 
+            xmin = 526.5328101571895 
             xmax = 533.7447590239833 
             text = "" 
         intervals [74]:
@@ -1060,10 +1060,10 @@ item []:
             text = "キーパー大体防ぐ" 
         intervals [30]:
             xmin = 309.80774151336936 
-            xmax = 316.64884176262734 
+            xmax = 316.6666908691807 
             text = "" 
         intervals [31]:
-            xmin = 316.64884176262734 
+            xmin = 316.6666908691807 
             xmax = 316.8179394691194 
             text = "ん" 
         intervals [32]:
@@ -1436,10 +1436,10 @@ item []:
             text = "" 
         intervals [124]:
             xmin = 525.5817829781836 
-            xmax = 526.6738717136151 
+            xmax = 526.5328101571895 
             text = "ピンチを回避" 
         intervals [125]:
-            xmin = 526.6738717136151 
+            xmin = 526.5328101571895 
             xmax = 533.7447590239833 
             text = "" 
         intervals [126]:
@@ -1484,10 +1484,10 @@ item []:
             text = "" 
         intervals [136]:
             xmin = 558.1065 
-            xmax = 558.2344756232427 
+            xmax = 558.1993051836581 
             text = "あ" 
         intervals [137]:
-            xmin = 558.2344756232427 
+            xmin = 558.1993051836581 
             xmax = 559.2703421112376 
             text = "いや間違えちゃった" 
         intervals [138]:
@@ -1668,10 +1668,10 @@ item []:
             text = "" 
         intervals [182]:
             xmin = 653.3785 
-            xmax = 653.6360158846593 
+            xmax = 653.6200683559808 
             text = "あ" 
         intervals [183]:
-            xmin = 653.6360158846593 
+            xmin = 653.6200683559808 
             xmax = 653.762839749865 
             text = "" 
         intervals [184]:
@@ -2048,10 +2048,10 @@ item []:
             text = "" 
         intervals [277]:
             xmin = 823.1305 
-            xmax = 823.298211726003 
+            xmax = 823.2486642494966 
             text = "うわ" 
         intervals [278]:
-            xmin = 823.298211726003 
+            xmin = 823.2486642494966 
             xmax = 823.8227170888532 
             text = "やばい取られた" 
         intervals [279]:
@@ -2076,10 +2076,10 @@ item []:
             text = "" 
         intervals [284]:
             xmin = 831.4185 
-            xmax = 831.5658315487308 
+            xmax = 831.5324286888282 
             text = "あ" 
         intervals [285]:
-            xmin = 831.5658315487308 
+            xmin = 831.5324286888282 
             xmax = 831.8665 
             text = "いない" 
         intervals [286]:
@@ -2764,7 +2764,7 @@ item []:
             text = "" 
     item [3]:
         class = "IntervalTier" 
-        name = "shout" 
+        name = "affectburst" 
         xmin = 0 
         xmax = 1214.565 
         intervals: size = 114 
@@ -2802,10 +2802,10 @@ item []:
             text = "{s}" 
         intervals [9]:
             xmin = 296.9310608664501 
-            xmax = 316.64884176262734 
+            xmax = 316.6666908691807 
             text = "" 
         intervals [10]:
-            xmin = 316.64884176262734 
+            xmin = 316.6666908691807 
             xmax = 316.8179394691194 
             text = "{a}" 
         intervals [11]:
@@ -2914,10 +2914,10 @@ item []:
             text = "" 
         intervals [37]:
             xmin = 558.1065 
-            xmax = 558.2344756232427 
+            xmax = 558.1993051836581 
             text = "{a}" 
         intervals [38]:
-            xmin = 558.2344756232427 
+            xmin = 558.1993051836581 
             xmax = 591.6745 
             text = "" 
         intervals [39]:
@@ -2970,10 +2970,10 @@ item []:
             text = "" 
         intervals [51]:
             xmin = 653.3785 
-            xmax = 653.6360158846593 
+            xmax = 653.6200683559808 
             text = "{s}" 
         intervals [52]:
-            xmin = 653.6360158846593 
+            xmin = 653.6200683559808 
             xmax = 673.7116187835619 
             text = "" 
         intervals [53]:
@@ -3066,18 +3066,18 @@ item []:
             text = "" 
         intervals [75]:
             xmin = 823.1305 
-            xmax = 823.298211726003 
+            xmax = 823.2486642494966 
             text = "{a}" 
         intervals [76]:
-            xmin = 823.298211726003 
+            xmin = 823.2486642494966 
             xmax = 831.4185 
             text = "" 
         intervals [77]:
             xmin = 831.4185 
-            xmax = 831.5658315487308 
+            xmax = 831.5324286888282 
             text = "{a}" 
         intervals [78]:
-            xmin = 831.5658315487308 
+            xmin = 831.5324286888282 
             xmax = 838.6185 
             text = "" 
         intervals [79]:
