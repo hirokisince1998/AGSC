@@ -10739,7 +10739,7 @@ item []:
         name = "affectburst" 
         xmin = 0 
         xmax = 3147.54 
-        intervals: size = 213 
+        intervals: size = 275 
         intervals [1]:
             xmin = 0 
             xmax = 70.61799999999998 
@@ -10774,821 +10774,1069 @@ item []:
             text = "{a}" 
         intervals [9]:
             xmin = 111.67255965960585 
-            xmax = 201.92999999999998 
+            xmax = 186.84199999999996 
             text = "" 
         intervals [10]:
+            xmin = 186.84199999999996 
+            xmax = 186.99136724653422 
+            text = "{a}" 
+        intervals [11]:
+            xmin = 186.99136724653422 
+            xmax = 201.92999999999998 
+            text = "" 
+        intervals [12]:
             xmin = 201.92999999999998 
             xmax = 202.4052157567419 
             text = "{s}" 
-        intervals [11]:
+        intervals [13]:
             xmin = 202.4052157567419 
             xmax = 235.09437675751798 
             text = "" 
-        intervals [12]:
+        intervals [14]:
             xmin = 235.09437675751798 
             xmax = 235.8764538520224 
             text = "{s}" 
-        intervals [13]:
+        intervals [15]:
             xmin = 235.8764538520224 
             xmax = 260.34854875557994 
             text = "" 
-        intervals [14]:
+        intervals [16]:
             xmin = 260.34854875557994 
             xmax = 260.5176465057431 
             text = "{a}" 
-        intervals [15]:
+        intervals [17]:
             xmin = 260.5176465057431 
             xmax = 283.20527384067617 
             text = "" 
-        intervals [16]:
+        intervals [18]:
             xmin = 283.20527384067617 
             xmax = 283.53164435471604 
             text = "{s}" 
-        intervals [17]:
+        intervals [19]:
             xmin = 283.53164435471604 
             xmax = 314.4798759196131 
             text = "" 
-        intervals [18]:
+        intervals [20]:
             xmin = 314.4798759196131 
             xmax = 314.61304924544044 
             text = "{a}" 
-        intervals [19]:
+        intervals [21]:
             xmin = 314.61304924544044 
             xmax = 322.146 
             text = "" 
-        intervals [20]:
+        intervals [22]:
             xmin = 322.146 
             xmax = 322.230132727002 
             text = "{a}" 
-        intervals [21]:
+        intervals [23]:
             xmin = 322.230132727002 
             xmax = 324.762 
             text = "" 
-        intervals [22]:
+        intervals [24]:
             xmin = 324.762 
             xmax = 325.69689558883584 
             text = "{a}" 
-        intervals [23]:
+        intervals [25]:
             xmin = 325.69689558883584 
+            xmax = 329.33792801982605 
+            text = "" 
+        intervals [26]:
+            xmin = 329.33792801982605 
+            xmax = 329.8170382114198 
+            text = "{shout}" 
+        intervals [27]:
+            xmin = 329.8170382114198 
+            xmax = 329.87340411631317 
+            text = "" 
+        intervals [28]:
+            xmin = 329.87340411631317 
+            xmax = 330.2045538075618 
+            text = "{shout}" 
+        intervals [29]:
+            xmin = 330.2045538075618 
+            xmax = 330.2609197124552 
+            text = "" 
+        intervals [30]:
+            xmin = 330.2609197124552 
+            xmax = 330.6907097372672 
+            text = "{shout}" 
+        intervals [31]:
+            xmin = 330.6907097372672 
+            xmax = 331.09231680963256 
+            text = "" 
+        intervals [32]:
+            xmin = 331.09231680963256 
+            xmax = 332.21963490750016 
+            text = "{shout}" 
+        intervals [33]:
+            xmin = 332.21963490750016 
+            xmax = 332.25486359805853 
+            text = "" 
+        intervals [34]:
+            xmin = 332.25486359805853 
+            xmax = 332.7269280515406 
+            text = "{shout}" 
+        intervals [35]:
+            xmin = 332.7269280515406 
+            xmax = 333.73238885512217 
+            text = "" 
+        intervals [36]:
+            xmin = 333.73238885512217 
+            xmax = 334.0761960165305 
+            text = "{s}" 
+        intervals [37]:
+            xmin = 334.0761960165305 
             xmax = 349.73 
             text = "" 
-        intervals [24]:
+        intervals [38]:
             xmin = 349.73 
             xmax = 350.29 
             text = "{s}" 
-        intervals [25]:
+        intervals [39]:
             xmin = 350.29 
             xmax = 362.042 
             text = "" 
-        intervals [26]:
+        intervals [40]:
             xmin = 362.042 
             xmax = 362.23997407715564 
             text = "{a}" 
-        intervals [27]:
+        intervals [41]:
             xmin = 362.23997407715564 
+            xmax = 383.818 
+            text = "" 
+        intervals [42]:
+            xmin = 383.818 
+            xmax = 384.55732374067344 
+            text = "{shout}" 
+        intervals [43]:
+            xmin = 384.55732374067344 
             xmax = 389.026 
             text = "" 
-        intervals [28]:
+        intervals [44]:
             xmin = 389.026 
             xmax = 389.40961215241714 
             text = "{s}" 
-        intervals [29]:
+        intervals [45]:
             xmin = 389.40961215241714 
-            xmax = 418.03316782122994 
-            text = "" 
-        intervals [30]:
-            xmin = 418.03316782122994 
-            xmax = 418.2304484883568 
-            text = "{a}" 
-        intervals [31]:
-            xmin = 418.2304484883568 
             xmax = 432.47453468781936 
             text = "" 
-        intervals [32]:
+        intervals [46]:
             xmin = 432.47453468781936 
             xmax = 433.4169766232148 
             text = "{s}" 
-        intervals [33]:
+        intervals [47]:
             xmin = 433.4169766232148 
             xmax = 441.1472660939251 
             text = "" 
-        intervals [34]:
+        intervals [48]:
             xmin = 441.1472660939251 
             xmax = 441.26244090076966 
             text = "{a}" 
-        intervals [35]:
+        intervals [49]:
             xmin = 441.26244090076966 
             xmax = 455.202 
             text = "" 
-        intervals [36]:
+        intervals [50]:
             xmin = 455.202 
             xmax = 455.37378882281183 
             text = "{a}" 
-        intervals [37]:
+        intervals [51]:
             xmin = 455.37378882281183 
             xmax = 456.3468510750759 
             text = "" 
-        intervals [38]:
+        intervals [52]:
             xmin = 456.3468510750759 
             xmax = 456.8990471037789 
             text = "{s}" 
-        intervals [39]:
+        intervals [53]:
             xmin = 456.8990471037789 
             xmax = 469.85 
             text = "" 
-        intervals [40]:
+        intervals [54]:
             xmin = 469.85 
             xmax = 470.12170043764615 
             text = "{s}" 
-        intervals [41]:
+        intervals [55]:
             xmin = 470.12170043764615 
             xmax = 495.3632948995381 
             text = "" 
-        intervals [42]:
+        intervals [56]:
             xmin = 495.3632948995381 
             xmax = 495.53667734967513 
             text = "{a}" 
-        intervals [43]:
+        intervals [57]:
             xmin = 495.53667734967513 
             xmax = 521.626 
             text = "" 
-        intervals [44]:
+        intervals [58]:
             xmin = 521.626 
             xmax = 521.8328758324193 
             text = "{a}" 
-        intervals [45]:
+        intervals [59]:
             xmin = 521.8328758324193 
             xmax = 522.2051065276656 
-            text = "" 
-        intervals [46]:
+            text = "{shout}" 
+        intervals [60]:
             xmin = 522.2051065276656 
             xmax = 522.3527884766788 
-            text = "{a}" 
-        intervals [47]:
+            text = "{s}" 
+        intervals [61]:
             xmin = 522.3527884766788 
+            xmax = 523.5958969159223 
+            text = "{shout}" 
+        intervals [62]:
+            xmin = 523.5958969159223 
             xmax = 525.0688943017761 
             text = "" 
-        intervals [48]:
+        intervals [63]:
             xmin = 525.0688943017761 
             xmax = 525.2239010931761 
             text = "{a}" 
-        intervals [49]:
+        intervals [64]:
             xmin = 525.2239010931761 
+            xmax = 525.858 
+            text = "" 
+        intervals [65]:
+            xmin = 525.858 
+            xmax = 526.770410072681 
+            text = "{shout}" 
+        intervals [66]:
+            xmin = 526.770410072681 
+            xmax = 527.49 
+            text = "{s}" 
+        intervals [67]:
+            xmin = 527.49 
+            xmax = 541.0417327350913 
+            text = "" 
+        intervals [68]:
+            xmin = 541.0417327350913 
+            xmax = 541.4183439110178 
+            text = "{a}" 
+        intervals [69]:
+            xmin = 541.4183439110178 
             xmax = 567.034 
             text = "" 
-        intervals [50]:
+        intervals [70]:
             xmin = 567.034 
             xmax = 567.5151830800202 
             text = "{a}" 
-        intervals [51]:
+        intervals [71]:
             xmin = 567.5151830800202 
             xmax = 575.9900935717221 
             text = "" 
-        intervals [52]:
+        intervals [72]:
             xmin = 575.9900935717221 
             xmax = 576.6523953167944 
-            text = "{a}" 
-        intervals [53]:
+            text = "{s}" 
+        intervals [73]:
             xmin = 576.6523953167944 
             xmax = 647.562 
             text = "" 
-        intervals [54]:
+        intervals [74]:
             xmin = 647.562 
             xmax = 648.074 
             text = "{s}" 
-        intervals [55]:
+        intervals [75]:
             xmin = 648.074 
             xmax = 665.714 
             text = "" 
-        intervals [56]:
+        intervals [76]:
             xmin = 665.714 
             xmax = 666.3690340205211 
             text = "{a}" 
-        intervals [57]:
+        intervals [77]:
             xmin = 666.3690340205211 
+            xmax = 694.258 
+            text = "" 
+        intervals [78]:
+            xmin = 694.258 
+            xmax = 695.5531822665527 
+            text = "{shout}" 
+        intervals [79]:
+            xmin = 695.5531822665527 
             xmax = 697.434393552873 
             text = "" 
-        intervals [58]:
+        intervals [80]:
             xmin = 697.434393552873 
             xmax = 697.5286879361662 
             text = "{a}" 
-        intervals [59]:
+        intervals [81]:
             xmin = 697.5286879361662 
             xmax = 711.642 
             text = "" 
-        intervals [60]:
+        intervals [82]:
             xmin = 711.642 
             xmax = 712.5817215399186 
             text = "{a}" 
-        intervals [61]:
+        intervals [83]:
             xmin = 712.5817215399186 
             xmax = 726.6943341614331 
             text = "" 
-        intervals [62]:
+        intervals [84]:
             xmin = 726.6943341614331 
             xmax = 727.480493799713 
             text = "{s}" 
-        intervals [63]:
+        intervals [85]:
             xmin = 727.480493799713 
+            xmax = 729.2003755211823 
+            text = "" 
+        intervals [86]:
+            xmin = 729.2003755211823 
+            xmax = 730.3045322565051 
+            text = "{shout}" 
+        intervals [87]:
+            xmin = 730.3045322565051 
             xmax = 730.4172640189812 
             text = "" 
-        intervals [64]:
+        intervals [88]:
             xmin = 730.4172640189812 
             xmax = 731.093654593838 
             text = "{s}" 
-        intervals [65]:
+        intervals [89]:
             xmin = 731.093654593838 
+            xmax = 731.3966212054926 
+            text = "" 
+        intervals [90]:
+            xmin = 731.3966212054926 
+            xmax = 731.7277707577662 
+            text = "{shout}" 
+        intervals [91]:
+            xmin = 731.7277707577662 
             xmax = 731.9039141366351 
             text = "" 
-        intervals [66]:
+        intervals [92]:
             xmin = 731.9039141366351 
             xmax = 733.0100945559321 
             text = "{s}" 
-        intervals [67]:
+        intervals [93]:
             xmin = 733.0100945559321 
             xmax = 762.8462693783249 
             text = "" 
-        intervals [68]:
+        intervals [94]:
             xmin = 762.8462693783249 
             xmax = 763.0115093404322 
             text = "{a}" 
-        intervals [69]:
+        intervals [95]:
             xmin = 763.0115093404322 
             xmax = 788.7620000000001 
             text = "" 
-        intervals [70]:
+        intervals [96]:
             xmin = 788.7620000000001 
             xmax = 788.937941282037 
             text = "{a}" 
-        intervals [71]:
+        intervals [97]:
             xmin = 788.937941282037 
             xmax = 817.5844718489266 
             text = "" 
-        intervals [72]:
+        intervals [98]:
             xmin = 817.5844718489266 
             xmax = 818.0059843702124 
             text = "{s}" 
-        intervals [73]:
+        intervals [99]:
             xmin = 818.0059843702124 
             xmax = 824.114 
             text = "" 
-        intervals [74]:
+        intervals [100]:
             xmin = 824.114 
             xmax = 824.3338819858443 
             text = "{a}" 
-        intervals [75]:
+        intervals [101]:
             xmin = 824.3338819858443 
+            xmax = 850.7464150344939 
+            text = "" 
+        intervals [102]:
+            xmin = 850.7464150344939 
+            xmax = 851.0071082745756 
+            text = "{a}" 
+        intervals [103]:
+            xmin = 851.0071082745756 
             xmax = 884.65 
             text = "" 
-        intervals [76]:
+        intervals [104]:
             xmin = 884.65 
             xmax = 885.0432084172719 
             text = "{a}" 
-        intervals [77]:
+        intervals [105]:
             xmin = 885.0432084172719 
             xmax = 919.69 
             text = "" 
-        intervals [78]:
+        intervals [106]:
             xmin = 919.69 
             xmax = 920.3987460650865 
             text = "{a}" 
-        intervals [79]:
+        intervals [107]:
             xmin = 920.3987460650865 
             xmax = 945.7527741893318 
             text = "" 
-        intervals [80]:
+        intervals [108]:
             xmin = 945.7527741893318 
             xmax = 945.893535576184 
             text = "{a}" 
-        intervals [81]:
+        intervals [109]:
             xmin = 945.893535576184 
             xmax = 946.0275578603673 
             text = "" 
-        intervals [82]:
+        intervals [110]:
             xmin = 946.0275578603673 
             xmax = 946.4996221157361 
             text = "{s}" 
-        intervals [83]:
+        intervals [111]:
             xmin = 946.4996221157361 
             xmax = 949.4236022049606 
             text = "" 
-        intervals [84]:
+        intervals [112]:
             xmin = 949.4236022049606 
             xmax = 950.1502149668935 
-            text = "{s}" 
-        intervals [85]:
+            text = "{a}" 
+        intervals [113]:
             xmin = 950.1502149668935 
             xmax = 964.0340592453052 
             text = "" 
-        intervals [86]:
+        intervals [114]:
             xmin = 964.0340592453052 
             xmax = 964.6583576315793 
             text = "{s}" 
-        intervals [87]:
+        intervals [115]:
             xmin = 964.6583576315793 
             xmax = 988.698 
             text = "" 
-        intervals [88]:
+        intervals [116]:
             xmin = 988.698 
             xmax = 989.458 
             text = "{s}" 
-        intervals [89]:
+        intervals [117]:
             xmin = 989.458 
             xmax = 992.218 
             text = "" 
-        intervals [90]:
+        intervals [118]:
             xmin = 992.218 
             xmax = 992.5999861745967 
             text = "{s}" 
-        intervals [91]:
+        intervals [119]:
             xmin = 992.5999861745967 
+            xmax = 998.642 
+            text = "" 
+        intervals [120]:
+            xmin = 998.642 
+            xmax = 999.7088540375643 
+            text = "{shout}" 
+        intervals [121]:
+            xmin = 999.7088540375643 
             xmax = 1004.2597854351744 
             text = "" 
-        intervals [92]:
+        intervals [122]:
             xmin = 1004.2597854351744 
             xmax = 1005.1264108592096 
             text = "{s}" 
-        intervals [93]:
+        intervals [123]:
             xmin = 1005.1264108592096 
             xmax = 1026.0803938971371 
             text = "" 
-        intervals [94]:
+        intervals [124]:
             xmin = 1026.0803938971371 
             xmax = 1026.2283547700536 
             text = "{a}" 
-        intervals [95]:
+        intervals [125]:
             xmin = 1026.2283547700536 
             xmax = 1049.9191530805967 
             text = "" 
-        intervals [96]:
+        intervals [126]:
             xmin = 1049.9191530805967 
             xmax = 1050.197191876849 
             text = "{s}" 
-        intervals [97]:
+        intervals [127]:
             xmin = 1050.197191876849 
+            xmax = 1051.2579999999998 
+            text = "{shout}" 
+        intervals [128]:
+            xmin = 1051.2579999999998 
             xmax = 1058.298 
             text = "" 
-        intervals [98]:
+        intervals [129]:
             xmin = 1058.298 
             xmax = 1058.6225294844278 
             text = "{a}" 
-        intervals [99]:
+        intervals [130]:
             xmin = 1058.6225294844278 
             xmax = 1110.042 
             text = "" 
-        intervals [100]:
+        intervals [131]:
             xmin = 1110.042 
             xmax = 1110.1342450214001 
             text = "{a}" 
-        intervals [101]:
+        intervals [132]:
             xmin = 1110.1342450214001 
             xmax = 1131.0739999999998 
             text = "" 
-        intervals [102]:
+        intervals [133]:
             xmin = 1131.0739999999998 
             xmax = 1131.9258733414883 
             text = "{a}" 
-        intervals [103]:
+        intervals [134]:
             xmin = 1131.9258733414883 
+            xmax = 1176.7859999999998 
+            text = "" 
+        intervals [135]:
+            xmin = 1176.7859999999998 
+            xmax = 1178.357109516091 
+            text = "{shout}" 
+        intervals [136]:
+            xmin = 1178.357109516091 
             xmax = 1195.8105026040434 
             text = "" 
-        intervals [104]:
+        intervals [137]:
             xmin = 1195.8105026040434 
             xmax = 1195.997959278548 
             text = "{a}" 
-        intervals [105]:
+        intervals [138]:
             xmin = 1195.997959278548 
-            xmax = 1211.403634809829 
+            xmax = 1209.2264962512022 
             text = "" 
-        intervals [106]:
-            xmin = 1211.403634809829 
-            xmax = 1212.18571370953 
-            text = "{s}" 
-        intervals [107]:
-            xmin = 1212.18571370953 
-            xmax = 1214.6367842212135 
-            text = "" 
-        intervals [108]:
-            xmin = 1214.6367842212135 
-            xmax = 1215.3202225389703 
-            text = "{s}" 
-        intervals [109]:
-            xmin = 1215.3202225389703 
+        intervals [139]:
+            xmin = 1209.2264962512022 
+            xmax = 1210.3369574543033 
+            text = "{shout}" 
+        intervals [140]:
+            xmin = 1210.3369574543033 
             xmax = 1232.346 
             text = "" 
-        intervals [110]:
+        intervals [141]:
             xmin = 1232.346 
             xmax = 1232.584538347639 
             text = "{a}" 
-        intervals [111]:
+        intervals [142]:
             xmin = 1232.584538347639 
-            xmax = 1266.154 
-            text = "" 
-        intervals [112]:
-            xmin = 1266.154 
-            xmax = 1266.5294623271625 
-            text = "{a}" 
-        intervals [113]:
-            xmin = 1266.5294623271625 
             xmax = 1297.426 
             text = "" 
-        intervals [114]:
+        intervals [143]:
             xmin = 1297.426 
             xmax = 1297.5986421486564 
             text = "{a}" 
-        intervals [115]:
+        intervals [144]:
             xmin = 1297.5986421486564 
             xmax = 1300.3979192087095 
             text = "" 
-        intervals [116]:
+        intervals [145]:
             xmin = 1300.3979192087095 
             xmax = 1300.6230295448552 
             text = "{a}" 
-        intervals [117]:
+        intervals [146]:
             xmin = 1300.6230295448552 
+            xmax = 1368.2897575269028 
+            text = "" 
+        intervals [147]:
+            xmin = 1368.2897575269028 
+            xmax = 1369.0640241096844 
+            text = "{shout}" 
+        intervals [148]:
+            xmin = 1369.0640241096844 
             xmax = 1409.9640144939674 
             text = "" 
-        intervals [118]:
+        intervals [149]:
             xmin = 1409.9640144939674 
             xmax = 1410.1207931974484 
             text = "{a}" 
-        intervals [119]:
+        intervals [150]:
             xmin = 1410.1207931974484 
             xmax = 1459.960582743374 
             text = "" 
-        intervals [120]:
+        intervals [151]:
             xmin = 1459.960582743374 
             xmax = 1460.4597348036073 
             text = "{a}" 
-        intervals [121]:
+        intervals [152]:
             xmin = 1460.4597348036073 
             xmax = 1464.778 
             text = "" 
-        intervals [122]:
+        intervals [153]:
             xmin = 1464.778 
             xmax = 1465.464297493473 
             text = "{s}" 
-        intervals [123]:
+        intervals [154]:
             xmin = 1465.464297493473 
             xmax = 1477.3279321823088 
             text = "" 
-        intervals [124]:
+        intervals [155]:
             xmin = 1477.3279321823088 
             xmax = 1477.5163362687474 
             text = "{a}" 
-        intervals [125]:
+        intervals [156]:
             xmin = 1477.5163362687474 
+            xmax = 1505.514 
+            text = "" 
+        intervals [157]:
+            xmin = 1505.514 
+            xmax = 1506.3870264234622 
+            text = "{shout}" 
+        intervals [158]:
+            xmin = 1506.3870264234622 
+            xmax = 1508.9840342495656 
+            text = "{shout}" 
+        intervals [159]:
+            xmin = 1508.9840342495656 
+            xmax = 1516.974495332619 
+            text = "" 
+        intervals [160]:
+            xmin = 1516.974495332619 
+            xmax = 1517.6074001716142 
+            text = "{shout}" 
+        intervals [161]:
+            xmin = 1517.6074001716142 
             xmax = 1557.85 
             text = "" 
-        intervals [126]:
+        intervals [162]:
             xmin = 1557.85 
             xmax = 1558.4897995476974 
             text = "{a}" 
-        intervals [127]:
+        intervals [163]:
             xmin = 1558.4897995476974 
             xmax = 1621.17334913902 
             text = "" 
-        intervals [128]:
+        intervals [164]:
             xmin = 1621.17334913902 
             xmax = 1621.3467291159618 
             text = "{a}" 
-        intervals [129]:
+        intervals [165]:
             xmin = 1621.3467291159618 
-            xmax = 1641.479503748074 
-            text = "" 
-        intervals [130]:
-            xmin = 1641.479503748074 
-            xmax = 1642.665958110383 
-            text = "{a}" 
-        intervals [131]:
-            xmin = 1642.665958110383 
             xmax = 1670.33 
             text = "" 
-        intervals [132]:
+        intervals [166]:
             xmin = 1670.33 
             xmax = 1670.8519370457618 
             text = "{a}" 
-        intervals [133]:
+        intervals [167]:
             xmin = 1670.8519370457618 
             xmax = 1715.3400503801317 
             text = "" 
-        intervals [134]:
+        intervals [168]:
             xmin = 1715.3400503801317 
             xmax = 1715.4401028021732 
             text = "{a}" 
-        intervals [135]:
+        intervals [169]:
             xmin = 1715.4401028021732 
             xmax = 1809.2179999999998 
             text = "" 
-        intervals [136]:
+        intervals [170]:
             xmin = 1809.2179999999998 
             xmax = 1809.3629289302664 
             text = "{a}" 
-        intervals [137]:
+        intervals [171]:
             xmin = 1809.3629289302664 
+            xmax = 1820.4349748889051 
+            text = "" 
+        intervals [172]:
+            xmin = 1820.4349748889051 
+            xmax = 1820.7379999999998 
+            text = "{shout}" 
+        intervals [173]:
+            xmin = 1820.7379999999998 
             xmax = 1821.442 
             text = "" 
-        intervals [138]:
+        intervals [174]:
             xmin = 1821.442 
             xmax = 1822.063504459671 
             text = "{a}" 
-        intervals [139]:
+        intervals [175]:
             xmin = 1822.063504459671 
             xmax = 1867.3371158341831 
             text = "" 
-        intervals [140]:
+        intervals [176]:
             xmin = 1867.3371158341831 
             xmax = 1867.5872491846656 
             text = "{a}" 
-        intervals [141]:
+        intervals [177]:
             xmin = 1867.5872491846656 
+            xmax = 1880.6605524019267 
+            text = "" 
+        intervals [178]:
+            xmin = 1880.6605524019267 
+            xmax = 1881.2946684327935 
+            text = "{shout}" 
+        intervals [179]:
+            xmin = 1881.2946684327935 
             xmax = 1881.5201319104353 
             text = "" 
-        intervals [142]:
+        intervals [180]:
             xmin = 1881.5201319104353 
             xmax = 1882.242 
             text = "{s}" 
-        intervals [143]:
+        intervals [181]:
             xmin = 1882.242 
+            xmax = 1882.962 
+            text = "" 
+        intervals [182]:
+            xmin = 1882.962 
+            xmax = 1884.4557179626497 
+            text = "{shout}" 
+        intervals [183]:
+            xmin = 1884.4557179626497 
+            xmax = 1892.6019999999999 
+            text = "" 
+        intervals [184]:
+            xmin = 1892.6019999999999 
+            xmax = 1892.883089075729 
+            text = "{s}" 
+        intervals [185]:
+            xmin = 1892.883089075729 
             xmax = 1929.714 
             text = "" 
-        intervals [144]:
+        intervals [186]:
             xmin = 1929.714 
             xmax = 1930.070350656198 
             text = "{s}" 
-        intervals [145]:
+        intervals [187]:
             xmin = 1930.070350656198 
             xmax = 1946.434 
             text = "" 
-        intervals [146]:
+        intervals [188]:
             xmin = 1946.434 
             xmax = 1947.1446365164677 
             text = "{a}" 
-        intervals [147]:
+        intervals [189]:
             xmin = 1947.1446365164677 
             xmax = 1988.8878326428555 
             text = "" 
-        intervals [148]:
+        intervals [190]:
             xmin = 1988.8878326428555 
             xmax = 1989.0269071671228 
             text = "{a}" 
-        intervals [149]:
+        intervals [191]:
             xmin = 1989.0269071671228 
             xmax = 1991.2672565406 
             text = "" 
-        intervals [150]:
+        intervals [192]:
             xmin = 1991.2672565406 
             xmax = 1991.8210315539063 
             text = "{s}" 
-        intervals [151]:
+        intervals [193]:
             xmin = 1991.8210315539063 
             xmax = 2073.336833458399 
             text = "" 
-        intervals [152]:
+        intervals [194]:
             xmin = 2073.336833458399 
             xmax = 2073.518140921213 
             text = "{a}" 
-        intervals [153]:
+        intervals [195]:
             xmin = 2073.518140921213 
+            xmax = 2085.681129163714 
+            text = "" 
+        intervals [196]:
+            xmin = 2085.681129163714 
+            xmax = 2086.3536107245613 
+            text = "{a}" 
+        intervals [197]:
+            xmin = 2086.3536107245613 
+            xmax = 2087.1889161704426 
+            text = "" 
+        intervals [198]:
+            xmin = 2087.1889161704426 
+            xmax = 2087.2868031318185 
+            text = "{a}" 
+        intervals [199]:
+            xmin = 2087.2868031318185 
             xmax = 2090.61 
             text = "" 
-        intervals [154]:
+        intervals [200]:
             xmin = 2090.61 
             xmax = 2090.8488755803937 
             text = "{s}" 
-        intervals [155]:
+        intervals [201]:
             xmin = 2090.8488755803937 
             xmax = 2158.786 
             text = "" 
-        intervals [156]:
+        intervals [202]:
             xmin = 2158.786 
             xmax = 2159.250806881453 
             text = "{s}" 
-        intervals [157]:
+        intervals [203]:
             xmin = 2159.250806881453 
             xmax = 2166.3940000000002 
             text = "" 
-        intervals [158]:
+        intervals [204]:
             xmin = 2166.3940000000002 
             xmax = 2167.3165057087867 
             text = "{a}" 
-        intervals [159]:
+        intervals [205]:
             xmin = 2167.3165057087867 
             xmax = 2209.4176611183375 
             text = "" 
-        intervals [160]:
+        intervals [206]:
             xmin = 2209.4176611183375 
             xmax = 2209.5277350184724 
             text = "{a}" 
-        intervals [161]:
+        intervals [207]:
             xmin = 2209.5277350184724 
             xmax = 2217.1299023720767 
             text = "" 
-        intervals [162]:
+        intervals [208]:
             xmin = 2217.1299023720767 
             xmax = 2217.5094555457918 
             text = "{a}" 
-        intervals [163]:
+        intervals [209]:
             xmin = 2217.5094555457918 
             xmax = 2232.7380000000003 
             text = "" 
-        intervals [164]:
+        intervals [210]:
             xmin = 2232.7380000000003 
             xmax = 2233.128526117714 
             text = "{s}" 
-        intervals [165]:
+        intervals [211]:
             xmin = 2233.128526117714 
             xmax = 2282.4945734332946 
             text = "" 
-        intervals [166]:
+        intervals [212]:
             xmin = 2282.4945734332946 
             xmax = 2282.705945709706 
             text = "{a}" 
-        intervals [167]:
+        intervals [213]:
             xmin = 2282.705945709706 
             xmax = 2301.994 
             text = "" 
-        intervals [168]:
+        intervals [214]:
             xmin = 2301.994 
             xmax = 2302.608656330362 
             text = "{a}" 
-        intervals [169]:
+        intervals [215]:
             xmin = 2302.608656330362 
             xmax = 2372.802 
             text = "" 
-        intervals [170]:
+        intervals [216]:
             xmin = 2372.802 
             xmax = 2373.0918797370155 
             text = "{a}" 
-        intervals [171]:
+        intervals [217]:
             xmin = 2373.0918797370155 
             xmax = 2380.850147781273 
             text = "" 
-        intervals [172]:
+        intervals [218]:
             xmin = 2380.850147781273 
             xmax = 2380.9858691874447 
             text = "{a}" 
-        intervals [173]:
+        intervals [219]:
             xmin = 2380.9858691874447 
             xmax = 2384.070918256993 
             text = "" 
-        intervals [174]:
+        intervals [220]:
             xmin = 2384.070918256993 
             xmax = 2384.2920074380677 
             text = "{a}" 
-        intervals [175]:
+        intervals [221]:
             xmin = 2384.2920074380677 
+            xmax = 2385.3420346580892 
+            text = "" 
+        intervals [222]:
+            xmin = 2385.3420346580892 
+            xmax = 2386.082666029031 
+            text = "{a}" 
+        intervals [223]:
+            xmin = 2386.082666029031 
             xmax = 2398.360836125496 
             text = "" 
-        intervals [176]:
+        intervals [224]:
             xmin = 2398.360836125496 
             xmax = 2398.465264477306 
             text = "{a}" 
-        intervals [177]:
+        intervals [225]:
             xmin = 2398.465264477306 
+            xmax = 2447.6714309387585 
+            text = "" 
+        intervals [226]:
+            xmin = 2447.6714309387585 
+            xmax = 2447.8650870058927 
+            text = "{a}" 
+        intervals [227]:
+            xmin = 2447.8650870058927 
+            xmax = 2448.694851861857 
+            text = "" 
+        intervals [228]:
+            xmin = 2448.694851861857 
+            xmax = 2449.327180437314 
+            text = "{a}" 
+        intervals [229]:
+            xmin = 2449.327180437314 
             xmax = 2500.5552348294273 
             text = "" 
-        intervals [178]:
+        intervals [230]:
             xmin = 2500.5552348294273 
             xmax = 2500.7828075013053 
             text = "{s}" 
-        intervals [179]:
+        intervals [231]:
             xmin = 2500.7828075013053 
             xmax = 2506.6980000000003 
             text = "" 
-        intervals [180]:
+        intervals [232]:
             xmin = 2506.6980000000003 
             xmax = 2507.9477502525974 
             text = "{s}" 
-        intervals [181]:
+        intervals [233]:
             xmin = 2507.9477502525974 
             xmax = 2527.599390538137 
             text = "" 
-        intervals [182]:
+        intervals [234]:
             xmin = 2527.599390538137 
             xmax = 2527.698553548664 
             text = "{a}" 
-        intervals [183]:
+        intervals [235]:
             xmin = 2527.698553548664 
             xmax = 2567.9177484460633 
             text = "" 
-        intervals [184]:
+        intervals [236]:
             xmin = 2567.9177484460633 
             xmax = 2568.1022846657233 
             text = "{a}" 
-        intervals [185]:
+        intervals [237]:
             xmin = 2568.1022846657233 
+            xmax = 2583.331835959062 
+            text = "" 
+        intervals [238]:
+            xmin = 2583.331835959062 
+            xmax = 2583.5559765322955 
+            text = "{a}" 
+        intervals [239]:
+            xmin = 2583.5559765322955 
             xmax = 2611.0448769189056 
             text = "" 
-        intervals [186]:
+        intervals [240]:
             xmin = 2611.0448769189056 
             xmax = 2612.5593481122078 
             text = "{s}" 
-        intervals [187]:
+        intervals [241]:
             xmin = 2612.5593481122078 
+            xmax = 2684.030172300458 
+            text = "" 
+        intervals [242]:
+            xmin = 2684.030172300458 
+            xmax = 2684.594 
+            text = "{shout}" 
+        intervals [243]:
+            xmin = 2684.594 
             xmax = 2685.3940000000002 
             text = "" 
-        intervals [188]:
+        intervals [244]:
             xmin = 2685.3940000000002 
             xmax = 2685.9497931240426 
             text = "{s}" 
-        intervals [189]:
+        intervals [245]:
             xmin = 2685.9497931240426 
             xmax = 2727.634 
             text = "" 
-        intervals [190]:
+        intervals [246]:
             xmin = 2727.634 
             xmax = 2728.19067241891 
-            text = "{s}" 
-        intervals [191]:
+            text = "{a}" 
+        intervals [247]:
             xmin = 2728.19067241891 
             xmax = 2777.9700000000003 
             text = "" 
-        intervals [192]:
+        intervals [248]:
             xmin = 2777.9700000000003 
             xmax = 2778.164368042753 
             text = "{a}" 
-        intervals [193]:
+        intervals [249]:
             xmin = 2778.164368042753 
             xmax = 2785.0467334886844 
             text = "" 
-        intervals [194]:
+        intervals [250]:
             xmin = 2785.0467334886844 
             xmax = 2785.156487754315 
             text = "{a}" 
-        intervals [195]:
+        intervals [251]:
             xmin = 2785.156487754315 
             xmax = 2786.2222289445717 
             text = "" 
-        intervals [196]:
+        intervals [252]:
             xmin = 2786.2222289445717 
             xmax = 2786.4770192257347 
             text = "{a}" 
-        intervals [197]:
+        intervals [253]:
             xmin = 2786.4770192257347 
             xmax = 2796.7540000000004 
             text = "" 
-        intervals [198]:
+        intervals [254]:
             xmin = 2796.7540000000004 
             xmax = 2796.866873046318 
             text = "{a}" 
-        intervals [199]:
+        intervals [255]:
             xmin = 2796.866873046318 
             xmax = 2806.3938276265644 
             text = "" 
-        intervals [200]:
+        intervals [256]:
             xmin = 2806.3938276265644 
             xmax = 2806.479410439305 
             text = "{a}" 
-        intervals [201]:
+        intervals [257]:
             xmin = 2806.479410439305 
             xmax = 2810.7692337482795 
             text = "" 
-        intervals [202]:
+        intervals [258]:
             xmin = 2810.7692337482795 
             xmax = 2810.9091952157773 
             text = "{a}" 
-        intervals [203]:
+        intervals [259]:
             xmin = 2810.9091952157773 
+            xmax = 2864.8794629089393 
+            text = "" 
+        intervals [260]:
+            xmin = 2864.8794629089393 
+            xmax = 2865.3992325599065 
+            text = "{a}" 
+        intervals [261]:
+            xmin = 2865.3992325599065 
+            xmax = 2870.7780000000002 
+            text = "" 
+        intervals [262]:
+            xmin = 2870.7780000000002 
+            xmax = 2872.749343866299 
+            text = "{shout}" 
+        intervals [263]:
+            xmin = 2872.749343866299 
+            xmax = 2876.27725619955 
+            text = "" 
+        intervals [264]:
+            xmin = 2876.27725619955 
+            xmax = 2877.7082180791704 
+            text = "{shout}" 
+        intervals [265]:
+            xmin = 2877.7082180791704 
             xmax = 2924.596534383726 
             text = "" 
-        intervals [204]:
+        intervals [266]:
             xmin = 2924.596534383726 
             xmax = 2924.872301393359 
             text = "{a}" 
-        intervals [205]:
+        intervals [267]:
             xmin = 2924.872301393359 
             xmax = 2928.5906454201863 
             text = "" 
-        intervals [206]:
+        intervals [268]:
             xmin = 2928.5906454201863 
             xmax = 2928.787926211504 
             text = "{a}" 
-        intervals [207]:
+        intervals [269]:
             xmin = 2928.787926211504 
             xmax = 2981.3700000000003 
             text = "" 
-        intervals [208]:
+        intervals [270]:
             xmin = 2981.3700000000003 
             xmax = 2981.9761627558273 
             text = "{a}" 
-        intervals [209]:
+        intervals [271]:
             xmin = 2981.9761627558273 
             xmax = 3008.2189654158774 
             text = "" 
-        intervals [210]:
+        intervals [272]:
             xmin = 3008.2189654158774 
             xmax = 3008.95172264077 
             text = "{a}" 
-        intervals [211]:
+        intervals [273]:
             xmin = 3008.95172264077 
             xmax = 3024.346 
             text = "" 
-        intervals [212]:
+        intervals [274]:
             xmin = 3024.346 
             xmax = 3024.4875386392123 
             text = "{a}" 
-        intervals [213]:
+        intervals [275]:
             xmin = 3024.4875386392123 
             xmax = 3147.54 
             text = "" 

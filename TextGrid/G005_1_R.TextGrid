@@ -406,10 +406,10 @@ item []:
             text = "049" 
         intervals [99]:
             xmin = 441.68215422705737 
-            xmax = 461.74005797060556 
+            xmax = 461.61555350526936 
             text = "" 
         intervals [100]:
-            xmin = 461.74005797060556 
+            xmin = 461.61555350526936 
             xmax = 462.1705678527346 
             text = "050" 
         intervals [101]:
@@ -438,10 +438,10 @@ item []:
             text = "053" 
         intervals [107]:
             xmin = 470.32442152289235 
-            xmax = 471.2973586921423 
+            xmax = 471.2757038979427 
             text = "" 
         intervals [108]:
-            xmin = 471.2973586921423 
+            xmin = 471.2757038979427 
             xmax = 472.85420082168736 
             text = "054" 
         intervals [109]:
@@ -454,10 +454,10 @@ item []:
             text = "055" 
         intervals [111]:
             xmin = 481.0702242427867 
-            xmax = 485.6905153015114 
+            xmax = 485.65131855537385 
             text = "" 
         intervals [112]:
-            xmin = 485.6905153015114 
+            xmin = 485.65131855537385 
             xmax = 488.4452961552108 
             text = "056" 
         intervals [113]:
@@ -1158,14 +1158,14 @@ item []:
             text = "143" 
         intervals [287]:
             xmin = 1027.5192907914338 
-            xmax = 1029.9117429236323 
+            xmax = 1029.8784076113777 
             text = "" 
         intervals [288]:
-            xmin = 1029.9117429236323 
-            xmax = 1031.8794504504779 
+            xmin = 1029.8784076113777 
+            xmax = 1032.0279878896167 
             text = "144" 
         intervals [289]:
-            xmin = 1031.8794504504779 
+            xmin = 1032.0279878896167 
             xmax = 1033.5432726487647 
             text = "" 
         intervals [290]:
@@ -1338,10 +1338,10 @@ item []:
             text = "" 
         intervals [332]:
             xmin = 1165.989788569207 
-            xmax = 1166.4824387737742 
+            xmax = 1166.6590151312005 
             text = "166" 
         intervals [333]:
-            xmin = 1166.4824387737742 
+            xmin = 1166.6590151312005 
             xmax = 1168.978002777298 
             text = "" 
         intervals [334]:
@@ -1354,10 +1354,10 @@ item []:
             text = "" 
         intervals [336]:
             xmin = 1171.3747154107741 
-            xmax = 1171.7818292000518 
+            xmax = 1171.9426094512185 
             text = "168" 
         intervals [337]:
-            xmin = 1171.7818292000518 
+            xmin = 1171.9426094512185 
             xmax = 1172.5365174126644 
             text = "" 
         intervals [338]:
@@ -1490,10 +1490,10 @@ item []:
             text = "" 
         intervals [370]:
             xmin = 1279.6020321917133 
-            xmax = 1280.2556319657965 
+            xmax = 1280.4281541459345 
             text = "185" 
         intervals [371]:
-            xmin = 1280.2556319657965 
+            xmin = 1280.4281541459345 
             xmax = 1281.0008234779814 
             text = "" 
         intervals [372]:
@@ -1518,14 +1518,14 @@ item []:
             text = "188" 
         intervals [377]:
             xmin = 1315.4081057650508 
-            xmax = 1316.1414597113824 
+            xmax = 1315.9582230535173 
             text = "" 
         intervals [378]:
-            xmin = 1316.1414597113824 
-            xmax = 1316.7593889171812 
+            xmin = 1315.9582230535173 
+            xmax = 1317.0656886999566 
             text = "189" 
         intervals [379]:
-            xmin = 1316.7593889171812 
+            xmin = 1317.0656886999566 
             xmax = 1318.1079360980852 
             text = "" 
         intervals [380]:
@@ -1554,10 +1554,10 @@ item []:
             text = "" 
         intervals [386]:
             xmin = 1354.759068934285 
-            xmax = 1355.1819834490086 
+            xmax = 1355.386181373366 
             text = "193" 
         intervals [387]:
-            xmin = 1355.1819834490086 
+            xmin = 1355.386181373366 
             xmax = 1363.8611995147664 
             text = "" 
         intervals [388]:
@@ -1594,10 +1594,10 @@ item []:
             text = "" 
         intervals [396]:
             xmin = 1389.3210076889047 
-            xmax = 1391.7759157852925 
+            xmax = 1391.982261632042 
             text = "198" 
         intervals [397]:
-            xmin = 1391.7759157852925 
+            xmin = 1391.982261632042 
             xmax = 1399.5110151584668 
             text = "" 
         intervals [398]:
@@ -1650,10 +1650,10 @@ item []:
             text = "" 
         intervals [410]:
             xmin = 1442.0120995223713 
-            xmax = 1442.8050861603072 
+            xmax = 1443.3310265493228 
             text = "205" 
         intervals [411]:
-            xmin = 1442.8050861603072 
+            xmin = 1443.3310265493228 
             xmax = 1445.236090729573 
             text = "" 
         intervals [412]:
@@ -1718,10 +1718,10 @@ item []:
             text = "213" 
         intervals [427]:
             xmin = 1505.276998088468 
-            xmax = 1512.0840907134775 
+            xmax = 1511.9010245280144 
             text = "" 
         intervals [428]:
-            xmin = 1512.0840907134775 
+            xmin = 1511.9010245280144 
             xmax = 1513.797727597766 
             text = "214" 
         intervals [429]:
@@ -1794,10 +1794,10 @@ item []:
             text = "" 
         intervals [446]:
             xmin = 1588.0568402204708 
-            xmax = 1588.6192165530529 
+            xmax = 1588.7833661349255 
             text = "223" 
         intervals [447]:
-            xmin = 1588.6192165530529 
+            xmin = 1588.7833661349255 
             xmax = 1590.1917424906214 
             text = "" 
         intervals [448]:
@@ -1810,10 +1810,10 @@ item []:
             text = "" 
         intervals [450]:
             xmin = 1592.3220274689256 
-            xmax = 1592.6174686899342 
+            xmax = 1592.9935908531452 
             text = "225" 
         intervals [451]:
-            xmin = 1592.6174686899342 
+            xmin = 1592.9935908531452 
             xmax = 1599.52910509411 
             text = "" 
         intervals [452]:
@@ -2277,7 +2277,7 @@ item []:
         name = "word" 
         xmin = 0 
         xmax = 2080.815 
-        intervals: size = 797 
+        intervals: size = 773 
         intervals [1]:
             xmin = 0 
             xmax = 28.588168722831835 
@@ -2396,3073 +2396,2977 @@ item []:
             text = "" 
         intervals [30]:
             xmin = 75.69024396547334 
-            xmax = 75.9107030864243 
-            text = "えっ" 
-        intervals [31]:
-            xmin = 75.9107030864243 
             xmax = 76.53876241348449 
-            text = "どこにいる" 
-        intervals [32]:
+            text = "えっどこにいる" 
+        intervals [31]:
             xmin = 76.53876241348449 
             xmax = 84.42257185104708 
             text = "" 
-        intervals [33]:
+        intervals [32]:
             xmin = 84.42257185104708 
-            xmax = 84.52662778190735 
+            xmax = 84.54636714119478 
             text = "あっ" 
-        intervals [34]:
-            xmin = 84.52662778190735 
+        intervals [33]:
+            xmin = 84.54636714119478 
             xmax = 84.59560815762877 
             text = "" 
-        intervals [35]:
+        intervals [34]:
             xmin = 84.59560815762877 
             xmax = 85.23357131782146 
             text = "間違えた" 
-        intervals [36]:
+        intervals [35]:
             xmin = 85.23357131782146 
             xmax = 88.70115712423977 
             text = "" 
-        intervals [37]:
+        intervals [36]:
             xmin = 88.70115712423977 
             xmax = 89.50269051268094 
             text = "今動いてない" 
-        intervals [38]:
+        intervals [37]:
             xmin = 89.50269051268094 
             xmax = 92.61402359137193 
             text = "" 
-        intervals [39]:
+        intervals [38]:
             xmin = 92.61402359137193 
             xmax = 93.41524755832482 
             text = "{R xx}女の子" 
-        intervals [40]:
+        intervals [39]:
             xmin = 93.41524755832482 
             xmax = 93.63352807945934 
             text = "" 
-        intervals [41]:
+        intervals [40]:
             xmin = 93.63352807945934 
             xmax = 94.00528709201657 
             text = "{sigh}" 
-        intervals [42]:
+        intervals [41]:
             xmin = 94.00528709201657 
             xmax = 94.28836964286292 
             text = "" 
-        intervals [43]:
+        intervals [42]:
             xmin = 94.28836964286292 
             xmax = 96.21979107478407 
             text = "なんかね頭になんかつけてる" 
-        intervals [44]:
+        intervals [43]:
             xmin = 96.21979107478407 
             xmax = 96.41419716391951 
             text = "" 
-        intervals [45]:
+        intervals [44]:
             xmin = 96.41419716391951 
             xmax = 96.61971684338846 
             text = "{breath}" 
-        intervals [46]:
+        intervals [45]:
             xmin = 96.61971684338846 
             xmax = 97.09372533609645 
             text = "" 
-        intervals [47]:
+        intervals [46]:
             xmin = 97.09372533609645 
             xmax = 97.68136051917183 
             text = "メガネ" 
-        intervals [48]:
+        intervals [47]:
             xmin = 97.68136051917183 
             xmax = 97.74275191574091 
             text = "" 
-        intervals [49]:
+        intervals [48]:
             xmin = 97.74275191574091 
             xmax = 98.91414327795188 
             text = "メガネみたいな" 
-        intervals [50]:
+        intervals [49]:
             xmin = 98.91414327795188 
             xmax = 103.8884301512744 
             text = "" 
-        intervals [51]:
+        intervals [50]:
             xmin = 103.8884301512744 
             xmax = 104.52251990496183 
             text = "違うな" 
-        intervals [52]:
+        intervals [51]:
             xmin = 104.52251990496183 
             xmax = 106.4847802651403 
             text = "" 
-        intervals [53]:
+        intervals [52]:
             xmin = 106.4847802651403 
             xmax = 107.22363758168561 
             text = "あれいないな" 
-        intervals [54]:
+        intervals [53]:
             xmin = 107.22363758168561 
-            xmax = 107.46970375150151 
+            xmax = 107.45814325364087 
             text = "" 
-        intervals [55]:
-            xmin = 107.46970375150151 
-            xmax = 107.64230967490901 
-            text = "あ" 
-        intervals [56]:
-            xmin = 107.64230967490901 
+        intervals [54]:
+            xmin = 107.45814325364087 
             xmax = 108.29109543668754 
-            text = "いたこれでしょ" 
-        intervals [57]:
+            text = "あいたこれでしょ" 
+        intervals [55]:
             xmin = 108.29109543668754 
             xmax = 109.0079121146974 
             text = "" 
-        intervals [58]:
+        intervals [56]:
             xmin = 109.0079121146974 
             xmax = 109.44167039559582 
             text = "これでしょ" 
-        intervals [59]:
+        intervals [57]:
             xmin = 109.44167039559582 
             xmax = 109.78365783386391 
             text = "" 
-        intervals [60]:
+        intervals [58]:
             xmin = 109.78365783386391 
             xmax = 110.1320469152646 
             text = "これでしょ" 
-        intervals [61]:
+        intervals [59]:
             xmin = 110.1320469152646 
             xmax = 110.62917155250292 
             text = "" 
-        intervals [62]:
+        intervals [60]:
             xmin = 110.62917155250292 
             xmax = 110.9721689632481 
             text = "これでしょ" 
-        intervals [63]:
+        intervals [61]:
             xmin = 110.9721689632481 
             xmax = 112.23391826492912 
             text = "" 
-        intervals [64]:
+        intervals [62]:
             xmin = 112.23391826492912 
             xmax = 112.33662387657701 
             text = "えっ" 
-        intervals [65]:
+        intervals [63]:
             xmin = 112.33662387657701 
             xmax = 113.89101363830018 
             text = "" 
-        intervals [66]:
+        intervals [64]:
             xmin = 113.89101363830018 
             xmax = 114.60867383689583 
             text = "{? やっく}これでしょ" 
-        intervals [67]:
+        intervals [65]:
             xmin = 114.60867383689583 
             xmax = 114.66241472005224 
             text = "" 
-        intervals [68]:
+        intervals [66]:
             xmin = 114.66241472005224 
             xmax = 116.38077126483431 
             text = "うんめっちゃ回ってるやつ" 
-        intervals [69]:
+        intervals [67]:
             xmin = 116.38077126483431 
             xmax = 116.57205675758217 
             text = "" 
-        intervals [70]:
+        intervals [68]:
             xmin = 116.57205675758217 
             xmax = 119.71890421711588 
             text = "{L めっちゃ回ってるやつ}" 
-        intervals [71]:
+        intervals [69]:
             xmin = 119.71890421711588 
             xmax = 120.79163800806185 
             text = "" 
-        intervals [72]:
+        intervals [70]:
             xmin = 120.79163800806185 
             xmax = 121.334188750141 
             text = "とりあえずあの" 
-        intervals [73]:
+        intervals [71]:
             xmin = 121.334188750141 
             xmax = 121.43216423292282 
             text = "" 
-        intervals [74]:
+        intervals [72]:
             xmin = 121.43216423292282 
             xmax = 122.99743066513658 
             text = "ついてく{L ま}" 
-        intervals [75]:
+        intervals [73]:
             xmin = 122.99743066513658 
             xmax = 124.80259187218577 
             text = "" 
-        intervals [76]:
+        intervals [74]:
             xmin = 124.80259187218577 
             xmax = 128.23350993307585 
             text = "国旗{L 国旗自分の姿見えない}" 
-        intervals [77]:
+        intervals [75]:
             xmin = 128.23350993307585 
             xmax = 131.2527520714947 
             text = "" 
-        intervals [78]:
+        intervals [76]:
             xmin = 131.2527520714947 
             xmax = 131.58478374596103 
             text = "{sigh}" 
-        intervals [79]:
+        intervals [77]:
             xmin = 131.58478374596103 
             xmax = 134.59259161669166 
             text = "" 
-        intervals [80]:
+        intervals [78]:
             xmin = 134.59259161669166 
-            xmax = 134.66319421042434 
-            text = "え" 
-        intervals [81]:
-            xmin = 134.66319421042434 
             xmax = 136.06585864636486 
-            text = "それって男の子じゃないの" 
-        intervals [82]:
+            text = "えそれって男の子じゃないの" 
+        intervals [79]:
             xmin = 136.06585864636486 
             xmax = 136.476457992338 
             text = "" 
-        intervals [83]:
+        intervals [80]:
             xmin = 136.476457992338 
             xmax = 137.1335728965379 
             text = "男じゃないの" 
-        intervals [84]:
+        intervals [81]:
             xmin = 137.1335728965379 
             xmax = 142.45803192963166 
             text = "" 
-        intervals [85]:
+        intervals [82]:
             xmin = 142.45803192963166 
             xmax = 143.15860172542162 
             text = "誰もいないんだけど" 
-        intervals [86]:
+        intervals [83]:
             xmin = 143.15860172542162 
             xmax = 148.24991025549758 
             text = "" 
-        intervals [87]:
+        intervals [84]:
             xmin = 148.24991025549758 
             xmax = 149.1375004943502 
             text = "争奪中" 
-        intervals [88]:
+        intervals [85]:
             xmin = 149.1375004943502 
             xmax = 157.28478219116968 
             text = "" 
-        intervals [89]:
+        intervals [86]:
             xmin = 157.28478219116968 
             xmax = 158.3803202511964 
             text = "左ボタンだっけ" 
-        intervals [90]:
+        intervals [87]:
             xmin = 158.3803202511964 
             xmax = 166.67977144852162 
             text = "" 
-        intervals [91]:
+        intervals [88]:
             xmin = 166.67977144852162 
             xmax = 167.58346849564387 
             text = "全然わかんない" 
-        intervals [92]:
+        intervals [89]:
             xmin = 167.58346849564387 
             xmax = 167.72343337402015 
             text = "" 
-        intervals [93]:
+        intervals [90]:
             xmin = 167.72343337402015 
             xmax = 167.95945523574122 
             text = "{sigh}" 
-        intervals [94]:
+        intervals [91]:
             xmin = 167.95945523574122 
             xmax = 182.62061744412594 
             text = "" 
-        intervals [95]:
+        intervals [92]:
             xmin = 182.62061744412594 
             xmax = 183.5283462426832 
             text = "から撃ってんの" 
-        intervals [96]:
+        intervals [93]:
             xmin = 183.5283462426832 
             xmax = 201.7838631603873 
             text = "" 
-        intervals [97]:
+        intervals [94]:
             xmin = 201.7838631603873 
-            xmax = 201.84427658315 
-            text = "あ" 
-        intervals [98]:
-            xmin = 201.84427658315 
             xmax = 202.72851319292812 
-            text = "{R xxちゃん}いた" 
-        intervals [99]:
+            text = "あ{R xx}ちゃんいた" 
+        intervals [95]:
             xmin = 202.72851319292812 
             xmax = 211.97724431527968 
             text = "" 
-        intervals [100]:
+        intervals [96]:
             xmin = 211.97724431527968 
             xmax = 212.27825570670794 
             text = "あれ" 
-        intervals [101]:
+        intervals [97]:
             xmin = 212.27825570670794 
             xmax = 212.59084393508164 
             text = "" 
-        intervals [102]:
+        intervals [98]:
             xmin = 212.59084393508164 
             xmax = 213.12292716050018 
             text = "{breath}" 
-        intervals [103]:
+        intervals [99]:
             xmin = 213.12292716050018 
             xmax = 213.74316149193066 
             text = "" 
-        intervals [104]:
+        intervals [100]:
             xmin = 213.74316149193066 
             xmax = 214.9792760410584 
             text = "なんかヘッドホンが" 
-        intervals [105]:
+        intervals [101]:
             xmin = 214.9792760410584 
             xmax = 225.17588833239137 
             text = "" 
-        intervals [106]:
+        intervals [102]:
             xmin = 225.17588833239137 
             xmax = 225.63040809459727 
             text = "なんか" 
-        intervals [107]:
+        intervals [103]:
             xmin = 225.63040809459727 
             xmax = 225.83102442026993 
             text = "" 
-        intervals [108]:
+        intervals [104]:
             xmin = 225.83102442026993 
             xmax = 226.81872720358896 
             text = "{sigh}{breath}" 
-        intervals [109]:
+        intervals [105]:
             xmin = 226.81872720358896 
             xmax = 233.50236504817792 
             text = "" 
-        intervals [110]:
+        intervals [106]:
             xmin = 233.50236504817792 
             xmax = 235.25001186576503 
             text = "{L めっちゃこれ{R xx}ちゃん}" 
-        intervals [111]:
+        intervals [107]:
             xmin = 235.25001186576503 
             xmax = 235.81104839261866 
             text = "" 
-        intervals [112]:
+        intervals [108]:
             xmin = 235.81104839261866 
             xmax = 236.34212314293788 
             text = "{breath}" 
-        intervals [113]:
+        intervals [109]:
             xmin = 236.34212314293788 
             xmax = 236.63344543833256 
             text = "" 
-        intervals [114]:
+        intervals [110]:
             xmin = 236.63344543833256 
-            xmax = 236.8447787098677 
-            text = "あ" 
-        intervals [115]:
-            xmin = 236.8447787098677 
             xmax = 237.94469630036255 
-            text = "殺された" 
-        intervals [116]:
+            text = "あ殺された" 
+        intervals [111]:
             xmin = 237.94469630036255 
             xmax = 238.05666820306357 
             text = "" 
-        intervals [117]:
+        intervals [112]:
             xmin = 238.05666820306357 
             xmax = 238.30809437894567 
             text = "{sigh}" 
-        intervals [118]:
+        intervals [113]:
             xmin = 238.30809437894567 
             xmax = 240.5187293259582 
             text = "" 
-        intervals [119]:
+        intervals [114]:
             xmin = 240.5187293259582 
             xmax = 241.02223924007436 
             text = "あら" 
-        intervals [120]:
+        intervals [115]:
             xmin = 241.02223924007436 
             xmax = 242.8402038341899 
             text = "" 
-        intervals [121]:
+        intervals [116]:
             xmin = 242.8402038341899 
             xmax = 243.29626769192848 
             text = "殺された" 
-        intervals [122]:
+        intervals [117]:
             xmin = 243.29626769192848 
             xmax = 243.3709156270625 
             text = "" 
-        intervals [123]:
+        intervals [118]:
             xmin = 243.3709156270625 
             xmax = 243.64678565379137 
             text = "{sigh}" 
-        intervals [124]:
+        intervals [119]:
             xmin = 243.64678565379137 
             xmax = 243.97231529980982 
             text = "" 
-        intervals [125]:
+        intervals [120]:
             xmin = 243.97231529980982 
             xmax = 244.26444975835665 
             text = "{breath}" 
-        intervals [126]:
+        intervals [121]:
             xmin = 244.26444975835665 
             xmax = 244.78231980834886 
             text = "" 
-        intervals [127]:
+        intervals [122]:
             xmin = 244.78231980834886 
             xmax = 249.9743934150594 
             text = "{L {R xx}ちゃんめっちゃ吹っ飛んでった}本当だイギリスの" 
-        intervals [128]:
+        intervals [123]:
             xmin = 249.9743934150594 
             xmax = 250.19367172451558 
             text = "" 
-        intervals [129]:
+        intervals [124]:
             xmin = 250.19367172451558 
             xmax = 250.74385700452058 
             text = "つけてんね" 
-        intervals [130]:
+        intervals [125]:
             xmin = 250.74385700452058 
             xmax = 252.0219156791497 
             text = "" 
-        intervals [131]:
+        intervals [126]:
             xmin = 252.0219156791497 
             xmax = 252.46846519432404 
             text = "つけてた" 
-        intervals [132]:
+        intervals [127]:
             xmin = 252.46846519432404 
             xmax = 252.7970184623143 
             text = "" 
-        intervals [133]:
+        intervals [128]:
             xmin = 252.7970184623143 
             xmax = 252.93324034563918 
             text = "{sigh}" 
-        intervals [134]:
+        intervals [129]:
             xmin = 252.93324034563918 
             xmax = 253.58513285404592 
             text = "" 
-        intervals [135]:
+        intervals [130]:
             xmin = 253.58513285404592 
             xmax = 254.50510939823369 
             text = "うんつけてた" 
-        intervals [136]:
+        intervals [131]:
             xmin = 254.50510939823369 
             xmax = 255.47331722667826 
             text = "" 
-        intervals [137]:
+        intervals [132]:
             xmin = 255.47331722667826 
             xmax = 256.1792229255101 
             text = "ベイロード" 
-        intervals [138]:
+        intervals [133]:
             xmin = 256.1792229255101 
             xmax = 256.5477971052343 
             text = "" 
-        intervals [139]:
+        intervals [134]:
             xmin = 256.5477971052343 
             xmax = 257.16241993005383 
             text = "護衛しよう" 
-        intervals [140]:
+        intervals [135]:
             xmin = 257.16241993005383 
             xmax = 257.31449620744945 
             text = "" 
-        intervals [141]:
+        intervals [136]:
             xmin = 257.31449620744945 
             xmax = 259.27825129495545 
             text = "ベイロードってのが車の" 
-        intervals [142]:
+        intervals [137]:
             xmin = 259.27825129495545 
             xmax = 259.48819861251985 
             text = "" 
-        intervals [143]:
+        intervals [138]:
             xmin = 259.48819861251985 
             xmax = 259.6188324990044 
             text = "ん" 
-        intervals [144]:
+        intervals [139]:
             xmin = 259.6188324990044 
             xmax = 259.8661037841358 
             text = "" 
-        intervals [145]:
+        intervals [140]:
             xmin = 259.8661037841358 
             xmax = 260.931321250685 
             text = "進めるやつかな" 
-        intervals [146]:
+        intervals [141]:
             xmin = 260.931321250685 
             xmax = 271.32869769669406 
             text = "" 
-        intervals [147]:
+        intervals [142]:
             xmin = 271.32869769669406 
             xmax = 272.4323026213894 
             text = "乗らなきゃいけないな" 
-        intervals [148]:
+        intervals [143]:
             xmin = 272.4323026213894 
             xmax = 344.6735604270522 
             text = "" 
-        intervals [149]:
+        intervals [144]:
             xmin = 344.6735604270522 
-            xmax = 347.4369805895643 
+            xmax = 347.4281948281021 
             text = "{L なんかめちゃ挟まってるんだけど}" 
-        intervals [150]:
+        intervals [145]:
+            xmin = 347.4281948281021 
+            xmax = 347.4369805895643 
+            text = "" 
+        intervals [146]:
             xmin = 347.4369805895643 
             xmax = 351.25681827017024 
             text = "{L 挟まっすごいイナバウアーしてたよ}" 
-        intervals [151]:
+        intervals [147]:
             xmin = 351.25681827017024 
             xmax = 360.39131353747104 
             text = "" 
-        intervals [152]:
+        intervals [148]:
             xmin = 360.39131353747104 
             xmax = 360.56820753656007 
             text = "め" 
-        intervals [153]:
+        intervals [149]:
             xmin = 360.56820753656007 
             xmax = 380.78717413387585 
             text = "" 
-        intervals [154]:
+        intervals [150]:
             xmin = 380.78717413387585 
             xmax = 383.2148584176003 
             text = "ダブルキル五人連続キルだってやばくね" 
-        intervals [155]:
+        intervals [151]:
             xmin = 383.2148584176003 
             xmax = 383.37113484801023 
             text = "" 
-        intervals [156]:
+        intervals [152]:
             xmin = 383.37113484801023 
             xmax = 384.84701005135037 
             text = "{breath}適当に撃ってるだけだよ" 
-        intervals [157]:
+        intervals [153]:
             xmin = 384.84701005135037 
             xmax = 384.89369007613476 
             text = "" 
-        intervals [158]:
+        intervals [154]:
             xmin = 384.89369007613476 
             xmax = 387.21164169274766 
             text = "{laugh}" 
-        intervals [159]:
+        intervals [155]:
             xmin = 387.21164169274766 
             xmax = 399.4048079897228 
             text = "" 
-        intervals [160]:
+        intervals [156]:
             xmin = 399.4048079897228 
             xmax = 400.509418806834 
             text = "てか{R xx}ちゃんを" 
-        intervals [161]:
+        intervals [157]:
             xmin = 400.509418806834 
             xmax = 400.684484718045 
             text = "" 
-        intervals [162]:
+        intervals [158]:
             xmin = 400.684484718045 
             xmax = 401.6686613468811 
             text = "護衛してる" 
-        intervals [163]:
+        intervals [159]:
             xmin = 401.6686613468811 
             xmax = 414.26957462002053 
             text = "" 
-        intervals [164]:
+        intervals [160]:
             xmin = 414.26957462002053 
             xmax = 414.7825408022051 
             text = "後ろ" 
-        intervals [165]:
+        intervals [161]:
             xmin = 414.7825408022051 
             xmax = 441.2278556839875 
             text = "" 
-        intervals [166]:
+        intervals [162]:
             xmin = 441.2278556839875 
             xmax = 441.3871220286505 
             text = "あ" 
-        intervals [167]:
+        intervals [163]:
             xmin = 441.3871220286505 
             xmax = 441.4297804851559 
             text = "" 
-        intervals [168]:
+        intervals [164]:
             xmin = 441.4297804851559 
             xmax = 441.68215422705737 
             text = "{sigh}" 
-        intervals [169]:
+        intervals [165]:
             xmin = 441.68215422705737 
-            xmax = 461.74005797060556 
+            xmax = 461.61555350526936 
             text = "" 
-        intervals [170]:
-            xmin = 461.74005797060556 
+        intervals [166]:
+            xmin = 461.61555350526936 
             xmax = 462.1705678527346 
             text = "おお" 
-        intervals [171]:
+        intervals [167]:
             xmin = 462.1705678527346 
             xmax = 463.3402978129184 
             text = "" 
-        intervals [172]:
+        intervals [168]:
             xmin = 463.3402978129184 
             xmax = 463.9695390028878 
             text = "勝ったよ" 
-        intervals [173]:
+        intervals [169]:
             xmin = 463.9695390028878 
             xmax = 464.8989129133847 
             text = "" 
-        intervals [174]:
+        intervals [170]:
             xmin = 464.8989129133847 
             xmax = 465.76277805731803 
             text = "{R xx}ちゃんも" 
-        intervals [175]:
+        intervals [171]:
             xmin = 465.76277805731803 
             xmax = 468.355813137029 
             text = "" 
-        intervals [176]:
+        intervals [172]:
             xmin = 468.355813137029 
             xmax = 469.2725418259709 
             text = "なんかすごいの" 
-        intervals [177]:
+        intervals [173]:
             xmin = 469.2725418259709 
             xmax = 469.32440568118807 
             text = "" 
-        intervals [178]:
+        intervals [174]:
             xmin = 469.32440568118807 
             xmax = 470.32442152289235 
             text = "いるんだけど" 
-        intervals [179]:
+        intervals [175]:
             xmin = 470.32442152289235 
-            xmax = 471.2973586921423 
+            xmax = 471.2757038979427 
             text = "" 
-        intervals [180]:
-            xmin = 471.2973586921423 
-            xmax = 471.65983113129806 
-            text = "へえ" 
-        intervals [181]:
-            xmin = 471.65983113129806 
+        intervals [176]:
+            xmin = 471.2757038979427 
             xmax = 472.85420082168736 
-            text = "この人がすごかったんだ" 
-        intervals [182]:
+            text = "へえこの人がすごかったんだ" 
+        intervals [177]:
             xmin = 472.85420082168736 
             xmax = 479.76674015201417 
             text = "" 
-        intervals [183]:
+        intervals [178]:
             xmin = 479.76674015201417 
             xmax = 481.0702242427867 
             text = "めちゃ倒してるやん" 
-        intervals [184]:
+        intervals [179]:
             xmin = 481.0702242427867 
-            xmax = 485.6905153015114 
+            xmax = 485.65131855537385 
             text = "" 
-        intervals [185]:
-            xmin = 485.6905153015114 
-            xmax = 486.64329999872086 
+        intervals [180]:
+            xmin = 485.65131855537385 
+            xmax = 486.61126710693725 
             text = "おお" 
-        intervals [186]:
-            xmin = 486.64329999872086 
+        intervals [181]:
+            xmin = 486.61126710693725 
             xmax = 488.4452961552108 
             text = "{laugh}" 
-        intervals [187]:
+        intervals [182]:
             xmin = 488.4452961552108 
             xmax = 496.59525284547317 
             text = "" 
-        intervals [188]:
+        intervals [183]:
             xmin = 496.59525284547317 
             xmax = 497.7982666738556 
             text = "{? これ}このままでいいのかな" 
-        intervals [189]:
+        intervals [184]:
             xmin = 497.7982666738556 
             xmax = 501.3979627771897 
             text = "" 
-        intervals [190]:
+        intervals [185]:
             xmin = 501.3979627771897 
             xmax = 501.9913980595292 
             text = "ああ" 
-        intervals [191]:
+        intervals [186]:
             xmin = 501.9913980595292 
             xmax = 502.0284253459088 
             text = "" 
-        intervals [192]:
+        intervals [187]:
             xmin = 502.0284253459088 
             xmax = 502.76815174100943 
             text = "押せばいいんですね" 
-        intervals [193]:
+        intervals [188]:
             xmin = 502.76815174100943 
             xmax = 508.5074763613287 
             text = "" 
-        intervals [194]:
+        intervals [189]:
             xmin = 508.5074763613287 
             xmax = 508.7852327957215 
             text = "はい" 
-        intervals [195]:
+        intervals [190]:
             xmin = 508.7852327957215 
             xmax = 509.5412455048957 
             text = "" 
-        intervals [196]:
+        intervals [191]:
             xmin = 509.5412455048957 
             xmax = 510.0621416625164 
             text = "だいたい" 
-        intervals [197]:
+        intervals [192]:
             xmin = 510.0621416625164 
             xmax = 519.2357874498667 
             text = "" 
-        intervals [198]:
+        intervals [193]:
             xmin = 519.2357874498667 
             xmax = 519.5796895503398 
             text = "はい" 
-        intervals [199]:
+        intervals [194]:
             xmin = 519.5796895503398 
             xmax = 520.2262784910768 
             text = "" 
-        intervals [200]:
+        intervals [195]:
             xmin = 520.2262784910768 
             xmax = 521.0859132837153 
             text = "大丈夫です" 
-        intervals [201]:
+        intervals [196]:
             xmin = 521.0859132837153 
             xmax = 525.0146745751755 
             text = "" 
-        intervals [202]:
+        intervals [197]:
             xmin = 525.0146745751755 
             xmax = 525.3640032944311 
             text = "はい" 
-        intervals [203]:
+        intervals [198]:
             xmin = 525.3640032944311 
             xmax = 527.8106393587992 
             text = "" 
-        intervals [204]:
+        intervals [199]:
             xmin = 527.8106393587992 
             xmax = 528.0996705150368 
             text = "ご" 
-        intervals [205]:
+        intervals [200]:
             xmin = 528.0996705150368 
             xmax = 528.2267265357458 
             text = "" 
-        intervals [206]:
+        intervals [201]:
             xmin = 528.2267265357458 
             xmax = 528.4219378642736 
             text = "{sigh}" 
-        intervals [207]:
+        intervals [202]:
             xmin = 528.4219378642736 
             xmax = 530.9474740300535 
             text = "" 
-        intervals [208]:
+        intervals [203]:
             xmin = 530.9474740300535 
             xmax = 531.177125887378 
             text = "{breath}" 
-        intervals [209]:
+        intervals [204]:
             xmin = 531.177125887378 
             xmax = 531.3012271169077 
             text = "" 
-        intervals [210]:
+        intervals [205]:
             xmin = 531.3012271169077 
             xmax = 535.0581504083276 
             text = "おな同じの選ぶしかなくない{laugh}" 
-        intervals [211]:
+        intervals [206]:
             xmin = 535.0581504083276 
             xmax = 535.9155635056121 
             text = "" 
-        intervals [212]:
+        intervals [207]:
             xmin = 535.9155635056121 
-            xmax = 536.0139215867989 
-            text = "あっ" 
-        intervals [213]:
-            xmin = 536.0139215867989 
             xmax = 536.9382016796504 
-            text = "いろいろいろいろやってる" 
-        intervals [214]:
+            text = "あっいろいろいろいろやってる" 
+        intervals [208]:
             xmin = 536.9382016796504 
             xmax = 537.0741220738973 
             text = "" 
-        intervals [215]:
+        intervals [209]:
             xmin = 537.0741220738973 
             xmax = 538.2910368770464 
             text = "それは偉いな" 
-        intervals [216]:
+        intervals [210]:
             xmin = 538.2910368770464 
             xmax = 544.3993598243704 
             text = "" 
-        intervals [217]:
+        intervals [211]:
             xmin = 544.3993598243704 
             xmax = 545.6561779566003 
             text = "ディフェンス系がいません" 
-        intervals [218]:
+        intervals [212]:
             xmin = 545.6561779566003 
             xmax = 545.7418669007996 
             text = "" 
-        intervals [219]:
+        intervals [213]:
             xmin = 545.7418669007996 
             xmax = 546.0077981069347 
             text = "{sigh}" 
-        intervals [220]:
+        intervals [214]:
             xmin = 546.0077981069347 
             xmax = 546.1082610070303 
             text = "" 
-        intervals [221]:
+        intervals [215]:
             xmin = 546.1082610070303 
             xmax = 547.1040256344479 
             text = "攻撃力が不そ" 
-        intervals [222]:
+        intervals [216]:
             xmin = 547.1040256344479 
             xmax = 547.4054143347345 
             text = "" 
-        intervals [223]:
+        intervals [217]:
             xmin = 547.4054143347345 
             xmax = 548.0860333569722 
             text = "くしてます" 
-        intervals [224]:
+        intervals [218]:
             xmin = 548.0860333569722 
             xmax = 548.8895960990151 
             text = "" 
-        intervals [225]:
+        intervals [219]:
             xmin = 548.8895960990151 
             xmax = 549.668493059384 
             text = "ディフェンス" 
-        intervals [226]:
+        intervals [220]:
             xmin = 549.668493059384 
             xmax = 550.7338190636633 
             text = "" 
-        intervals [227]:
+        intervals [221]:
             xmin = 550.7338190636633 
             xmax = 551.5102641661356 
             text = "うん" 
-        intervals [228]:
+        intervals [222]:
             xmin = 551.5102641661356 
             xmax = 552.8593295272962 
             text = "" 
-        intervals [229]:
+        intervals [223]:
             xmin = 552.8593295272962 
             xmax = 553.4681205012871 
             text = "ディフェンス" 
-        intervals [230]:
+        intervals [224]:
             xmin = 553.4681205012871 
             xmax = 560.9665358679644 
             text = "" 
-        intervals [231]:
+        intervals [225]:
             xmin = 560.9665358679644 
             xmax = 561.7708597681496 
             text = "女の子のやつ" 
-        intervals [232]:
+        intervals [226]:
             xmin = 561.7708597681496 
             xmax = 561.9384383111999 
             text = "" 
-        intervals [233]:
+        intervals [227]:
             xmin = 561.9384383111999 
             xmax = 562.6128387226498 
             text = "一番端っこ" 
-        intervals [234]:
+        intervals [228]:
             xmin = 562.6128387226498 
             xmax = 563.0288423596111 
             text = "" 
-        intervals [235]:
+        intervals [229]:
             xmin = 563.0288423596111 
             xmax = 563.3509093518298 
             text = "なんか" 
-        intervals [236]:
+        intervals [230]:
             xmin = 563.3509093518298 
             xmax = 564.844279356958 
             text = "" 
-        intervals [237]:
+        intervals [231]:
             xmin = 564.844279356958 
             xmax = 565.1997472652076 
             text = "あれ" 
-        intervals [238]:
+        intervals [232]:
             xmin = 565.1997472652076 
             xmax = 566.756134029082 
             text = "" 
-        intervals [239]:
+        intervals [233]:
             xmin = 566.756134029082 
             xmax = 567.3883143505914 
             text = "六十" 
-        intervals [240]:
+        intervals [234]:
             xmin = 567.3883143505914 
             xmax = 567.8066188930691 
             text = "" 
-        intervals [241]:
+        intervals [235]:
             xmin = 567.8066188930691 
-            xmax = 568.1792447223148 
+            xmax = 568.1820536877558 
             text = "ああ" 
-        intervals [242]:
-            xmin = 568.1792447223148 
+        intervals [236]:
+            xmin = 568.1820536877558 
             xmax = 568.5062569766708 
             text = "うん" 
-        intervals [243]:
+        intervals [237]:
             xmin = 568.5062569766708 
             xmax = 570.1087735848447 
             text = "" 
-        intervals [244]:
+        intervals [238]:
             xmin = 570.1087735848447 
             xmax = 571.8907104969229 
             text = "なんかあのゴッついやつ" 
-        intervals [245]:
+        intervals [239]:
             xmin = 571.8907104969229 
             xmax = 572.977744516855 
             text = "" 
-        intervals [246]:
+        intervals [240]:
             xmin = 572.977744516855 
-            xmax = 573.0585699059076 
-            text = "あ" 
-        intervals [247]:
-            xmin = 573.0585699059076 
             xmax = 575.3854912908537 
-            text = "{R xx}ちゃんあのヒール系なの" 
-        intervals [248]:
+            text = "あ{R xx}ちゃんあのヒール系なの" 
+        intervals [241]:
             xmin = 575.3854912908537 
             xmax = 583.3315319685566 
             text = "" 
-        intervals [249]:
+        intervals [242]:
             xmin = 583.3315319685566 
             xmax = 585.2304064634163 
             text = "あんまあいいや{laugh}" 
-        intervals [250]:
+        intervals [243]:
             xmin = 585.2304064634163 
             xmax = 587.1917696167117 
             text = "" 
-        intervals [251]:
+        intervals [244]:
             xmin = 587.1917696167117 
             xmax = 588.6624496541136 
             text = "防御体制を整えよう" 
-        intervals [252]:
+        intervals [245]:
             xmin = 588.6624496541136 
             xmax = 599.2871981184312 
             text = "" 
-        intervals [253]:
+        intervals [246]:
             xmin = 599.2871981184312 
-            xmax = 599.4274968341722 
-            text = "ああ" 
-        intervals [254]:
-            xmin = 599.4274968341722 
             xmax = 601.5118033754862 
-            text = "これ難しいね{laugh}" 
-        intervals [255]:
+            text = "ああこれ難しいね{laugh}" 
+        intervals [247]:
             xmin = 601.5118033754862 
             xmax = 601.5915827373268 
             text = "" 
-        intervals [256]:
+        intervals [248]:
             xmin = 601.5915827373268 
             xmax = 602.4617964491664 
             text = "難しいのを" 
-        intervals [257]:
+        intervals [249]:
             xmin = 602.4617964491664 
             xmax = 602.9105563362126 
             text = "" 
-        intervals [258]:
+        intervals [250]:
             xmin = 602.9105563362126 
             xmax = 603.9469991059754 
             text = "選んでしまった私は" 
-        intervals [259]:
+        intervals [251]:
             xmin = 603.9469991059754 
             xmax = 608.6513505739292 
             text = "" 
-        intervals [260]:
+        intervals [252]:
             xmin = 608.6513505739292 
             xmax = 609.2773812009062 
             text = "そうそう" 
-        intervals [261]:
+        intervals [253]:
             xmin = 609.2773812009062 
             xmax = 615.8910595752427 
             text = "" 
-        intervals [262]:
+        intervals [254]:
             xmin = 615.8910595752427 
-            xmax = 616.0051952539272 
-            text = "あ" 
-        intervals [263]:
-            xmin = 616.0051952539272 
             xmax = 616.8188778547736 
-            text = "上乗っちゃった" 
-        intervals [264]:
+            text = "あ上乗っちゃった" 
+        intervals [255]:
             xmin = 616.8188778547736 
             xmax = 620.3575508591468 
             text = "" 
-        intervals [265]:
+        intervals [256]:
             xmin = 620.3575508591468 
             xmax = 620.5327787256712 
-            text = "{?}" 
-        intervals [266]:
+            text = "{a}" 
+        intervals [257]:
             xmin = 620.5327787256712 
             xmax = 627.5658137713067 
             text = "" 
-        intervals [267]:
+        intervals [258]:
             xmin = 627.5658137713067 
             xmax = 628.2861852798753 
             text = "目標エー" 
-        intervals [268]:
+        intervals [259]:
             xmin = 628.2861852798753 
             xmax = 628.9680345317506 
             text = "" 
-        intervals [269]:
+        intervals [260]:
             xmin = 628.9680345317506 
             xmax = 630.1290573807509 
             text = "目標エーとは" 
-        intervals [270]:
+        intervals [261]:
             xmin = 630.1290573807509 
             xmax = 631.8458297738811 
             text = "" 
-        intervals [271]:
+        intervals [262]:
             xmin = 631.8458297738811 
             xmax = 632.4205822645572 
             text = "{?}そこね" 
-        intervals [272]:
+        intervals [263]:
             xmin = 632.4205822645572 
             xmax = 639.6350756786067 
             text = "" 
-        intervals [273]:
+        intervals [264]:
             xmin = 639.6350756786067 
-            xmax = 639.7890108100426 
-            text = "ああ" 
-        intervals [274]:
-            xmin = 639.7890108100426 
             xmax = 640.5044081249144 
-            text = "見えるな" 
-        intervals [275]:
+            text = "ああ見えるな" 
+        intervals [265]:
             xmin = 640.5044081249144 
             xmax = 641.9801292284976 
             text = "" 
-        intervals [276]:
+        intervals [266]:
             xmin = 641.9801292284976 
-            xmax = 642.0879119260484 
-            text = "あ" 
-        intervals [277]:
-            xmin = 642.0879119260484 
             xmax = 642.695187317485 
-            text = "やられる" 
-        intervals [278]:
+            text = "あやられる" 
+        intervals [267]:
             xmin = 642.695187317485 
             xmax = 645.2600758836815 
             text = "" 
-        intervals [279]:
+        intervals [268]:
             xmin = 645.2600758836815 
             xmax = 645.8685636542214 
             text = "来るな" 
-        intervals [280]:
+        intervals [269]:
             xmin = 645.8685636542214 
             xmax = 646.2827255402281 
             text = "" 
-        intervals [281]:
+        intervals [270]:
             xmin = 646.2827255402281 
             xmax = 647.0495902645622 
             text = "やばい" 
-        intervals [282]:
+        intervals [271]:
             xmin = 647.0495902645622 
             xmax = 657.3367792433087 
             text = "" 
-        intervals [283]:
+        intervals [272]:
             xmin = 657.3367792433087 
             xmax = 657.6220440120258 
             text = "{laugh}" 
-        intervals [284]:
+        intervals [273]:
             xmin = 657.6220440120258 
             xmax = 665.6391032753506 
             text = "" 
-        intervals [285]:
+        intervals [274]:
             xmin = 665.6391032753506 
             xmax = 665.7853681014187 
             text = "あ" 
-        intervals [286]:
+        intervals [275]:
             xmin = 665.7853681014187 
             xmax = 666.0187966045819 
             text = "" 
-        intervals [287]:
+        intervals [276]:
             xmin = 666.0187966045819 
             xmax = 666.819545014167 
             text = "{R xx}ちゃんこれ" 
-        intervals [288]:
+        intervals [277]:
             xmin = 666.819545014167 
             xmax = 667.1386624615293 
             text = "" 
-        intervals [289]:
+        intervals [278]:
             xmin = 667.1386624615293 
             xmax = 668.4422083781626 
             text = "やってんのありがとう" 
-        intervals [290]:
+        intervals [279]:
             xmin = 668.4422083781626 
             xmax = 673.2504614894408 
             text = "" 
-        intervals [291]:
+        intervals [280]:
             xmin = 673.2504614894408 
             xmax = 673.535883542228 
             text = "そう" 
-        intervals [292]:
+        intervals [281]:
             xmin = 673.535883542228 
             xmax = 673.5861149922758 
             text = "" 
-        intervals [293]:
+        intervals [282]:
             xmin = 673.5861149922758 
             xmax = 673.9563815354322 
             text = "{sigh}" 
-        intervals [294]:
+        intervals [283]:
             xmin = 673.9563815354322 
             xmax = 684.516604330265 
             text = "" 
-        intervals [295]:
+        intervals [284]:
             xmin = 684.516604330265 
             xmax = 685.1717090528416 
             text = "動けない" 
-        intervals [296]:
+        intervals [285]:
             xmin = 685.1717090528416 
             xmax = 685.2436627157124 
             text = "" 
-        intervals [297]:
+        intervals [286]:
             xmin = 685.2436627157124 
             xmax = 685.5261770908377 
             text = "{laugh}" 
-        intervals [298]:
+        intervals [287]:
             xmin = 685.5261770908377 
             xmax = 686.0175256778031 
             text = "" 
-        intervals [299]:
+        intervals [288]:
             xmin = 686.0175256778031 
             xmax = 686.2141137377731 
             text = "{laugh}" 
-        intervals [300]:
+        intervals [289]:
             xmin = 686.2141137377731 
             xmax = 698.7218723335595 
             text = "" 
-        intervals [301]:
+        intervals [290]:
             xmin = 698.7218723335595 
-            xmax = 698.9912197883416 
-            text = "{breath}あっ逃げちゃった" 
-        intervals [302]:
-            xmin = 698.9912197883416 
-            xmax = 699.070618513109 
-            text = "あ" 
-        intervals [303]:
-            xmin = 699.070618513109 
             xmax = 699.7391785833242 
-            text = "逃げちゃった" 
-        intervals [304]:
+            text = "{breath}あっ逃げちゃった" 
+        intervals [291]:
             xmin = 699.7391785833242 
             xmax = 708.8746987104162 
             text = "" 
-        intervals [305]:
+        intervals [292]:
             xmin = 708.8746987104162 
-            xmax = 708.9758098693143 
+            xmax = 709.0031934135089 
             text = "あ" 
-        intervals [306]:
-            xmin = 708.9758098693143 
+        intervals [293]:
+            xmin = 709.0031934135089 
             xmax = 709.11512133353 
             text = "" 
-        intervals [307]:
+        intervals [294]:
             xmin = 709.11512133353 
             xmax = 709.7786940022272 
             text = "誰かやってくれた" 
-        intervals [308]:
+        intervals [295]:
             xmin = 709.7786940022272 
             xmax = 709.8466502393829 
             text = "" 
-        intervals [309]:
+        intervals [296]:
             xmin = 709.8466502393829 
             xmax = 710.3201925125782 
             text = "あ{breath}" 
-        intervals [310]:
+        intervals [297]:
             xmin = 710.3201925125782 
             xmax = 710.4389843935978 
             text = "" 
-        intervals [311]:
+        intervals [298]:
             xmin = 710.4389843935978 
             xmax = 711.8248716043378 
             text = "あざっす{laugh}" 
-        intervals [312]:
+        intervals [299]:
             xmin = 711.8248716043378 
             xmax = 712.8980489814434 
             text = "" 
-        intervals [313]:
+        intervals [300]:
             xmin = 712.8980489814434 
             xmax = 713.1262167835278 
             text = "{breath}" 
-        intervals [314]:
+        intervals [301]:
             xmin = 713.1262167835278 
             xmax = 713.2621292578392 
             text = "" 
-        intervals [315]:
+        intervals [302]:
             xmin = 713.2621292578392 
             xmax = 713.978977427989 
             text = "なんかさ" 
-        intervals [316]:
+        intervals [303]:
             xmin = 713.978977427989 
             xmax = 716.5151571767635 
             text = "" 
-        intervals [317]:
+        intervals [304]:
             xmin = 716.5151571767635 
             xmax = 717.2669306362532 
             text = "わかんないね" 
-        intervals [318]:
+        intervals [305]:
             xmin = 717.2669306362532 
             xmax = 725.0438005138229 
             text = "" 
-        intervals [319]:
+        intervals [306]:
             xmin = 725.0438005138229 
             xmax = 727.1476838505632 
             text = "でもさすごいね世界観が" 
-        intervals [320]:
+        intervals [307]:
             xmin = 727.1476838505632 
             xmax = 728.5350182581993 
             text = "" 
-        intervals [321]:
+        intervals [308]:
             xmin = 728.5350182581993 
             xmax = 729.1108946617967 
             text = "半端な" 
-        intervals [322]:
+        intervals [309]:
             xmin = 729.1108946617967 
             xmax = 731.8383626962463 
             text = "" 
-        intervals [323]:
+        intervals [310]:
             xmin = 731.8383626962463 
             xmax = 732.8342840241892 
             text = "争奪中" 
-        intervals [324]:
+        intervals [311]:
             xmin = 732.8342840241892 
             xmax = 733.9918871781686 
             text = "" 
-        intervals [325]:
+        intervals [312]:
             xmin = 733.9918871781686 
             xmax = 735.1532913890322 
             text = "争奪中" 
-        intervals [326]:
+        intervals [313]:
             xmin = 735.1532913890322 
             xmax = 739.5105506084185 
             text = "" 
-        intervals [327]:
+        intervals [314]:
             xmin = 739.5105506084185 
             xmax = 739.7896835994177 
             text = "どこい" 
-        intervals [328]:
+        intervals [315]:
             xmin = 739.7896835994177 
             xmax = 744.3198048942345 
             text = "" 
-        intervals [329]:
+        intervals [316]:
             xmin = 744.3198048942345 
             xmax = 744.7337283550186 
             text = "{laugh}" 
-        intervals [330]:
+        intervals [317]:
             xmin = 744.7337283550186 
             xmax = 745.9641026497411 
             text = "" 
-        intervals [331]:
+        intervals [318]:
             xmin = 745.9641026497411 
             xmax = 746.7877675893665 
             text = "足元" 
-        intervals [332]:
+        intervals [319]:
             xmin = 746.7877675893665 
             xmax = 757.9333504892741 
             text = "" 
-        intervals [333]:
+        intervals [320]:
             xmin = 757.9333504892741 
             xmax = 759.0150035467575 
             text = "{laugh}" 
-        intervals [334]:
+        intervals [321]:
             xmin = 759.0150035467575 
             xmax = 759.3324488148875 
             text = "" 
-        intervals [335]:
+        intervals [322]:
             xmin = 759.3324488148875 
             xmax = 759.9732462599388 
             text = "わかんない" 
-        intervals [336]:
+        intervals [323]:
             xmin = 759.9732462599388 
             xmax = 761.4652295101768 
             text = "" 
-        intervals [337]:
+        intervals [324]:
             xmin = 761.4652295101768 
             xmax = 763.3201852070518 
             text = "シールドジェネレーターとはなんだ" 
-        intervals [338]:
+        intervals [325]:
             xmin = 763.3201852070518 
             xmax = 770.399374734867 
             text = "" 
-        intervals [339]:
+        intervals [326]:
             xmin = 770.399374734867 
             xmax = 772.2738587864602 
             text = "カエルピンクだよ{R xx}" 
-        intervals [340]:
+        intervals [327]:
             xmin = 772.2738587864602 
             xmax = 772.5254949564805 
             text = "" 
-        intervals [341]:
+        intervals [328]:
             xmin = 772.5254949564805 
             xmax = 773.6166336757924 
             text = "ピンクだよ" 
-        intervals [342]:
+        intervals [329]:
             xmin = 773.6166336757924 
             xmax = 778.0589036851519 
             text = "" 
-        intervals [343]:
+        intervals [330]:
             xmin = 778.0589036851519 
             xmax = 779.6657648944246 
             text = "うおおって聞こえる" 
-        intervals [344]:
+        intervals [331]:
             xmin = 779.6657648944246 
             xmax = 781.9504636288273 
             text = "" 
-        intervals [345]:
+        intervals [332]:
             xmin = 781.9504636288273 
             xmax = 782.9386135937128 
             text = "{? あのさ}目標エー" 
-        intervals [346]:
+        intervals [333]:
             xmin = 782.9386135937128 
             xmax = 785.4695487756002 
             text = "" 
-        intervals [347]:
+        intervals [334]:
             xmin = 785.4695487756002 
             xmax = 786.3025344973285 
             text = "だ誰がいってんの" 
-        intervals [348]:
+        intervals [335]:
             xmin = 786.3025344973285 
             xmax = 786.5623671688062 
             text = "" 
-        intervals [349]:
+        intervals [336]:
             xmin = 786.5623671688062 
             xmax = 786.814141699773 
             text = "{breath}" 
-        intervals [350]:
+        intervals [337]:
             xmin = 786.814141699773 
             xmax = 792.639869235869 
             text = "" 
-        intervals [351]:
+        intervals [338]:
             xmin = 792.639869235869 
             xmax = 793.3168718046718 
             text = "{R xx}ちゃんこれ" 
-        intervals [352]:
+        intervals [339]:
             xmin = 793.3168718046718 
             xmax = 793.9946835738426 
             text = "" 
-        intervals [353]:
+        intervals [340]:
             xmin = 793.9946835738426 
             xmax = 794.3763062229613 
             text = "だよね" 
-        intervals [354]:
+        intervals [341]:
             xmin = 794.3763062229613 
             xmax = 801.0543363880721 
             text = "" 
-        intervals [355]:
+        intervals [342]:
             xmin = 801.0543363880721 
             xmax = 804.2290739581075 
             text = "だって目標エーをさ防衛しようって目標エーってそこじゃないの" 
-        intervals [356]:
+        intervals [343]:
             xmin = 804.2290739581075 
             xmax = 807.3846022807244 
             text = "" 
-        intervals [357]:
+        intervals [344]:
             xmin = 807.3846022807244 
             xmax = 807.8123644461162 
             text = "でもすごい" 
-        intervals [358]:
+        intervals [345]:
             xmin = 807.8123644461162 
             xmax = 807.8923129604171 
             text = "" 
-        intervals [359]:
+        intervals [346]:
             xmin = 807.8923129604171 
             xmax = 809.2938156243522 
             text = "うおおって聞こえるね" 
-        intervals [360]:
+        intervals [347]:
             xmin = 809.2938156243522 
             xmax = 818.3380180877873 
             text = "" 
-        intervals [361]:
+        intervals [348]:
             xmin = 818.3380180877873 
             xmax = 818.9256698588006 
             text = "あはい" 
-        intervals [362]:
+        intervals [349]:
             xmin = 818.9256698588006 
             xmax = 831.9682276911724 
             text = "" 
-        intervals [363]:
+        intervals [350]:
             xmin = 831.9682276911724 
             xmax = 833.4629536239221 
             text = "とっておきって言ったけど" 
-        intervals [364]:
+        intervals [351]:
             xmin = 833.4629536239221 
             xmax = 834.3539644118349 
             text = "" 
-        intervals [365]:
+        intervals [352]:
             xmin = 834.3539644118349 
             xmax = 834.9099374529341 
             text = "敵がいない" 
-        intervals [366]:
+        intervals [353]:
             xmin = 834.9099374529341 
             xmax = 834.9615902535306 
             text = "" 
-        intervals [367]:
+        intervals [354]:
             xmin = 834.9615902535306 
             xmax = 838.2368078094527 
             text = "{sigh}シールドジェネレーターってなんなの{laugh}" 
-        intervals [368]:
+        intervals [355]:
             xmin = 838.2368078094527 
             xmax = 838.3224719153343 
             text = "" 
-        intervals [369]:
+        intervals [356]:
             xmin = 838.3224719153343 
             xmax = 839.0703986975832 
             text = "行ってみようか" 
-        intervals [370]:
+        intervals [357]:
             xmin = 839.0703986975832 
             xmax = 842.0345687707356 
             text = "" 
-        intervals [371]:
+        intervals [358]:
             xmin = 842.0345687707356 
             xmax = 842.2073305295621 
-            text = "おお" 
-        intervals [372]:
+            text = "おおすごい" 
+        intervals [359]:
             xmin = 842.2073305295621 
             xmax = 842.8052836472385 
-            text = "すごい" 
-        intervals [373]:
+            text = "" 
+        intervals [360]:
             xmin = 842.8052836472385 
             xmax = 854.6799797957191 
             text = "" 
-        intervals [374]:
+        intervals [361]:
             xmin = 854.6799797957191 
             xmax = 855.5242625489915 
             text = "不明のオー" 
-        intervals [375]:
+        intervals [362]:
             xmin = 855.5242625489915 
             xmax = 855.5711050982982 
             text = "" 
-        intervals [376]:
+        intervals [363]:
             xmin = 855.5711050982982 
             xmax = 856.8020228927178 
             text = "フワのオーブってなに" 
-        intervals [377]:
+        intervals [364]:
             xmin = 856.8020228927178 
             xmax = 869.7475885054768 
             text = "" 
-        intervals [378]:
+        intervals [365]:
             xmin = 869.7475885054768 
             xmax = 871.0209342004508 
             text = "ゼニヤッタを倒した" 
-        intervals [379]:
+        intervals [366]:
             xmin = 871.0209342004508 
             xmax = 891.713884576919 
             text = "" 
-        intervals [380]:
+        intervals [367]:
             xmin = 891.713884576919 
             xmax = 892.7283136387518 
             text = "ありがとう" 
-        intervals [381]:
+        intervals [368]:
             xmin = 892.7283136387518 
             xmax = 895.0968440831406 
             text = "" 
-        intervals [382]:
+        intervals [369]:
             xmin = 895.0968440831406 
             xmax = 895.4148855208844 
             text = "{laugh}" 
-        intervals [383]:
+        intervals [370]:
             xmin = 895.4148855208844 
             xmax = 902.1943908007482 
             text = "" 
-        intervals [384]:
+        intervals [371]:
             xmin = 902.1943908007482 
             xmax = 903.1331346148593 
             text = "難しいよね" 
-        intervals [385]:
+        intervals [372]:
             xmin = 903.1331346148593 
             xmax = 926.8545439846731 
             text = "" 
-        intervals [386]:
+        intervals [373]:
             xmin = 926.8545439846731 
             xmax = 929.4074095995443 
             text = "なんかさ何もやってないよね{laugh}" 
-        intervals [387]:
+        intervals [374]:
             xmin = 929.4074095995443 
             xmax = 929.436651738729 
             text = "" 
-        intervals [388]:
+        intervals [375]:
             xmin = 929.436651738729 
             xmax = 931.090332011922 
             text = "何もやってないよね" 
-        intervals [389]:
+        intervals [376]:
             xmin = 931.090332011922 
             xmax = 931.3765688925494 
             text = "" 
-        intervals [390]:
+        intervals [377]:
             xmin = 931.3765688925494 
             xmax = 931.7712288340203 
             text = "{breath}" 
-        intervals [391]:
+        intervals [378]:
             xmin = 931.7712288340203 
             xmax = 932.1051718614189 
             text = "" 
-        intervals [392]:
+        intervals [379]:
             xmin = 932.1051718614189 
             xmax = 932.4980213682343 
             text = "{sigh}" 
-        intervals [393]:
+        intervals [380]:
             xmin = 932.4980213682343 
             xmax = 936.154490098529 
             text = "" 
-        intervals [394]:
+        intervals [381]:
             xmin = 936.154490098529 
-            xmax = 936.2467802406056 
-            text = "え" 
-        intervals [395]:
-            xmin = 936.2467802406056 
             xmax = 937.4542986087266 
-            text = "この人がすごいんだ" 
-        intervals [396]:
+            text = "えこの人がすごいんだ" 
+        intervals [382]:
             xmin = 937.4542986087266 
             xmax = 939.2881789415677 
             text = "" 
-        intervals [397]:
+        intervals [383]:
             xmin = 939.2881789415677 
             xmax = 940.4531153641904 
             text = "なんかさっきから" 
-        intervals [398]:
+        intervals [384]:
             xmin = 940.4531153641904 
             xmax = 945.0079687720075 
             text = "" 
-        intervals [399]:
+        intervals [385]:
             xmin = 945.0079687720075 
             xmax = 948.1191148968464 
             text = "{L うん}" 
-        intervals [400]:
+        intervals [386]:
             xmin = 948.1191148968464 
             xmax = 954.771526611318 
             text = "" 
-        intervals [401]:
+        intervals [387]:
             xmin = 954.771526611318 
             xmax = 955.1327209930397 
             text = "いいね" 
-        intervals [402]:
+        intervals [388]:
             xmin = 955.1327209930397 
             xmax = 955.5941775693873 
             text = "" 
-        intervals [403]:
+        intervals [389]:
             xmin = 955.5941775693873 
             xmax = 956.2886652740747 
             text = "いいねしとく" 
-        intervals [404]:
+        intervals [390]:
             xmin = 956.2886652740747 
             xmax = 967.2172159699103 
             text = "" 
-        intervals [405]:
+        intervals [391]:
             xmin = 967.2172159699103 
             xmax = 967.6402467050752 
             text = "へえ" 
-        intervals [406]:
+        intervals [392]:
             xmin = 967.6402467050752 
             xmax = 973.6217067990749 
             text = "" 
-        intervals [407]:
+        intervals [393]:
             xmin = 973.6217067990749 
             xmax = 973.8957566343684 
             text = "はい" 
-        intervals [408]:
+        intervals [394]:
             xmin = 973.8957566343684 
             xmax = 976.309402579603 
             text = "" 
-        intervals [409]:
+        intervals [395]:
             xmin = 976.309402579603 
             xmax = 976.599994745026 
             text = "はい" 
-        intervals [410]:
+        intervals [396]:
             xmin = 976.599994745026 
             xmax = 980.4573983084659 
             text = "" 
-        intervals [411]:
+        intervals [397]:
             xmin = 980.4573983084659 
             xmax = 980.6980372003053 
             text = "はい" 
-        intervals [412]:
+        intervals [398]:
             xmin = 980.6980372003053 
             xmax = 984.8263212402129 
             text = "" 
-        intervals [413]:
+        intervals [399]:
             xmin = 984.8263212402129 
             xmax = 985.2030920315557 
             text = "はい" 
-        intervals [414]:
+        intervals [400]:
             xmin = 985.2030920315557 
             xmax = 989.3169048962637 
             text = "" 
-        intervals [415]:
+        intervals [401]:
             xmin = 989.3169048962637 
             xmax = 989.5289002243758 
             text = "はい" 
-        intervals [416]:
+        intervals [402]:
             xmin = 989.5289002243758 
             xmax = 996.0331044253884 
             text = "" 
-        intervals [417]:
+        intervals [403]:
             xmin = 996.0331044253884 
             xmax = 998.6156581227835 
             text = "ネパール{laugh}" 
-        intervals [418]:
+        intervals [404]:
             xmin = 998.6156581227835 
             xmax = 1007.3637088392512 
             text = "" 
-        intervals [419]:
+        intervals [405]:
             xmin = 1007.3637088392512 
             xmax = 1007.5865296555057 
             text = "ね" 
-        intervals [420]:
+        intervals [406]:
             xmin = 1007.5865296555057 
             xmax = 1007.8424080223546 
             text = "" 
-        intervals [421]:
+        intervals [407]:
             xmin = 1007.8424080223546 
             xmax = 1008.1417730463601 
             text = "{sigh}" 
-        intervals [422]:
+        intervals [408]:
             xmin = 1008.1417730463601 
             xmax = 1011.4091669646502 
             text = "" 
-        intervals [423]:
+        intervals [409]:
             xmin = 1011.4091669646502 
             xmax = 1011.6477660329685 
             text = "ああ" 
-        intervals [424]:
+        intervals [410]:
             xmin = 1011.6477660329685 
             xmax = 1011.7084829335766 
             text = "" 
-        intervals [425]:
+        intervals [411]:
             xmin = 1011.7084829335766 
             xmax = 1012.914408186009 
             text = "ここらへんやったんだ" 
-        intervals [426]:
+        intervals [412]:
             xmin = 1012.914408186009 
             xmax = 1020.7873228564001 
             text = "" 
-        intervals [427]:
+        intervals [413]:
             xmin = 1020.7873228564001 
             xmax = 1020.958417022283 
             text = "あ" 
-        intervals [428]:
+        intervals [414]:
             xmin = 1020.958417022283 
             xmax = 1021.0695497695285 
             text = "" 
-        intervals [429]:
+        intervals [415]:
             xmin = 1021.0695497695285 
             xmax = 1022.9112232467629 
             text = "マッチから離脱中だって" 
-        intervals [430]:
+        intervals [416]:
             xmin = 1022.9112232467629 
             xmax = 1023.0561788487976 
             text = "" 
-        intervals [431]:
+        intervals [417]:
             xmin = 1023.0561788487976 
             xmax = 1023.2187346233003 
             text = "{?}" 
-        intervals [432]:
+        intervals [418]:
             xmin = 1023.2187346233003 
             xmax = 1025.642190343474 
             text = "" 
-        intervals [433]:
+        intervals [419]:
             xmin = 1025.642190343474 
-            xmax = 1025.73425376855 
-            text = "あ" 
-        intervals [434]:
-            xmin = 1025.73425376855 
             xmax = 1027.5192907914338 
-            text = "なんか新しいのに入るのかね" 
-        intervals [435]:
+            text = "あなんか新しいのに入るのかね" 
+        intervals [420]:
             xmin = 1027.5192907914338 
-            xmax = 1029.9117429236323 
+            xmax = 1029.8784076113777 
             text = "" 
-        intervals [436]:
-            xmin = 1029.9117429236323 
-            xmax = 1031.8794504504779 
+        intervals [421]:
+            xmin = 1029.8784076113777 
+            xmax = 1032.0279878896167 
             text = "これあれだよねお試しのってやつだよね" 
-        intervals [437]:
-            xmin = 1031.8794504504779 
+        intervals [422]:
+            xmin = 1032.0279878896167 
             xmax = 1033.5432726487647 
             text = "" 
-        intervals [438]:
+        intervals [423]:
             xmin = 1033.5432726487647 
             xmax = 1034.7697647507557 
             text = "{R xx}ちゃん何にするの" 
-        intervals [439]:
+        intervals [424]:
             xmin = 1034.7697647507557 
             xmax = 1039.219563074732 
             text = "" 
-        intervals [440]:
+        intervals [425]:
             xmin = 1039.219563074732 
             xmax = 1040.1014480960796 
             text = "これにしよっかな" 
-        intervals [441]:
+        intervals [426]:
             xmin = 1040.1014480960796 
             xmax = 1044.8861683347284 
             text = "" 
-        intervals [442]:
+        intervals [427]:
             xmin = 1044.8861683347284 
             xmax = 1045.2501683344449 
             text = "{?}" 
-        intervals [443]:
+        intervals [428]:
             xmin = 1045.2501683344449 
             xmax = 1054.2024939781031 
             text = "" 
-        intervals [444]:
+        intervals [429]:
             xmin = 1054.2024939781031 
             xmax = 1054.9679671274564 
             text = "なんかよくわかんない" 
-        intervals [445]:
+        intervals [430]:
             xmin = 1054.9679671274564 
             xmax = 1055.224055323435 
             text = "" 
-        intervals [446]:
+        intervals [431]:
             xmin = 1055.224055323435 
             xmax = 1056.3819917395217 
             text = "{laugh}" 
-        intervals [447]:
+        intervals [432]:
             xmin = 1056.3819917395217 
             xmax = 1059.4349139613723 
             text = "" 
-        intervals [448]:
+        intervals [433]:
             xmin = 1059.4349139613723 
             xmax = 1059.6061309490674 
             text = "ん" 
-        intervals [449]:
+        intervals [434]:
             xmin = 1059.6061309490674 
             xmax = 1061.7122430803095 
             text = "" 
-        intervals [450]:
+        intervals [435]:
             xmin = 1061.7122430803095 
             xmax = 1061.819372543459 
             text = "えっ" 
-        intervals [451]:
+        intervals [436]:
             xmin = 1061.819372543459 
             xmax = 1061.8725229237564 
             text = "" 
-        intervals [452]:
+        intervals [437]:
             xmin = 1061.8725229237564 
             xmax = 1062.446508528705 
             text = "{R xx}ちゃんこれ" 
-        intervals [453]:
+        intervals [438]:
             xmin = 1062.446508528705 
-            xmax = 1062.623317146182 
+            xmax = 1062.5110638508536 
             text = "" 
-        intervals [454]:
-            xmin = 1062.623317146182 
+        intervals [439]:
+            xmin = 1062.5110638508536 
             xmax = 1065.2258300744818 
             text = "{L ゴツっゴッツ}" 
-        intervals [455]:
+        intervals [440]:
             xmin = 1065.2258300744818 
             xmax = 1073.770768470411 
             text = "" 
-        intervals [456]:
+        intervals [441]:
             xmin = 1073.770768470411 
             xmax = 1073.963917144464 
             text = "あ" 
-        intervals [457]:
+        intervals [442]:
             xmin = 1073.963917144464 
             xmax = 1074.385423636844 
             text = "" 
-        intervals [458]:
+        intervals [443]:
             xmin = 1074.385423636844 
             xmax = 1076.4571629226073 
             text = "なんか意味がわからないところに飛んでしまった" 
-        intervals [459]:
+        intervals [444]:
             xmin = 1076.4571629226073 
             xmax = 1090.9998301603537 
             text = "" 
-        intervals [460]:
+        intervals [445]:
             xmin = 1090.9998301603537 
-            xmax = 1091.088862432787 
-            text = "あ" 
-        intervals [461]:
-            xmin = 1091.088862432787 
             xmax = 1091.616596697001 
-            text = "上ね" 
-        intervals [462]:
+            text = "あ上ね" 
+        intervals [446]:
             xmin = 1091.616596697001 
             xmax = 1099.8877890919896 
             text = "" 
-        intervals [463]:
+        intervals [447]:
             xmin = 1099.8877890919896 
             xmax = 1100.7261841185677 
             text = "{laugh}" 
-        intervals [464]:
+        intervals [448]:
             xmin = 1100.7261841185677 
             xmax = 1101.5732522395297 
             text = "" 
-        intervals [465]:
+        intervals [449]:
             xmin = 1101.5732522395297 
             xmax = 1103.9576719033162 
             text = "{L うしわかったよ}" 
-        intervals [466]:
+        intervals [450]:
             xmin = 1103.9576719033162 
             xmax = 1105.706810943683 
             text = "" 
-        intervals [467]:
+        intervals [451]:
             xmin = 1105.706810943683 
             xmax = 1106.5389631723317 
             text = "難しい" 
-        intervals [468]:
+        intervals [452]:
             xmin = 1106.5389631723317 
             xmax = 1113.8123583994122 
             text = "" 
-        intervals [469]:
+        intervals [453]:
             xmin = 1113.8123583994122 
             xmax = 1114.928601433308 
             text = "なにどこにいんの" 
-        intervals [470]:
+        intervals [454]:
             xmin = 1114.928601433308 
             xmax = 1120.4680813496796 
             text = "" 
-        intervals [471]:
+        intervals [455]:
             xmin = 1120.4680813496796 
             xmax = 1121.3636086240176 
-            text = "あ" 
-        intervals [472]:
+            text = "ああ" 
+        intervals [456]:
             xmin = 1121.3636086240176 
             xmax = 1122.833410374249 
             text = "" 
-        intervals [473]:
+        intervals [457]:
             xmin = 1122.833410374249 
             xmax = 1124.0446627411102 
             text = "バリア張れるやつか" 
-        intervals [474]:
+        intervals [458]:
             xmin = 1124.0446627411102 
             xmax = 1128.2772526813446 
             text = "" 
-        intervals [475]:
+        intervals [459]:
             xmin = 1128.2772526813446 
-            xmax = 1128.3460653617644 
-            text = "え" 
-        intervals [476]:
-            xmin = 1128.3460653617644 
             xmax = 1128.705819629347 
-            text = "じゃあ" 
-        intervals [477]:
+            text = "えじゃあ" 
+        intervals [460]:
             xmin = 1128.705819629347 
             xmax = 1128.8845981812565 
             text = "" 
-        intervals [478]:
+        intervals [461]:
             xmin = 1128.8845981812565 
             xmax = 1130.7106822732492 
             text = "前の方に行かなきゃいけないのか" 
-        intervals [479]:
+        intervals [462]:
             xmin = 1130.7106822732492 
             xmax = 1131.3486479478574 
             text = "" 
-        intervals [480]:
+        intervals [463]:
             xmin = 1131.3486479478574 
             xmax = 1134.0116050503461 
             text = "{L 前の方に前の方に}" 
-        intervals [481]:
+        intervals [464]:
             xmin = 1134.0116050503461 
             xmax = 1146.6811325306755 
             text = "" 
-        intervals [482]:
+        intervals [465]:
             xmin = 1146.6811325306755 
             xmax = 1147.794139607468 
             text = "すんげえ選んでるね" 
-        intervals [483]:
+        intervals [466]:
             xmin = 1147.794139607468 
             xmax = 1149.1389796168573 
             text = "" 
-        intervals [484]:
+        intervals [467]:
             xmin = 1149.1389796168573 
             xmax = 1150.8622035003302 
             text = "スナイパーが多すぎます" 
-        intervals [485]:
+        intervals [468]:
             xmin = 1150.8622035003302 
             xmax = 1152.9328804203021 
             text = "" 
-        intervals [486]:
+        intervals [469]:
             xmin = 1152.9328804203021 
             xmax = 1153.4683515698885 
             text = "じゃこれにしよ" 
-        intervals [487]:
+        intervals [470]:
             xmin = 1153.4683515698885 
             xmax = 1160.3026843007176 
             text = "" 
-        intervals [488]:
+        intervals [471]:
             xmin = 1160.3026843007176 
             xmax = 1161.4166952767641 
             text = "なんかめっちゃ選んでない" 
-        intervals [489]:
+        intervals [472]:
             xmin = 1161.4166952767641 
             xmax = 1161.5181641846048 
             text = "" 
-        intervals [490]:
+        intervals [473]:
             xmin = 1161.5181641846048 
             xmax = 1165.2995783944164 
             text = "{L めっちゃ選んでない}" 
-        intervals [491]:
+        intervals [474]:
             xmin = 1165.2995783944164 
             xmax = 1165.989788569207 
             text = "" 
-        intervals [492]:
+        intervals [475]:
             xmin = 1165.989788569207 
-            xmax = 1166.4824387737742 
+            xmax = 1166.6590151312005 
             text = "ああ" 
-        intervals [493]:
-            xmin = 1166.4824387737742 
+        intervals [476]:
+            xmin = 1166.6590151312005 
             xmax = 1168.978002777298 
             text = "" 
-        intervals [494]:
+        intervals [477]:
             xmin = 1168.978002777298 
             xmax = 1169.601689972142 
             text = "攻撃" 
-        intervals [495]:
+        intervals [478]:
             xmin = 1169.601689972142 
             xmax = 1169.833618904349 
             text = "" 
-        intervals [496]:
+        intervals [479]:
             xmin = 1169.833618904349 
             xmax = 1170.6530088237273 
             text = "攻撃" 
-        intervals [497]:
+        intervals [480]:
             xmin = 1170.6530088237273 
             xmax = 1171.3747154107741 
             text = "" 
-        intervals [498]:
+        intervals [481]:
             xmin = 1171.3747154107741 
-            xmax = 1171.7818292000518 
+            xmax = 1171.9426094512185 
             text = "ああ" 
-        intervals [499]:
-            xmin = 1171.7818292000518 
+        intervals [482]:
+            xmin = 1171.9426094512185 
             xmax = 1172.5365174126644 
             text = "" 
-        intervals [500]:
+        intervals [483]:
             xmin = 1172.5365174126644 
             xmax = 1173.4190408948734 
             text = "攻撃するんだ" 
-        intervals [501]:
+        intervals [484]:
             xmin = 1173.4190408948734 
             xmax = 1181.8676303393688 
             text = "" 
-        intervals [502]:
+        intervals [485]:
             xmin = 1181.8676303393688 
-            xmax = 1182.3356931243059 
-            text = "ああ" 
-        intervals [503]:
-            xmin = 1182.3356931243059 
             xmax = 1183.8511059175892 
-            text = "そっかそゆことか" 
-        intervals [504]:
+            text = "ああそっかそゆことか" 
+        intervals [486]:
             xmin = 1183.8511059175892 
             xmax = 1187.2545004177007 
             text = "" 
-        intervals [505]:
+        intervals [487]:
             xmin = 1187.2545004177007 
             xmax = 1188.3517276605123 
             text = "{R xx}ちゃんさっきと同じ" 
-        intervals [506]:
+        intervals [488]:
             xmin = 1188.3517276605123 
             xmax = 1188.981091887762 
             text = "" 
-        intervals [507]:
+        intervals [489]:
             xmin = 1188.981091887762 
             xmax = 1190.1645257771588 
             text = "これっあこれだ" 
-        intervals [508]:
+        intervals [490]:
             xmin = 1190.1645257771588 
             xmax = 1190.703602343822 
             text = "" 
-        intervals [509]:
+        intervals [491]:
             xmin = 1190.703602343822 
             xmax = 1191.2149769564078 
             text = "{R xx}これ" 
-        intervals [510]:
+        intervals [492]:
             xmin = 1191.2149769564078 
             xmax = 1191.286063213924 
             text = "" 
-        intervals [511]:
+        intervals [493]:
             xmin = 1191.286063213924 
             xmax = 1191.5816585808866 
             text = "{laugh}" 
-        intervals [512]:
+        intervals [494]:
             xmin = 1191.5816585808866 
             xmax = 1191.6531792230323 
             text = "" 
-        intervals [513]:
+        intervals [495]:
             xmin = 1191.6531792230323 
             xmax = 1191.8975414170302 
             text = "{L あ}" 
-        intervals [514]:
+        intervals [496]:
             xmin = 1191.8975414170302 
             xmax = 1192.0823030759068 
             text = "" 
-        intervals [515]:
+        intervals [497]:
             xmin = 1192.0823030759068 
             xmax = 1193.1931706508294 
             text = "ぶたれたぶたれた" 
-        intervals [516]:
+        intervals [498]:
             xmin = 1193.1931706508294 
             xmax = 1193.6495254998142 
             text = "" 
-        intervals [517]:
+        intervals [499]:
             xmin = 1193.6495254998142 
             xmax = 1193.9183478708305 
             text = "{laugh}" 
-        intervals [518]:
+        intervals [500]:
             xmin = 1193.9183478708305 
             xmax = 1206.8121292652543 
             text = "" 
-        intervals [519]:
+        intervals [501]:
             xmin = 1206.8121292652543 
             xmax = 1208.0853551472037 
             text = "まだ突撃じゃないんでしょ" 
-        intervals [520]:
+        intervals [502]:
             xmin = 1208.0853551472037 
             xmax = 1211.2101100464838 
             text = "" 
-        intervals [521]:
+        intervals [503]:
             xmin = 1211.2101100464838 
             xmax = 1212.3704010535987 
             text = "なんかみんな上から" 
-        intervals [522]:
+        intervals [504]:
             xmin = 1212.3704010535987 
             xmax = 1220.6959763648515 
             text = "" 
-        intervals [523]:
+        intervals [505]:
             xmin = 1220.6959763648515 
             xmax = 1221.6913204494626 
             text = "なんかさこれさ" 
-        intervals [524]:
+        intervals [506]:
             xmin = 1221.6913204494626 
             xmax = 1222.7117649998365 
             text = "" 
-        intervals [525]:
+        intervals [507]:
             xmin = 1222.7117649998365 
             xmax = 1224.6549209756713 
             text = "弾でどこから来るか分かっちゃうよね" 
-        intervals [526]:
+        intervals [508]:
             xmin = 1224.6549209756713 
             xmax = 1225.1497648931825 
             text = "" 
-        intervals [527]:
+        intervals [509]:
             xmin = 1225.1497648931825 
             xmax = 1226.1289830356525 
             text = "外から見て" 
-        intervals [528]:
+        intervals [510]:
             xmin = 1226.1289830356525 
             xmax = 1232.8923369817642 
             text = "" 
-        intervals [529]:
+        intervals [511]:
             xmin = 1232.8923369817642 
             xmax = 1233.3999729355728 
             text = "ああ" 
-        intervals [530]:
+        intervals [512]:
             xmin = 1233.3999729355728 
             xmax = 1243.0553603396427 
             text = "" 
-        intervals [531]:
+        intervals [513]:
             xmin = 1243.0553603396427 
             xmax = 1243.3694306046527 
             text = "{laugh}" 
-        intervals [532]:
+        intervals [514]:
             xmin = 1243.3694306046527 
             xmax = 1266.2796067873887 
             text = "" 
-        intervals [533]:
+        intervals [515]:
             xmin = 1266.2796067873887 
             xmax = 1268.337422302526 
             text = "{L 今叫んだの{R xx}ちゃんか}" 
-        intervals [534]:
+        intervals [516]:
             xmin = 1268.337422302526 
             xmax = 1268.8449049917028 
             text = "" 
-        intervals [535]:
+        intervals [517]:
             xmin = 1268.8449049917028 
             xmax = 1269.8782997720982 
             text = "{laugh}" 
-        intervals [536]:
+        intervals [518]:
             xmin = 1269.8782997720982 
             xmax = 1274.999168577469 
             text = "" 
-        intervals [537]:
+        intervals [519]:
             xmin = 1274.999168577469 
             xmax = 1276.2009597992944 
             text = "ベイロードを護衛しよう" 
-        intervals [538]:
+        intervals [520]:
             xmin = 1276.2009597992944 
             xmax = 1276.5369262910865 
             text = "" 
-        intervals [539]:
+        intervals [521]:
             xmin = 1276.5369262910865 
             xmax = 1276.7288663494892 
             text = "{breath}" 
-        intervals [540]:
+        intervals [522]:
             xmin = 1276.7288663494892 
             xmax = 1279.6020321917133 
             text = "" 
-        intervals [541]:
+        intervals [523]:
             xmin = 1279.6020321917133 
-            xmax = 1280.2556319657965 
+            xmax = 1280.4281541459345 
             text = "ああ" 
-        intervals [542]:
-            xmin = 1280.2556319657965 
+        intervals [524]:
+            xmin = 1280.4281541459345 
             xmax = 1281.0008234779814 
             text = "" 
-        intervals [543]:
+        intervals [525]:
             xmin = 1281.0008234779814 
             xmax = 1282.139191120973 
             text = "また護衛するんだ" 
-        intervals [544]:
+        intervals [526]:
             xmin = 1282.139191120973 
             xmax = 1307.2240240401918 
             text = "" 
-        intervals [545]:
+        intervals [527]:
             xmin = 1307.2240240401918 
             xmax = 1307.9328630131477 
             text = "なんかさ" 
-        intervals [546]:
+        intervals [528]:
             xmin = 1307.9328630131477 
             xmax = 1314.8163868325223 
             text = "" 
-        intervals [547]:
+        intervals [529]:
             xmin = 1314.8163868325223 
             xmax = 1315.4081057650508 
             text = "{sigh}{R xx}" 
-        intervals [548]:
+        intervals [530]:
             xmin = 1315.4081057650508 
-            xmax = 1316.1414597113824 
+            xmax = 1315.9582230535173 
             text = "" 
-        intervals [549]:
-            xmin = 1316.1414597113824 
-            xmax = 1316.7593889171812 
+        intervals [531]:
+            xmin = 1315.9582230535173 
+            xmax = 1317.0656886999566 
             text = "{R xx}ちゃん" 
-        intervals [550]:
-            xmin = 1316.7593889171812 
+        intervals [532]:
+            xmin = 1317.0656886999566 
             xmax = 1318.1079360980852 
             text = "" 
-        intervals [551]:
+        intervals [533]:
             xmin = 1318.1079360980852 
             xmax = 1318.7828275170775 
             text = "シードル" 
-        intervals [552]:
+        intervals [534]:
             xmin = 1318.7828275170775 
             xmax = 1318.8802965826405 
             text = "" 
-        intervals [553]:
+        intervals [535]:
             xmin = 1318.8802965826405 
             xmax = 1322.176689523028 
             text = "{L シードルじゃないシールド}張れるの" 
-        intervals [554]:
+        intervals [536]:
             xmin = 1322.176689523028 
             xmax = 1324.1162967773917 
             text = "" 
-        intervals [555]:
+        intervals [537]:
             xmin = 1324.1162967773917 
-            xmax = 1324.745565968551 
+            xmax = 1324.7651870001578 
             text = "へえ" 
-        intervals [556]:
-            xmin = 1324.745565968551 
+        intervals [538]:
+            xmin = 1324.7651870001578 
             xmax = 1325.1009927231 
             text = "" 
-        intervals [557]:
+        intervals [539]:
             xmin = 1325.1009927231 
             xmax = 1326.5739364850845 
             text = "それはなんかたまらないと張れないの" 
-        intervals [558]:
+        intervals [540]:
             xmin = 1326.5739364850845 
             xmax = 1326.6432404268342 
             text = "" 
-        intervals [559]:
+        intervals [541]:
             xmin = 1326.6432404268342 
             xmax = 1326.9683088677086 
             text = "おお" 
-        intervals [560]:
+        intervals [542]:
             xmin = 1326.9683088677086 
             xmax = 1331.3410204339395 
             text = "" 
-        intervals [561]:
+        intervals [543]:
             xmin = 1331.3410204339395 
-            xmax = 1331.5233665844185 
-            text = "あ" 
-        intervals [562]:
-            xmin = 1331.5233665844185 
             xmax = 1332.9714070858358 
-            text = "そうそれで前行けばいいんじゃない" 
-        intervals [563]:
+            text = "ああそうそれで前行けばいいんじゃない" 
+        intervals [544]:
             xmin = 1332.9714070858358 
             xmax = 1354.759068934285 
             text = "" 
-        intervals [564]:
+        intervals [545]:
             xmin = 1354.759068934285 
-            xmax = 1355.1819834490086 
+            xmax = 1355.386181373366 
             text = "おお" 
-        intervals [565]:
-            xmin = 1355.1819834490086 
+        intervals [546]:
+            xmin = 1355.386181373366 
             xmax = 1363.8611995147664 
             text = "" 
-        intervals [566]:
+        intervals [547]:
             xmin = 1363.8611995147664 
-            xmax = 1363.9444316638433 
-            text = "あ" 
-        intervals [567]:
-            xmin = 1363.9444316638433 
             xmax = 1366.616413921801 
-            text = "やべ{L ばれた}" 
-        intervals [568]:
+            text = "あやべ{L ばれた}" 
+        intervals [548]:
             xmin = 1366.616413921801 
             xmax = 1370.717678067748 
             text = "" 
-        intervals [569]:
+        intervals [549]:
             xmin = 1370.717678067748 
             xmax = 1372.1635162405423 
             text = "本当に前にいるねちゃんと" 
-        intervals [570]:
+        intervals [550]:
             xmin = 1372.1635162405423 
             xmax = 1372.7040722546265 
             text = "" 
-        intervals [571]:
+        intervals [551]:
             xmin = 1372.7040722546265 
             xmax = 1373.1237831909493 
             text = "偉い" 
-        intervals [572]:
+        intervals [552]:
             xmin = 1373.1237831909493 
             xmax = 1380.7132278949957 
             text = "" 
-        intervals [573]:
+        intervals [553]:
             xmin = 1380.7132278949957 
             xmax = 1381.280073616951 
             text = "押してんじゃね" 
-        intervals [574]:
+        intervals [554]:
             xmin = 1381.280073616951 
             xmax = 1389.3210076889047 
             text = "" 
-        intervals [575]:
+        intervals [555]:
             xmin = 1389.3210076889047 
             xmax = 1390.4605031507717 
             text = "すごいすごいすごいすごい" 
-        intervals [576]:
+        intervals [556]:
             xmin = 1390.4605031507717 
             xmax = 1390.571731694519 
             text = "" 
-        intervals [577]:
+        intervals [557]:
             xmin = 1390.571731694519 
             xmax = 1390.774068267253 
             text = "{breath}" 
-        intervals [578]:
+        intervals [558]:
             xmin = 1390.774068267253 
             xmax = 1391.0301054460726 
             text = "" 
-        intervals [579]:
+        intervals [559]:
             xmin = 1391.0301054460726 
-            xmax = 1391.7759157852925 
+            xmax = 1391.982261632042 
             text = "すごいすごい" 
-        intervals [580]:
-            xmin = 1391.7759157852925 
+        intervals [560]:
+            xmin = 1391.982261632042 
             xmax = 1399.5110151584668 
             text = "" 
-        intervals [581]:
+        intervals [561]:
             xmin = 1399.5110151584668 
             xmax = 1400.1846471411636 
             text = "あら" 
-        intervals [582]:
+        intervals [562]:
             xmin = 1400.1846471411636 
             xmax = 1400.6683584603195 
             text = "" 
-        intervals [583]:
+        intervals [563]:
             xmin = 1400.6683584603195 
             xmax = 1401.9245896244859 
             text = "{breath}吹っ飛ばされた" 
-        intervals [584]:
+        intervals [564]:
             xmin = 1401.9245896244859 
             xmax = 1416.4929347066832 
             text = "" 
-        intervals [585]:
+        intervals [565]:
             xmin = 1416.4929347066832 
             xmax = 1416.9501195269386 
             text = "どこに" 
-        intervals [586]:
+        intervals [566]:
             xmin = 1416.9501195269386 
             xmax = 1417.3502410575131 
             text = "" 
-        intervals [587]:
+        intervals [567]:
             xmin = 1417.3502410575131 
             xmax = 1419.0661612340168 
             text = "行くのって感じじゃ{L ね}" 
-        intervals [588]:
+        intervals [568]:
             xmin = 1419.0661612340168 
             xmax = 1428.5386904745055 
             text = "" 
-        intervals [589]:
+        intervals [569]:
             xmin = 1428.5386904745055 
             xmax = 1429.3152910275057 
             text = "チームキル" 
-        intervals [590]:
+        intervals [570]:
             xmin = 1429.3152910275057 
             xmax = 1430.8587510166342 
             text = "" 
-        intervals [591]:
+        intervals [571]:
             xmin = 1430.8587510166342 
             xmax = 1431.2380217551363 
             text = "とは" 
-        intervals [592]:
+        intervals [572]:
             xmin = 1431.2380217551363 
             xmax = 1442.0120995223713 
             text = "" 
-        intervals [593]:
+        intervals [573]:
             xmin = 1442.0120995223713 
-            xmax = 1442.8050861603072 
+            xmax = 1443.3310265493228 
             text = "ああ" 
-        intervals [594]:
-            xmin = 1442.8050861603072 
+        intervals [574]:
+            xmin = 1443.3310265493228 
             xmax = 1445.236090729573 
             text = "" 
-        intervals [595]:
+        intervals [575]:
             xmin = 1445.236090729573 
             xmax = 1447.7757827742792 
             text = "{L あたどり着く前に終わっちゃった}" 
-        intervals [596]:
+        intervals [576]:
             xmin = 1447.7757827742792 
             xmax = 1450.88943339611 
             text = "" 
-        intervals [597]:
+        intervals [577]:
             xmin = 1450.88943339611 
             xmax = 1452.2432617236623 
             text = "パンプキンがいるんだけど" 
-        intervals [598]:
+        intervals [578]:
             xmin = 1452.2432617236623 
             xmax = 1455.8181290027571 
             text = "" 
-        intervals [599]:
+        intervals [579]:
             xmin = 1455.8181290027571 
             xmax = 1456.2987166685068 
             text = "おお" 
-        intervals [600]:
+        intervals [580]:
             xmin = 1456.2987166685068 
             xmax = 1465.5169220277826 
             text = "" 
-        intervals [601]:
+        intervals [581]:
             xmin = 1465.5169220277826 
             xmax = 1466.090245604928 
             text = "すごいね" 
-        intervals [602]:
+        intervals [582]:
             xmin = 1466.090245604928 
             xmax = 1466.1491738369223 
             text = "" 
-        intervals [603]:
+        intervals [583]:
             xmin = 1466.1491738369223 
             xmax = 1469.4411135883724 
             text = "{L ローソクついてる}" 
-        intervals [604]:
+        intervals [584]:
             xmin = 1469.4411135883724 
             xmax = 1472.0953018338669 
             text = "" 
-        intervals [605]:
+        intervals [585]:
             xmin = 1472.0953018338669 
             xmax = 1472.8406064514893 
             text = "可愛い" 
-        intervals [606]:
+        intervals [586]:
             xmin = 1472.8406064514893 
             xmax = 1491.4163382577256 
             text = "" 
-        intervals [607]:
+        intervals [587]:
             xmin = 1491.4163382577256 
             xmax = 1492.309425593808 
             text = "おお" 
-        intervals [608]:
+        intervals [588]:
             xmin = 1492.309425593808 
             xmax = 1492.7687068687915 
             text = "" 
-        intervals [609]:
+        intervals [589]:
             xmin = 1492.7687068687915 
             xmax = 1494.0429222599016 
             text = "おめでとうございます" 
-        intervals [610]:
+        intervals [590]:
             xmin = 1494.0429222599016 
             xmax = 1494.7838571338689 
             text = "" 
-        intervals [611]:
+        intervals [591]:
             xmin = 1494.7838571338689 
             xmax = 1505.276998088468 
             text = "{laugh}命中率八パーセントやばくない{L 当たってるよちゃんととかいってそっちてそっちていうね}" 
-        intervals [612]:
+        intervals [592]:
             xmin = 1505.276998088468 
-            xmax = 1512.0840907134775 
+            xmax = 1511.9010245280144 
             text = "" 
-        intervals [613]:
-            xmin = 1512.0840907134775 
+        intervals [593]:
+            xmin = 1511.9010245280144 
             xmax = 1513.797727597766 
             text = "ありがとうこんにちわ{sigh}" 
-        intervals [614]:
+        intervals [594]:
             xmin = 1513.797727597766 
             xmax = 1521.1288131312733 
             text = "" 
-        intervals [615]:
+        intervals [595]:
             xmin = 1521.1288131312733 
             xmax = 1521.325684795635 
             text = "ね" 
-        intervals [616]:
+        intervals [596]:
             xmin = 1521.325684795635 
             xmax = 1525.0216016877969 
             text = "" 
-        intervals [617]:
+        intervals [597]:
             xmin = 1525.0216016877969 
             xmax = 1526.9577174309493 
             text = "攻撃力が不足してますって出ちゃう" 
-        intervals [618]:
+        intervals [598]:
             xmin = 1526.9577174309493 
             xmax = 1537.6629903977805 
             text = "" 
-        intervals [619]:
+        intervals [599]:
             xmin = 1537.6629903977805 
             xmax = 1538.2328422065873 
             text = "タンク系" 
-        intervals [620]:
+        intervals [600]:
             xmin = 1538.2328422065873 
             xmax = 1546.609612018136 
             text = "" 
-        intervals [621]:
+        intervals [601]:
             xmin = 1546.609612018136 
             xmax = 1547.501387684047 
             text = "タンク系って" 
-        intervals [622]:
+        intervals [602]:
             xmin = 1547.501387684047 
             xmax = 1555.7644753215222 
             text = "" 
-        intervals [623]:
+        intervals [603]:
             xmin = 1555.7644753215222 
             xmax = 1558.0228058316013 
             text = "ああ" 
-        intervals [624]:
+        intervals [604]:
             xmin = 1558.0228058316013 
             xmax = 1565.0081272382472 
             text = "" 
-        intervals [625]:
+        intervals [605]:
             xmin = 1565.0081272382472 
             xmax = 1565.9023020333111 
             text = "防御体制" 
-        intervals [626]:
+        intervals [606]:
             xmin = 1565.9023020333111 
             xmax = 1567.493270589383 
             text = "" 
-        intervals [627]:
+        intervals [607]:
             xmin = 1567.493270589383 
             xmax = 1568.2670488682306 
             text = "わかんないね" 
-        intervals [628]:
+        intervals [608]:
             xmin = 1568.2670488682306 
             xmax = 1575.7872380046977 
             text = "" 
-        intervals [629]:
+        intervals [609]:
             xmin = 1575.7872380046977 
             xmax = 1577.0539170090867 
             text = "ふん" 
-        intervals [630]:
+        intervals [610]:
             xmin = 1577.0539170090867 
             xmax = 1588.0568402204708 
             text = "" 
-        intervals [631]:
+        intervals [611]:
             xmin = 1588.0568402204708 
-            xmax = 1588.6192165530529 
+            xmax = 1588.7833661349255 
             text = "うんうん" 
-        intervals [632]:
-            xmin = 1588.6192165530529 
+        intervals [612]:
+            xmin = 1588.7833661349255 
             xmax = 1590.1917424906214 
             text = "" 
-        intervals [633]:
+        intervals [613]:
             xmin = 1590.1917424906214 
             xmax = 1590.8529463032742 
             text = "{? これ}{R xx}ちゃんか" 
-        intervals [634]:
+        intervals [614]:
             xmin = 1590.8529463032742 
             xmax = 1592.3220274689256 
             text = "" 
-        intervals [635]:
+        intervals [615]:
             xmin = 1592.3220274689256 
-            xmax = 1592.6174686899342 
+            xmax = 1592.9935908531452 
             text = "これ" 
-        intervals [636]:
-            xmin = 1592.6174686899342 
+        intervals [616]:
+            xmin = 1592.9935908531452 
             xmax = 1599.52910509411 
             text = "" 
-        intervals [637]:
+        intervals [617]:
             xmin = 1599.52910509411 
             xmax = 1604.4581222534268 
             text = "{laugh}" 
-        intervals [638]:
+        intervals [618]:
             xmin = 1604.4581222534268 
             xmax = 1605.213692463647 
             text = "" 
-        intervals [639]:
+        intervals [619]:
             xmin = 1605.213692463647 
             xmax = 1607.162105932356 
             text = "なんかエモエモートなんだっけ" 
-        intervals [640]:
+        intervals [620]:
             xmin = 1607.162105932356 
             xmax = 1607.8540411975162 
             text = "" 
-        intervals [641]:
+        intervals [621]:
             xmin = 1607.8540411975162 
             xmax = 1608.2872078413673 
             text = "ふぉ" 
-        intervals [642]:
+        intervals [622]:
             xmin = 1608.2872078413673 
             xmax = 1623.9926219643758 
             text = "" 
-        intervals [643]:
+        intervals [623]:
             xmin = 1623.9926219643758 
-            xmax = 1624.2275787119593 
-            text = "ああ" 
-        intervals [644]:
-            xmin = 1624.2275787119593 
             xmax = 1625.684154839365 
-            text = "それなんか飛ぶやつね" 
-        intervals [645]:
+            text = "ああそれなんか飛ぶやつね" 
+        intervals [624]:
             xmin = 1625.684154839365 
             xmax = 1625.9667894701238 
             text = "" 
-        intervals [646]:
+        intervals [625]:
             xmin = 1625.9667894701238 
             xmax = 1626.1807355321357 
             text = "{sigh}" 
-        intervals [647]:
+        intervals [626]:
             xmin = 1626.1807355321357 
             xmax = 1630.8413132337384 
             text = "" 
-        intervals [648]:
+        intervals [627]:
             xmin = 1630.8413132337384 
             xmax = 1632.0678888343928 
             text = "なんか二人だけしかいなくない" 
-        intervals [649]:
+        intervals [628]:
             xmin = 1632.0678888343928 
             xmax = 1632.244931408975 
             text = "" 
-        intervals [650]:
+        intervals [629]:
             xmin = 1632.244931408975 
             xmax = 1633.1992137955783 
             text = "すごいのどかなんだけど" 
-        intervals [651]:
+        intervals [630]:
             xmin = 1633.1992137955783 
             xmax = 1633.2584077705837 
             text = "" 
-        intervals [652]:
+        intervals [631]:
             xmin = 1633.2584077705837 
             xmax = 1633.6197757165257 
             text = "ああ" 
-        intervals [653]:
+        intervals [632]:
             xmin = 1633.6197757165257 
             xmax = 1634.2689827543022 
             text = "" 
-        intervals [654]:
+        intervals [633]:
             xmin = 1634.2689827543022 
             xmax = 1634.6365014852904 
             text = "見える" 
-        intervals [655]:
+        intervals [634]:
             xmin = 1634.6365014852904 
             xmax = 1638.9847799393024 
             text = "" 
-        intervals [656]:
+        intervals [635]:
             xmin = 1638.9847799393024 
             xmax = 1639.7313634656039 
             text = "はいた" 
-        intervals [657]:
+        intervals [636]:
             xmin = 1639.7313634656039 
             xmax = 1647.7891171483047 
             text = "" 
-        intervals [658]:
+        intervals [637]:
             xmin = 1647.7891171483047 
             xmax = 1648.2512063754968 
             text = "すげえ" 
-        intervals [659]:
+        intervals [638]:
             xmin = 1648.2512063754968 
             xmax = 1649.9612314569194 
             text = "" 
-        intervals [660]:
+        intervals [639]:
             xmin = 1649.9612314569194 
             xmax = 1651.3412092270887 
             text = "めっちゃ飛ぶねこのゴリラ" 
-        intervals [661]:
+        intervals [640]:
             xmin = 1651.3412092270887 
             xmax = 1690.4800835925814 
             text = "" 
-        intervals [662]:
+        intervals [641]:
             xmin = 1690.4800835925814 
             xmax = 1690.6421761738206 
             text = "う{sigh}" 
-        intervals [663]:
+        intervals [642]:
             xmin = 1690.6421761738206 
             xmax = 1694.8684915278204 
             text = "" 
-        intervals [664]:
+        intervals [643]:
             xmin = 1694.8684915278204 
             xmax = 1695.1560994320587 
             text = "{?}" 
-        intervals [665]:
+        intervals [644]:
             xmin = 1695.1560994320587 
             xmax = 1695.8977902777824 
             text = "" 
-        intervals [666]:
+        intervals [645]:
             xmin = 1695.8977902777824 
             xmax = 1696.8266511607746 
             text = "{R xx}が消えた" 
-        intervals [667]:
+        intervals [646]:
             xmin = 1696.8266511607746 
             xmax = 1696.945887645626 
             text = "" 
-        intervals [668]:
+        intervals [647]:
             xmin = 1696.945887645626 
             xmax = 1697.348642590684 
             text = "{sigh}" 
-        intervals [669]:
+        intervals [648]:
             xmin = 1697.348642590684 
             xmax = 1706.0066429816184 
             text = "" 
-        intervals [670]:
+        intervals [649]:
             xmin = 1706.0066429816184 
             xmax = 1706.4379811251451 
             text = "おう" 
-        intervals [671]:
+        intervals [650]:
             xmin = 1706.4379811251451 
             xmax = 1707.6909038884853 
             text = "" 
-        intervals [672]:
+        intervals [651]:
             xmin = 1707.6909038884853 
             xmax = 1708.5067331755035 
             text = "すごいすごい" 
-        intervals [673]:
+        intervals [652]:
             xmin = 1708.5067331755035 
             xmax = 1712.7579197895668 
             text = "" 
-        intervals [674]:
+        intervals [653]:
             xmin = 1712.7579197895668 
             xmax = 1713.2740480384716 
             text = "なになに" 
-        intervals [675]:
+        intervals [654]:
             xmin = 1713.2740480384716 
             xmax = 1713.3315714989903 
             text = "" 
-        intervals [676]:
+        intervals [655]:
             xmin = 1713.3315714989903 
             xmax = 1713.7183147168284 
             text = "なに" 
-        intervals [677]:
+        intervals [656]:
             xmin = 1713.7183147168284 
             xmax = 1713.756797126965 
             text = "" 
-        intervals [678]:
+        intervals [657]:
             xmin = 1713.756797126965 
             xmax = 1715.1547401558216 
             text = "{L なにこれ}" 
-        intervals [679]:
+        intervals [658]:
             xmin = 1715.1547401558216 
             xmax = 1720.0987441618995 
             text = "" 
-        intervals [680]:
+        intervals [659]:
             xmin = 1720.0987441618995 
             xmax = 1721.2864034494846 
             text = "難しい" 
-        intervals [681]:
+        intervals [660]:
             xmin = 1721.2864034494846 
             xmax = 1729.8074642590418 
             text = "" 
-        intervals [682]:
+        intervals [661]:
             xmin = 1729.8074642590418 
             xmax = 1730.697901291726 
             text = "{L 嘘}" 
-        intervals [683]:
+        intervals [662]:
             xmin = 1730.697901291726 
             xmax = 1730.7449718621706 
             text = "" 
-        intervals [684]:
+        intervals [663]:
             xmin = 1730.7449718621706 
             xmax = 1731.8181643258506 
             text = "なんか今目標" 
-        intervals [685]:
+        intervals [664]:
             xmin = 1731.8181643258506 
             xmax = 1731.8980029520474 
             text = "" 
-        intervals [686]:
+        intervals [665]:
             xmin = 1731.8980029520474 
             xmax = 1733.1629786391725 
             text = "エーら辺まで来たよ" 
-        intervals [687]:
+        intervals [666]:
             xmin = 1733.1629786391725 
             xmax = 1738.1257330746173 
             text = "" 
-        intervals [688]:
+        intervals [667]:
             xmin = 1738.1257330746173 
-            xmax = 1738.1784415133031 
-            text = "あ" 
-        intervals [689]:
-            xmin = 1738.1784415133031 
             xmax = 1738.4757016431902 
-            text = "いた" 
-        intervals [690]:
+            text = "あいた" 
+        intervals [668]:
             xmin = 1738.4757016431902 
             xmax = 1738.6081634385037 
             text = "" 
-        intervals [691]:
+        intervals [669]:
             xmin = 1738.6081634385037 
             xmax = 1738.7449088242129 
             text = "{sigh}" 
-        intervals [692]:
+        intervals [670]:
             xmin = 1738.7449088242129 
             xmax = 1738.9389884198338 
             text = "" 
-        intervals [693]:
+        intervals [671]:
             xmin = 1738.9389884198338 
             xmax = 1739.854110791483 
             text = "{laugh}" 
-        intervals [694]:
+        intervals [672]:
             xmin = 1739.854110791483 
             xmax = 1749.5274755951991 
             text = "" 
-        intervals [695]:
+        intervals [673]:
             xmin = 1749.5274755951991 
             xmax = 1750.2335346549994 
             text = "なんかさ" 
-        intervals [696]:
+        intervals [674]:
             xmin = 1750.2335346549994 
-            xmax = 1750.3592952823728 
+            xmax = 1750.330992796115 
             text = "" 
-        intervals [697]:
-            xmin = 1750.3592952823728 
+        intervals [675]:
+            xmin = 1750.330992796115 
             xmax = 1752.25338948925 
             text = "{R xx}のなんかこうせあ{R xx}ちゃんに当たっちゃった" 
-        intervals [698]:
+        intervals [676]:
             xmin = 1752.25338948925 
             xmax = 1752.3765688039366 
             text = "" 
-        intervals [699]:
+        intervals [677]:
             xmin = 1752.3765688039366 
             xmax = 1753.9624067013153 
             text = "{L ごめんね}" 
-        intervals [700]:
+        intervals [678]:
             xmin = 1753.9624067013153 
             xmax = 1756.5801707841426 
             text = "" 
-        intervals [701]:
+        intervals [679]:
             xmin = 1756.5801707841426 
             xmax = 1757.2722753408477 
             text = "愛の鞭" 
-        intervals [702]:
+        intervals [680]:
             xmin = 1757.2722753408477 
             xmax = 1758.5072698159152 
             text = "" 
-        intervals [703]:
+        intervals [681]:
             xmin = 1758.5072698159152 
             xmax = 1759.7053273363695 
             text = "{L {? すごい}浮いてる}" 
-        intervals [704]:
+        intervals [682]:
             xmin = 1759.7053273363695 
             xmax = 1762.229297699716 
             text = "" 
-        intervals [705]:
+        intervals [683]:
             xmin = 1762.229297699716 
             xmax = 1763.0902443083683 
             text = "{? これ}これがなんなの" 
-        intervals [706]:
+        intervals [684]:
             xmin = 1763.0902443083683 
             xmax = 1764.4314665672866 
             text = "" 
-        intervals [707]:
+        intervals [685]:
             xmin = 1764.4314665672866 
             xmax = 1765.8580798620517 
             text = "{? これが}シールドジェネレーターなの" 
-        intervals [708]:
+        intervals [686]:
             xmin = 1765.8580798620517 
             xmax = 1781.5023642119831 
             text = "" 
-        intervals [709]:
+        intervals [687]:
             xmin = 1781.5023642119831 
             xmax = 1782.167670319208 
             text = "チームキル" 
-        intervals [710]:
+        intervals [688]:
             xmin = 1782.167670319208 
             xmax = 1783.1622989301516 
             text = "" 
-        intervals [711]:
+        intervals [689]:
             xmin = 1783.1622989301516 
             xmax = 1784.3391064278342 
             text = "チームキルってなんだろ" 
-        intervals [712]:
+        intervals [690]:
             xmin = 1784.3391064278342 
             xmax = 1784.5732667279096 
             text = "" 
-        intervals [713]:
+        intervals [691]:
             xmin = 1784.5732667279096 
             xmax = 1784.781067998471 
             text = "{breath}" 
-        intervals [714]:
+        intervals [692]:
             xmin = 1784.781067998471 
             xmax = 1785.5751247917046 
             text = "" 
-        intervals [715]:
+        intervals [693]:
             xmin = 1785.5751247917046 
             xmax = 1787.7226709821675 
             text = "{laugh}チームがいなくなったよってこと" 
-        intervals [716]:
+        intervals [694]:
             xmin = 1787.7226709821675 
             xmax = 1789.6533550208555 
             text = "" 
-        intervals [717]:
+        intervals [695]:
             xmin = 1789.6533550208555 
             xmax = 1790.220075956862 
             text = "チーム" 
-        intervals [718]:
+        intervals [696]:
             xmin = 1790.220075956862 
             xmax = 1790.260474764245 
             text = "" 
-        intervals [719]:
+        intervals [697]:
             xmin = 1790.260474764245 
             xmax = 1791.649806954153 
             text = "うんん{L そのまま}" 
-        intervals [720]:
+        intervals [698]:
             xmin = 1791.649806954153 
             xmax = 1799.7855930516143 
             text = "" 
-        intervals [721]:
+        intervals [699]:
             xmin = 1799.7855930516143 
             xmax = 1800.0876962205566 
             text = "おお" 
-        intervals [722]:
+        intervals [700]:
             xmin = 1800.0876962205566 
             xmax = 1800.4651293172305 
             text = "すごい" 
-        intervals [723]:
+        intervals [701]:
             xmin = 1800.4651293172305 
             xmax = 1800.8178100856562 
             text = "" 
-        intervals [724]:
+        intervals [702]:
             xmin = 1800.8178100856562 
             xmax = 1801.0188768423093 
             text = "{sigh}" 
-        intervals [725]:
+        intervals [703]:
             xmin = 1801.0188768423093 
             xmax = 1802.89971986061 
             text = "" 
-        intervals [726]:
+        intervals [704]:
             xmin = 1802.89971986061 
             xmax = 1803.0891013419264 
             text = "{sigh}" 
-        intervals [727]:
+        intervals [705]:
             xmin = 1803.0891013419264 
             xmax = 1803.1942972365453 
             text = "" 
-        intervals [728]:
+        intervals [706]:
             xmin = 1803.1942972365453 
-            xmax = 1804.1349246855327 
-            text = "ああ" 
-        intervals [729]:
-            xmin = 1804.1349246855327 
             xmax = 1808.133739305051 
-            text = "{L {?}いいとこに}" 
-        intervals [730]:
+            text = "ああ{L {?}いいとこに}" 
+        intervals [707]:
             xmin = 1808.133739305051 
             xmax = 1817.1091592802672 
             text = "" 
-        intervals [731]:
+        intervals [708]:
             xmin = 1817.1091592802672 
             xmax = 1818.688248614994 
             text = "めっちゃいいとこに設置してた" 
-        intervals [732]:
+        intervals [709]:
             xmin = 1818.688248614994 
             xmax = 1846.2670385775411 
             text = "" 
-        intervals [733]:
+        intervals [710]:
             xmin = 1846.2670385775411 
             xmax = 1846.6828178017772 
             text = "どこだろ" 
-        intervals [734]:
+        intervals [711]:
             xmin = 1846.6828178017772 
             xmax = 1852.6876015828586 
             text = "" 
-        intervals [735]:
+        intervals [712]:
             xmin = 1852.6876015828586 
             xmax = 1854.5285838583256 
             text = "{L そうそうそう}" 
-        intervals [736]:
+        intervals [713]:
             xmin = 1854.5285838583256 
             xmax = 1858.5321138135569 
             text = "" 
-        intervals [737]:
+        intervals [714]:
             xmin = 1858.5321138135569 
             xmax = 1859.0003010388748 
             text = "すごい" 
-        intervals [738]:
+        intervals [715]:
             xmin = 1859.0003010388748 
             xmax = 1859.6733554719267 
             text = "" 
-        intervals [739]:
+        intervals [716]:
             xmin = 1859.6733554719267 
             xmax = 1859.9794477446865 
             text = "{?}" 
-        intervals [740]:
+        intervals [717]:
             xmin = 1859.9794477446865 
             xmax = 1861.5743776229401 
             text = "" 
-        intervals [741]:
+        intervals [718]:
             xmin = 1861.5743776229401 
             xmax = 1863.5666982431226 
             text = "{L めっちゃ元気なのがいる}" 
-        intervals [742]:
+        intervals [719]:
             xmin = 1863.5666982431226 
             xmax = 1863.7274351661395 
             text = "" 
-        intervals [743]:
+        intervals [720]:
             xmin = 1863.7274351661395 
             xmax = 1863.8608466517512 
             text = "{breath}" 
-        intervals [744]:
+        intervals [721]:
             xmin = 1863.8608466517512 
             xmax = 1882.8873330382257 
             text = "" 
-        intervals [745]:
+        intervals [722]:
             xmin = 1882.8873330382257 
-            xmax = 1883.1333946074778 
-            text = "ああ" 
-        intervals [746]:
-            xmin = 1883.1333946074778 
             xmax = 1884.439371953839 
-            text = "確かに見えるようになった" 
-        intervals [747]:
+            text = "ああ確かに見えるようになった" 
+        intervals [723]:
             xmin = 1884.439371953839 
             xmax = 1884.6004982132874 
             text = "" 
-        intervals [748]:
+        intervals [724]:
             xmin = 1884.6004982132874 
             xmax = 1884.8129603056107 
             text = "{sigh}" 
-        intervals [749]:
+        intervals [725]:
             xmin = 1884.8129603056107 
             xmax = 1900.6991727272866 
             text = "" 
-        intervals [750]:
+        intervals [726]:
             xmin = 1900.6991727272866 
             xmax = 1902.007171521477 
             text = "争奪中なってる" 
-        intervals [751]:
+        intervals [727]:
             xmin = 1902.007171521477 
             xmax = 1908.8719016825098 
             text = "" 
-        intervals [752]:
+        intervals [728]:
             xmin = 1908.8719016825098 
             xmax = 1918.4183201786857 
             text = "{L 乗ってる乗ってる乗ってる乗ってた}{R xx}ちゃん" 
-        intervals [753]:
+        intervals [729]:
             xmin = 1918.4183201786857 
             xmax = 1919.7085117511317 
             text = "" 
-        intervals [754]:
+        intervals [730]:
             xmin = 1919.7085117511317 
             xmax = 1920.9986141027673 
             text = "ねめっちゃやばくないこの" 
-        intervals [755]:
+        intervals [731]:
             xmin = 1920.9986141027673 
             xmax = 1921.3241029842623 
             text = "" 
-        intervals [756]:
+        intervals [732]:
             xmin = 1921.3241029842623 
             xmax = 1921.7886459038566 
             text = "ゴリラ" 
-        intervals [757]:
+        intervals [733]:
             xmin = 1921.7886459038566 
             xmax = 1922.9787567956337 
             text = "" 
-        intervals [758]:
+        intervals [734]:
             xmin = 1922.9787567956337 
             xmax = 1923.1021344551752 
-            text = "あ" 
-        intervals [759]:
+            text = "あっ" 
+        intervals [735]:
             xmin = 1923.1021344551752 
             xmax = 1923.2981675315302 
             text = "" 
-        intervals [760]:
+        intervals [736]:
             xmin = 1923.2981675315302 
             xmax = 1924.9258966543869 
             text = "やばいよ赤いんだけど" 
-        intervals [761]:
+        intervals [737]:
             xmin = 1924.9258966543869 
             xmax = 1926.694287952992 
             text = "" 
-        intervals [762]:
+        intervals [738]:
             xmin = 1926.694287952992 
             xmax = 1927.6242553806128 
             text = "可愛い顔が" 
-        intervals [763]:
+        intervals [739]:
             xmin = 1927.6242553806128 
             xmax = 1932.322680314568 
             text = "" 
-        intervals [764]:
+        intervals [740]:
             xmin = 1932.322680314568 
             xmax = 1932.8340773874916 
             text = "すごいね" 
-        intervals [765]:
+        intervals [741]:
             xmin = 1932.8340773874916 
             xmax = 1933.3806111058454 
             text = "" 
-        intervals [766]:
+        intervals [742]:
             xmin = 1933.3806111058454 
             xmax = 1936.0447349179988 
             text = "ね{R xx}ちゃんを盾にやってんの{L これ}" 
-        intervals [767]:
+        intervals [743]:
             xmin = 1936.0447349179988 
             xmax = 1940.802117695757 
             text = "" 
-        intervals [768]:
+        intervals [744]:
             xmin = 1940.802117695757 
             xmax = 1942.9014669500905 
             text = "{laugh}すごいね" 
-        intervals [769]:
+        intervals [745]:
             xmin = 1942.9014669500905 
             xmax = 1957.2466514910316 
             text = "" 
-        intervals [770]:
+        intervals [746]:
             xmin = 1957.2466514910316 
             xmax = 1957.528516545589 
             text = "{?}" 
-        intervals [771]:
+        intervals [747]:
             xmin = 1957.528516545589 
             xmax = 1961.4397083647948 
             text = "" 
-        intervals [772]:
+        intervals [748]:
             xmin = 1961.4397083647948 
             xmax = 1961.67367058689 
             text = "はい" 
-        intervals [773]:
+        intervals [749]:
             xmin = 1961.67367058689 
             xmax = 1967.234555688358 
             text = "" 
-        intervals [774]:
+        intervals [750]:
             xmin = 1967.234555688358 
             xmax = 1967.5531902352889 
             text = "はい" 
-        intervals [775]:
+        intervals [751]:
             xmin = 1967.5531902352889 
             xmax = 1971.26699621433 
             text = "" 
-        intervals [776]:
+        intervals [752]:
             xmin = 1971.26699621433 
             xmax = 1972.526152200855 
             text = "{breath}わかんないっす" 
-        intervals [777]:
+        intervals [753]:
             xmin = 1972.526152200855 
             xmax = 1972.6556080059952 
             text = "" 
-        intervals [778]:
+        intervals [754]:
             xmin = 1972.6556080059952 
             xmax = 1973.8448167223792 
             text = "{breath}" 
-        intervals [779]:
+        intervals [755]:
             xmin = 1973.8448167223792 
             xmax = 1977.4715058303248 
             text = "" 
-        intervals [780]:
+        intervals [756]:
             xmin = 1977.4715058303248 
             xmax = 1978.570937726729 
             text = "電気ついてない" 
-        intervals [781]:
+        intervals [757]:
             xmin = 1978.570937726729 
             xmax = 1986.0518997697532 
             text = "" 
-        intervals [782]:
+        intervals [758]:
             xmin = 1986.0518997697532 
             xmax = 1987.7115074157898 
             text = "{laugh}" 
-        intervals [783]:
+        intervals [759]:
             xmin = 1987.7115074157898 
             xmax = 1993.7490796158284 
             text = "" 
-        intervals [784]:
+        intervals [760]:
             xmin = 1993.7490796158284 
             xmax = 1994.1145629214445 
             text = "はい" 
-        intervals [785]:
+        intervals [761]:
             xmin = 1994.1145629214445 
             xmax = 1996.6174396255592 
             text = "" 
-        intervals [786]:
+        intervals [762]:
             xmin = 1996.6174396255592 
             xmax = 1997.4455079349218 
             text = "ああはい" 
-        intervals [787]:
+        intervals [763]:
             xmin = 1997.4455079349218 
             xmax = 1999.8111115065662 
             text = "" 
-        intervals [788]:
+        intervals [764]:
             xmin = 1999.8111115065662 
             xmax = 2000.1448402456442 
             text = "はい" 
-        intervals [789]:
+        intervals [765]:
             xmin = 2000.1448402456442 
             xmax = 2009.5173216035835 
             text = "" 
-        intervals [790]:
+        intervals [766]:
             xmin = 2009.5173216035835 
             xmax = 2009.7546183740794 
             text = "はい" 
-        intervals [791]:
+        intervals [767]:
             xmin = 2009.7546183740794 
             xmax = 2012.3280017360435 
             text = "" 
-        intervals [792]:
+        intervals [768]:
             xmin = 2012.3280017360435 
             xmax = 2012.653353105569 
             text = "はい" 
-        intervals [793]:
+        intervals [769]:
             xmin = 2012.653353105569 
             xmax = 2023.5840995103974 
             text = "" 
-        intervals [794]:
+        intervals [770]:
             xmin = 2023.5840995103974 
             xmax = 2024.4780622079033 
             text = "画面は" 
-        intervals [795]:
+        intervals [771]:
             xmin = 2024.4780622079033 
             xmax = 2025.2566902354883 
             text = "" 
-        intervals [796]:
+        intervals [772]:
             xmin = 2025.2566902354883 
             xmax = 2025.8719226176072 
             text = "あはい" 
-        intervals [797]:
+        intervals [773]:
             xmin = 2025.8719226176072 
             xmax = 2080.815 
             text = "" 
@@ -5471,7 +5375,7 @@ item []:
         name = "affectburst" 
         xmin = 0 
         xmax = 2080.815 
-        intervals: size = 129 
+        intervals: size = 151 
         intervals [1]:
             xmin = 0 
             xmax = 28.588168722831835 
@@ -5487,504 +5391,592 @@ item []:
         intervals [4]:
             xmin = 75.69024396547334 
             xmax = 75.9107030864243 
-            text = "{a}" 
+            text = "{s}" 
         intervals [5]:
             xmin = 75.9107030864243 
             xmax = 84.42257185104708 
             text = "" 
         intervals [6]:
             xmin = 84.42257185104708 
-            xmax = 84.52662778190735 
+            xmax = 84.54636714119478 
             text = "{a}" 
         intervals [7]:
-            xmin = 84.52662778190735 
-            xmax = 107.46970375150151 
+            xmin = 84.54636714119478 
+            xmax = 106.4847802651403 
             text = "" 
         intervals [8]:
-            xmin = 107.46970375150151 
-            xmax = 107.64230967490901 
-            text = "{s}" 
+            xmin = 106.4847802651403 
+            xmax = 106.69512611200636 
+            text = "{a}" 
         intervals [9]:
-            xmin = 107.64230967490901 
-            xmax = 112.23391826492912 
+            xmin = 106.69512611200636 
+            xmax = 107.45814325364087 
             text = "" 
         intervals [10]:
-            xmin = 112.23391826492912 
-            xmax = 112.33662387657701 
-            text = "{a}" 
+            xmin = 107.45814325364087 
+            xmax = 107.67497346553677 
+            text = "{s}" 
         intervals [11]:
-            xmin = 112.33662387657701 
-            xmax = 134.59259161669166 
+            xmin = 107.67497346553677 
+            xmax = 112.23391826492912 
             text = "" 
         intervals [12]:
+            xmin = 112.23391826492912 
+            xmax = 112.33662387657701 
+            text = "{s}" 
+        intervals [13]:
+            xmin = 112.33662387657701 
+            xmax = 124.80259187218577 
+            text = "" 
+        intervals [14]:
+            xmin = 124.80259187218577 
+            xmax = 125.22327179688386 
+            text = "{shout}" 
+        intervals [15]:
+            xmin = 125.22327179688386 
+            xmax = 134.59259161669166 
+            text = "" 
+        intervals [16]:
             xmin = 134.59259161669166 
             xmax = 134.66319421042434 
-            text = "{a}" 
-        intervals [13]:
+            text = "{s}" 
+        intervals [17]:
             xmin = 134.66319421042434 
             xmax = 201.7838631603873 
             text = "" 
-        intervals [14]:
+        intervals [18]:
             xmin = 201.7838631603873 
-            xmax = 201.84427658315 
+            xmax = 201.8438574097932 
             text = "{a}" 
-        intervals [15]:
-            xmin = 201.84427658315 
+        intervals [19]:
+            xmin = 201.8438574097932 
             xmax = 211.97724431527968 
             text = "" 
-        intervals [16]:
+        intervals [20]:
             xmin = 211.97724431527968 
             xmax = 212.27825570670794 
             text = "{a}" 
-        intervals [17]:
+        intervals [21]:
             xmin = 212.27825570670794 
             xmax = 236.63344543833256 
             text = "" 
-        intervals [18]:
+        intervals [22]:
             xmin = 236.63344543833256 
             xmax = 236.8447787098677 
             text = "{a}" 
-        intervals [19]:
+        intervals [23]:
             xmin = 236.8447787098677 
             xmax = 240.5187293259582 
             text = "" 
-        intervals [20]:
+        intervals [24]:
             xmin = 240.5187293259582 
             xmax = 241.02223924007436 
             text = "{a}" 
-        intervals [21]:
-            xmin = 241.02223924007436 
-            xmax = 441.2278556839875 
-            text = "" 
-        intervals [22]:
-            xmin = 441.2278556839875 
-            xmax = 441.3871220286505 
-            text = "{s}" 
-        intervals [23]:
-            xmin = 441.3871220286505 
-            xmax = 461.74005797060556 
-            text = "" 
-        intervals [24]:
-            xmin = 461.74005797060556 
-            xmax = 462.1705678527346 
-            text = "{s}" 
         intervals [25]:
-            xmin = 462.1705678527346 
-            xmax = 471.2973586921423 
+            xmin = 241.02223924007436 
+            xmax = 248.73970310309096 
             text = "" 
         intervals [26]:
-            xmin = 471.2973586921423 
-            xmax = 471.65983113129806 
+            xmin = 248.73970310309096 
+            xmax = 248.82750890795486 
             text = "{a}" 
         intervals [27]:
-            xmin = 471.65983113129806 
-            xmax = 485.6905153015114 
+            xmin = 248.82750890795486 
+            xmax = 441.2278556839875 
             text = "" 
         intervals [28]:
-            xmin = 485.6905153015114 
-            xmax = 486.64329999872086 
-            text = "{s}" 
+            xmin = 441.2278556839875 
+            xmax = 441.3871220286505 
+            text = "{a}" 
         intervals [29]:
-            xmin = 486.64329999872086 
-            xmax = 501.3979627771897 
+            xmin = 441.3871220286505 
+            xmax = 461.61555350526936 
             text = "" 
         intervals [30]:
-            xmin = 501.3979627771897 
-            xmax = 501.9913980595292 
+            xmin = 461.61555350526936 
+            xmax = 462.1705678527346 
             text = "{s}" 
         intervals [31]:
+            xmin = 462.1705678527346 
+            xmax = 471.2757038979427 
+            text = "" 
+        intervals [32]:
+            xmin = 471.2757038979427 
+            xmax = 471.61456036881975 
+            text = "{a}" 
+        intervals [33]:
+            xmin = 471.61456036881975 
+            xmax = 485.65131855537385 
+            text = "" 
+        intervals [34]:
+            xmin = 485.65131855537385 
+            xmax = 486.61126710693725 
+            text = "{s}" 
+        intervals [35]:
+            xmin = 486.61126710693725 
+            xmax = 501.3979627771897 
+            text = "" 
+        intervals [36]:
+            xmin = 501.3979627771897 
+            xmax = 501.9913980595292 
+            text = "{a}" 
+        intervals [37]:
             xmin = 501.9913980595292 
             xmax = 535.9155635056121 
             text = "" 
-        intervals [32]:
+        intervals [38]:
             xmin = 535.9155635056121 
-            xmax = 536.0139215867989 
+            xmax = 536.0419324053526 
             text = "{a}" 
-        intervals [33]:
-            xmin = 536.0139215867989 
+        intervals [39]:
+            xmin = 536.0419324053526 
+            xmax = 564.844279356958 
+            text = "" 
+        intervals [40]:
+            xmin = 564.844279356958 
+            xmax = 565.1997472652076 
+            text = "{a}" 
+        intervals [41]:
+            xmin = 565.1997472652076 
             xmax = 567.8066188930691 
             text = "" 
-        intervals [34]:
+        intervals [42]:
             xmin = 567.8066188930691 
-            xmax = 568.1792447223148 
-            text = "{s}" 
-        intervals [35]:
-            xmin = 568.1792447223148 
+            xmax = 568.1820536877558 
+            text = "{a}" 
+        intervals [43]:
+            xmin = 568.1820536877558 
             xmax = 572.977744516855 
             text = "" 
-        intervals [36]:
+        intervals [44]:
             xmin = 572.977744516855 
-            xmax = 573.0585699059076 
+            xmax = 573.044090054445 
             text = "{a}" 
-        intervals [37]:
-            xmin = 573.0585699059076 
+        intervals [45]:
+            xmin = 573.044090054445 
             xmax = 599.2871981184312 
             text = "" 
-        intervals [38]:
+        intervals [46]:
             xmin = 599.2871981184312 
             xmax = 599.4274968341722 
             text = "{a}" 
-        intervals [39]:
+        intervals [47]:
             xmin = 599.4274968341722 
             xmax = 615.8910595752427 
             text = "" 
-        intervals [40]:
+        intervals [48]:
             xmin = 615.8910595752427 
-            xmax = 616.0051952539272 
+            xmax = 616.0423654702855 
             text = "{a}" 
-        intervals [41]:
-            xmin = 616.0051952539272 
-            xmax = 620.3575508591468 
-            text = "" 
-        intervals [42]:
-            xmin = 620.3575508591468 
-            xmax = 620.5327787256712 
-            text = "{a}" 
-        intervals [43]:
-            xmin = 620.5327787256712 
+        intervals [49]:
+            xmin = 616.0423654702855 
             xmax = 639.6350756786067 
             text = "" 
-        intervals [44]:
+        intervals [50]:
             xmin = 639.6350756786067 
-            xmax = 639.7890108100426 
+            xmax = 639.7628999567479 
             text = "{a}" 
-        intervals [45]:
-            xmin = 639.7890108100426 
+        intervals [51]:
+            xmin = 639.7628999567479 
             xmax = 641.9801292284976 
             text = "" 
-        intervals [46]:
+        intervals [52]:
             xmin = 641.9801292284976 
             xmax = 642.0879119260484 
-            text = "{a}" 
-        intervals [47]:
+            text = "{s}" 
+        intervals [53]:
             xmin = 642.0879119260484 
             xmax = 665.6391032753506 
             text = "" 
-        intervals [48]:
+        intervals [54]:
             xmin = 665.6391032753506 
             xmax = 665.7853681014187 
             text = "{a}" 
-        intervals [49]:
-            xmin = 665.7853681014187 
-            xmax = 698.9912197883416 
-            text = "" 
-        intervals [50]:
-            xmin = 698.9912197883416 
-            xmax = 699.070618513109 
-            text = "{a}" 
-        intervals [51]:
-            xmin = 699.070618513109 
-            xmax = 708.8746987104162 
-            text = "" 
-        intervals [52]:
-            xmin = 708.8746987104162 
-            xmax = 708.9758098693143 
-            text = "{a}" 
-        intervals [53]:
-            xmin = 708.9758098693143 
-            xmax = 842.0345687707356 
-            text = "" 
-        intervals [54]:
-            xmin = 842.0345687707356 
-            xmax = 842.2073305295621 
-            text = "{s}" 
         intervals [55]:
-            xmin = 842.2073305295621 
-            xmax = 936.154490098529 
+            xmin = 665.7853681014187 
+            xmax = 698.9064092680667 
             text = "" 
         intervals [56]:
-            xmin = 936.154490098529 
-            xmax = 936.2467802406056 
+            xmin = 698.9064092680667 
+            xmax = 699.0915793764851 
             text = "{a}" 
         intervals [57]:
-            xmin = 936.2467802406056 
-            xmax = 967.2172159699103 
+            xmin = 699.0915793764851 
+            xmax = 708.8746987104162 
             text = "" 
         intervals [58]:
+            xmin = 708.8746987104162 
+            xmax = 709.0031934135089 
+            text = "{a}" 
+        intervals [59]:
+            xmin = 709.0031934135089 
+            xmax = 818.3380180877873 
+            text = "" 
+        intervals [60]:
+            xmin = 818.3380180877873 
+            xmax = 818.4339243963542 
+            text = "{a}" 
+        intervals [61]:
+            xmin = 818.4339243963542 
+            xmax = 842.0345687707356 
+            text = "" 
+        intervals [62]:
+            xmin = 842.0345687707356 
+            xmax = 842.2211505425701 
+            text = "{s}" 
+        intervals [63]:
+            xmin = 842.2211505425701 
+            xmax = 936.154490098529 
+            text = "" 
+        intervals [64]:
+            xmin = 936.154490098529 
+            xmax = 936.2221053801877 
+            text = "{a}" 
+        intervals [65]:
+            xmin = 936.2221053801877 
+            xmax = 967.2172159699103 
+            text = "" 
+        intervals [66]:
             xmin = 967.2172159699103 
             xmax = 967.6402467050752 
             text = "{a}" 
-        intervals [59]:
+        intervals [67]:
             xmin = 967.6402467050752 
             xmax = 1011.4091669646502 
             text = "" 
-        intervals [60]:
+        intervals [68]:
             xmin = 1011.4091669646502 
             xmax = 1011.6477660329685 
             text = "{a}" 
-        intervals [61]:
+        intervals [69]:
             xmin = 1011.6477660329685 
             xmax = 1020.7873228564001 
             text = "" 
-        intervals [62]:
+        intervals [70]:
             xmin = 1020.7873228564001 
             xmax = 1020.958417022283 
             text = "{a}" 
-        intervals [63]:
+        intervals [71]:
             xmin = 1020.958417022283 
             xmax = 1025.642190343474 
             text = "" 
-        intervals [64]:
+        intervals [72]:
             xmin = 1025.642190343474 
-            xmax = 1025.73425376855 
+            xmax = 1025.759556148584 
             text = "{a}" 
-        intervals [65]:
-            xmin = 1025.73425376855 
-            xmax = 1059.4349139613723 
-            text = "" 
-        intervals [66]:
-            xmin = 1059.4349139613723 
-            xmax = 1059.6061309490674 
-            text = "{a}" 
-        intervals [67]:
-            xmin = 1059.6061309490674 
+        intervals [73]:
+            xmin = 1025.759556148584 
             xmax = 1061.7122430803095 
             text = "" 
-        intervals [68]:
+        intervals [74]:
             xmin = 1061.7122430803095 
             xmax = 1061.819372543459 
-            text = "{s}" 
-        intervals [69]:
+            text = "{a}" 
+        intervals [75]:
             xmin = 1061.819372543459 
+            xmax = 1063.3903040619527 
+            text = "" 
+        intervals [76]:
+            xmin = 1063.3903040619527 
+            xmax = 1064.786416359289 
+            text = "{shout}" 
+        intervals [77]:
+            xmin = 1064.786416359289 
             xmax = 1073.770768470411 
             text = "" 
-        intervals [70]:
+        intervals [78]:
             xmin = 1073.770768470411 
             xmax = 1073.963917144464 
             text = "{a}" 
-        intervals [71]:
+        intervals [79]:
             xmin = 1073.963917144464 
             xmax = 1090.9998301603537 
             text = "" 
-        intervals [72]:
+        intervals [80]:
             xmin = 1090.9998301603537 
             xmax = 1091.088862432787 
             text = "{a}" 
-        intervals [73]:
+        intervals [81]:
             xmin = 1091.088862432787 
             xmax = 1120.4680813496796 
             text = "" 
-        intervals [74]:
+        intervals [82]:
             xmin = 1120.4680813496796 
             xmax = 1121.3636086240176 
             text = "{s}" 
-        intervals [75]:
+        intervals [83]:
             xmin = 1121.3636086240176 
             xmax = 1128.2772526813446 
             text = "" 
-        intervals [76]:
+        intervals [84]:
             xmin = 1128.2772526813446 
             xmax = 1128.3460653617644 
             text = "{a}" 
-        intervals [77]:
+        intervals [85]:
             xmin = 1128.3460653617644 
             xmax = 1165.989788569207 
             text = "" 
-        intervals [78]:
+        intervals [86]:
             xmin = 1165.989788569207 
-            xmax = 1166.4824387737742 
-            text = "{s}" 
-        intervals [79]:
-            xmin = 1166.4824387737742 
+            xmax = 1166.6590151312005 
+            text = "{a}" 
+        intervals [87]:
+            xmin = 1166.6590151312005 
             xmax = 1171.3747154107741 
             text = "" 
-        intervals [80]:
+        intervals [88]:
             xmin = 1171.3747154107741 
-            xmax = 1171.7818292000518 
+            xmax = 1171.9426094512185 
             text = "{a}" 
-        intervals [81]:
-            xmin = 1171.7818292000518 
+        intervals [89]:
+            xmin = 1171.9426094512185 
             xmax = 1181.8676303393688 
             text = "" 
-        intervals [82]:
+        intervals [90]:
             xmin = 1181.8676303393688 
             xmax = 1182.3356931243059 
             text = "{a}" 
-        intervals [83]:
+        intervals [91]:
             xmin = 1182.3356931243059 
+            xmax = 1189.6649536182176 
+            text = "" 
+        intervals [92]:
+            xmin = 1189.6649536182176 
+            xmax = 1189.7703205840544 
+            text = "{a}" 
+        intervals [93]:
+            xmin = 1189.7703205840544 
+            xmax = 1191.6531792230323 
+            text = "" 
+        intervals [94]:
+            xmin = 1191.6531792230323 
+            xmax = 1191.8975414170302 
+            text = "{a}" 
+        intervals [95]:
+            xmin = 1191.8975414170302 
             xmax = 1232.8923369817642 
             text = "" 
-        intervals [84]:
+        intervals [96]:
             xmin = 1232.8923369817642 
             xmax = 1233.3999729355728 
-            text = "{s}" 
-        intervals [85]:
+            text = "{a}" 
+        intervals [97]:
             xmin = 1233.3999729355728 
             xmax = 1279.6020321917133 
             text = "" 
-        intervals [86]:
+        intervals [98]:
             xmin = 1279.6020321917133 
-            xmax = 1280.2556319657965 
-            text = "{s}" 
-        intervals [87]:
-            xmin = 1280.2556319657965 
+            xmax = 1280.4281541459345 
+            text = "{a}" 
+        intervals [99]:
+            xmin = 1280.4281541459345 
             xmax = 1324.1162967773917 
             text = "" 
-        intervals [88]:
+        intervals [100]:
             xmin = 1324.1162967773917 
-            xmax = 1324.745565968551 
+            xmax = 1324.7651870001578 
             text = "{a}" 
-        intervals [89]:
-            xmin = 1324.745565968551 
+        intervals [101]:
+            xmin = 1324.7651870001578 
             xmax = 1326.6432404268342 
             text = "" 
-        intervals [90]:
+        intervals [102]:
             xmin = 1326.6432404268342 
             xmax = 1326.9683088677086 
             text = "{s}" 
-        intervals [91]:
+        intervals [103]:
             xmin = 1326.9683088677086 
             xmax = 1331.3410204339395 
             text = "" 
-        intervals [92]:
+        intervals [104]:
             xmin = 1331.3410204339395 
-            xmax = 1331.5233665844185 
+            xmax = 1331.4874387787977 
             text = "{a}" 
-        intervals [93]:
-            xmin = 1331.5233665844185 
+        intervals [105]:
+            xmin = 1331.4874387787977 
             xmax = 1354.759068934285 
             text = "" 
-        intervals [94]:
+        intervals [106]:
             xmin = 1354.759068934285 
-            xmax = 1355.1819834490086 
-            text = "{a}" 
-        intervals [95]:
-            xmin = 1355.1819834490086 
+            xmax = 1355.386181373366 
+            text = "{s}" 
+        intervals [107]:
+            xmin = 1355.386181373366 
             xmax = 1363.8611995147664 
             text = "" 
-        intervals [96]:
+        intervals [108]:
             xmin = 1363.8611995147664 
-            xmax = 1363.9444316638433 
+            xmax = 1363.940127724344 
             text = "{s}" 
-        intervals [97]:
-            xmin = 1363.9444316638433 
+        intervals [109]:
+            xmin = 1363.940127724344 
             xmax = 1399.5110151584668 
             text = "" 
-        intervals [98]:
+        intervals [110]:
             xmin = 1399.5110151584668 
             xmax = 1400.1846471411636 
-            text = "{s}" 
-        intervals [99]:
+            text = "{a}" 
+        intervals [111]:
             xmin = 1400.1846471411636 
             xmax = 1442.0120995223713 
             text = "" 
-        intervals [100]:
+        intervals [112]:
             xmin = 1442.0120995223713 
-            xmax = 1442.8050861603072 
-            text = "{s}" 
-        intervals [101]:
-            xmin = 1442.8050861603072 
+            xmax = 1442.7553350664639 
+            text = "{a}" 
+        intervals [113]:
+            xmin = 1442.7553350664639 
+            xmax = 1445.236090729573 
+            text = "" 
+        intervals [114]:
+            xmin = 1445.236090729573 
+            xmax = 1445.4114606635976 
+            text = "{a}" 
+        intervals [115]:
+            xmin = 1445.4114606635976 
             xmax = 1455.8181290027571 
             text = "" 
-        intervals [102]:
+        intervals [116]:
             xmin = 1455.8181290027571 
             xmax = 1456.2987166685068 
             text = "{a}" 
-        intervals [103]:
+        intervals [117]:
             xmin = 1456.2987166685068 
+            xmax = 1466.1491738369223 
+            text = "" 
+        intervals [118]:
+            xmin = 1466.1491738369223 
+            xmax = 1466.9393686241604 
+            text = "{shout}" 
+        intervals [119]:
+            xmin = 1466.9393686241604 
             xmax = 1491.4163382577256 
             text = "" 
-        intervals [104]:
+        intervals [120]:
             xmin = 1491.4163382577256 
             xmax = 1492.309425593808 
             text = "{s}" 
-        intervals [105]:
+        intervals [121]:
             xmin = 1492.309425593808 
             xmax = 1555.7644753215222 
             text = "" 
-        intervals [106]:
+        intervals [122]:
             xmin = 1555.7644753215222 
             xmax = 1558.0228058316013 
             text = "{a}" 
-        intervals [107]:
+        intervals [123]:
             xmin = 1558.0228058316013 
             xmax = 1575.7872380046977 
             text = "" 
-        intervals [108]:
+        intervals [124]:
             xmin = 1575.7872380046977 
             xmax = 1577.0539170090867 
             text = "{a}" 
-        intervals [109]:
+        intervals [125]:
             xmin = 1577.0539170090867 
-            xmax = 1607.8540411975162 
-            text = "" 
-        intervals [110]:
-            xmin = 1607.8540411975162 
-            xmax = 1608.2872078413673 
-            text = "{s}" 
-        intervals [111]:
-            xmin = 1608.2872078413673 
             xmax = 1623.9926219643758 
             text = "" 
-        intervals [112]:
+        intervals [126]:
             xmin = 1623.9926219643758 
-            xmax = 1624.2275787119593 
+            xmax = 1624.2357964678129 
             text = "{a}" 
-        intervals [113]:
-            xmin = 1624.2275787119593 
+        intervals [127]:
+            xmin = 1624.2357964678129 
             xmax = 1633.2584077705837 
             text = "" 
-        intervals [114]:
+        intervals [128]:
             xmin = 1633.2584077705837 
             xmax = 1633.6197757165257 
-            text = "{s}" 
-        intervals [115]:
+            text = "{a}" 
+        intervals [129]:
             xmin = 1633.6197757165257 
             xmax = 1690.4800835925814 
             text = "" 
-        intervals [116]:
+        intervals [130]:
             xmin = 1690.4800835925814 
             xmax = 1690.6421761738206 
-            text = "{s}" 
-        intervals [117]:
+            text = "{a}" 
+        intervals [131]:
             xmin = 1690.6421761738206 
             xmax = 1706.0066429816184 
             text = "" 
-        intervals [118]:
+        intervals [132]:
             xmin = 1706.0066429816184 
             xmax = 1706.4379811251451 
             text = "{s}" 
-        intervals [119]:
+        intervals [133]:
             xmin = 1706.4379811251451 
+            xmax = 1713.3315714989903 
+            text = "" 
+        intervals [134]:
+            xmin = 1713.3315714989903 
+            xmax = 1713.7183147168284 
+            text = "{shout}" 
+        intervals [135]:
+            xmin = 1713.7183147168284 
             xmax = 1738.1257330746173 
             text = "" 
-        intervals [120]:
+        intervals [136]:
             xmin = 1738.1257330746173 
             xmax = 1738.1784415133031 
             text = "{a}" 
-        intervals [121]:
+        intervals [137]:
             xmin = 1738.1784415133031 
+            xmax = 1751.3018783496902 
+            text = "" 
+        intervals [138]:
+            xmin = 1751.3018783496902 
+            xmax = 1751.4906608301476 
+            text = "{a}" 
+        intervals [139]:
+            xmin = 1751.4906608301476 
             xmax = 1799.7855930516143 
             text = "" 
-        intervals [122]:
+        intervals [140]:
             xmin = 1799.7855930516143 
             xmax = 1800.0876962205566 
             text = "{s}" 
-        intervals [123]:
+        intervals [141]:
             xmin = 1800.0876962205566 
             xmax = 1803.1942972365453 
             text = "" 
-        intervals [124]:
+        intervals [142]:
             xmin = 1803.1942972365453 
             xmax = 1804.1349246855327 
             text = "{s}" 
-        intervals [125]:
+        intervals [143]:
             xmin = 1804.1349246855327 
             xmax = 1882.8873330382257 
             text = "" 
-        intervals [126]:
+        intervals [144]:
             xmin = 1882.8873330382257 
             xmax = 1883.1333946074778 
             text = "{a}" 
-        intervals [127]:
+        intervals [145]:
             xmin = 1883.1333946074778 
             xmax = 1922.9787567956337 
             text = "" 
-        intervals [128]:
+        intervals [146]:
             xmin = 1922.9787567956337 
             xmax = 1923.1021344551752 
-            text = "{s}" 
-        intervals [129]:
+            text = "{a}" 
+        intervals [147]:
             xmin = 1923.1021344551752 
+            xmax = 1996.6174396255592 
+            text = "" 
+        intervals [148]:
+            xmin = 1996.6174396255592 
+            xmax = 1997.0566195331282 
+            text = "{a}" 
+        intervals [149]:
+            xmin = 1997.0566195331282 
+            xmax = 2025.2566902354883 
+            text = "" 
+        intervals [150]:
+            xmin = 2025.2566902354883 
+            xmax = 2025.4187690919962 
+            text = "{a}" 
+        intervals [151]:
+            xmin = 2025.4187690919962 
             xmax = 2080.815 
             text = "" 
