@@ -1073,7 +1073,7 @@ item []:
         intervals [83]:
             xmin = 148.85854715003236 
             xmax = 149.21475564102204 
-            text = "{shout}" 
+            text = "え" 
         intervals [84]:
             xmin = 149.21475564102204 
             xmax = 150.98575 
@@ -1189,7 +1189,7 @@ item []:
         intervals [112]:
             xmin = 184.27096547305226 
             xmax = 185.18960842349927 
-            text = "{shout}" 
+            text = "{? うわー}" 
         intervals [113]:
             xmin = 185.18960842349927 
             xmax = 191.8217943939003 
@@ -1249,7 +1249,7 @@ item []:
         intervals [127]:
             xmin = 213.21061026268592 
             xmax = 213.4652680873847 
-            text = "{shout}" 
+            text = "{? あ}" 
         intervals [128]:
             xmin = 213.4652680873847 
             xmax = 214.1230039413612 
@@ -1693,7 +1693,7 @@ item []:
         intervals [238]:
             xmin = 356.1222521520062 
             xmax = 356.3034809468262 
-            text = "{shout}" 
+            text = "え" 
         intervals [239]:
             xmin = 356.3034809468262 
             xmax = 356.4972082792201 
@@ -1841,7 +1841,7 @@ item []:
         intervals [275]:
             xmin = 411.92175000000003 
             xmax = 412.11375 
-            text = "{shout}" 
+            text = "え" 
         intervals [276]:
             xmin = 412.11375 
             xmax = 412.63375 
