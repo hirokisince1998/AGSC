@@ -429,7 +429,7 @@ item []:
         intervals [18]:
             xmin = 430.0900463603234 
             xmax = 430.8212083644795 
-            text = "{shout}" 
+            text = "あー" 
         intervals [19]:
             xmin = 430.8212083644795 
             xmax = 506.59960010522394 
@@ -557,7 +557,7 @@ item []:
         intervals [50]:
             xmin = 889.3726812161088 
             xmax = 890.0335374576803 
-            text = "{shout}" 
+            text = "あー" 
         intervals [51]:
             xmin = 890.0335374576803 
             xmax = 895.874508395666 
@@ -802,9 +802,9 @@ item []:
             text = "" 
         intervals [14]:
             xmin = 994.29925 
-            xmax = 994.5390907831991 
+            xmax = 994.4444013399009 
             text = "{a}" 
         intervals [15]:
-            xmin = 994.5390907831991 
+            xmin = 994.4444013399009 
             xmax = 1397.3025 
             text = "" 
