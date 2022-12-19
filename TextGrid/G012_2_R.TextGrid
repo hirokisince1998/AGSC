@@ -9829,7 +9829,7 @@ item []:
         intervals [1474]:
             xmin = 2507.9477502525974 
             xmax = 2508.258007378507 
-            text = "{breath" 
+            text = "{breath}" 
         intervals [1475]:
             xmin = 2508.258007378507 
             xmax = 2509.346 
