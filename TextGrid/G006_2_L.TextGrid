@@ -5077,7 +5077,7 @@ item []:
         intervals [434]:
             xmin = 656.6004999999999 
             xmax = 657.024257961901 
-            text = "{shout}" 
+            text = "{? あ}" 
         intervals [435]:
             xmin = 657.024257961901 
             xmax = 661.5524999999999 
@@ -5297,7 +5297,7 @@ item []:
         intervals [489]:
             xmin = 711.4519483928639 
             xmax = 712.4005 
-            text = "{shout}" 
+            text = "あー" 
         intervals [490]:
             xmin = 712.4005 
             xmax = 713.2470407876303 
