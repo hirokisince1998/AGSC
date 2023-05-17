@@ -2727,7 +2727,7 @@ item []:
         name = "affectburst" 
         xmin = 0 
         xmax = 2551.4775 
-        intervals: size = 67 
+        intervals: size = 65 
         intervals [1]:
             xmin = 0 
             xmax = 186.4427499999999 
@@ -2954,45 +2954,37 @@ item []:
             text = "{a}" 
         intervals [57]:
             xmin = 2167.27475 
-            xmax = 2195.9067499999996 
-            text = "" 
-        intervals [58]:
-            xmin = 2195.9067499999996 
-            xmax = 2196.127473541793 
-            text = "{s}" 
-        intervals [59]:
-            xmin = 2196.127473541793 
             xmax = 2251.522822472063 
             text = "" 
-        intervals [60]:
+        intervals [58]:
             xmin = 2251.522822472063 
             xmax = 2252.228974815593 
             text = "{a}" 
-        intervals [61]:
+        intervals [59]:
             xmin = 2252.228974815593 
             xmax = 2375.22675 
             text = "" 
-        intervals [62]:
+        intervals [60]:
             xmin = 2375.22675 
             xmax = 2375.5947499999997 
             text = "{a}" 
-        intervals [63]:
+        intervals [61]:
             xmin = 2375.5947499999997 
             xmax = 2410.03468357852 
             text = "" 
-        intervals [64]:
+        intervals [62]:
             xmin = 2410.03468357852 
             xmax = 2410.64275 
             text = "{s}" 
-        intervals [65]:
+        intervals [63]:
             xmin = 2410.64275 
             xmax = 2467.256741135708 
             text = "" 
-        intervals [66]:
+        intervals [64]:
             xmin = 2467.256741135708 
             xmax = 2467.79475 
             text = "{a}" 
-        intervals [67]:
+        intervals [65]:
             xmin = 2467.79475 
             xmax = 2551.4775 
             text = "" 

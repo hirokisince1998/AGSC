@@ -5737,7 +5737,7 @@ item []:
         intervals [851]:
             xmin = 1846.804947826239 
             xmax = 1847.1148476232615 
-            text = "あい" 
+            text = "{? あい}" 
         intervals [852]:
             xmin = 1847.1148476232615 
             xmax = 1847.3636788701451 
@@ -5979,7 +5979,7 @@ item []:
         name = "affectburst" 
         xmin = 0 
         xmax = 2080.815 
-        intervals: size = 178 
+        intervals: size = 176 
         intervals [1]:
             xmin = 0 
             xmax = 46.954365663841855 
@@ -6658,37 +6658,29 @@ item []:
             text = "{a}" 
         intervals [170]:
             xmin = 1844.6663971841654 
-            xmax = 1846.804947826239 
-            text = "" 
-        intervals [171]:
-            xmin = 1846.804947826239 
-            xmax = 1847.1148476232615 
-            text = "{s}" 
-        intervals [172]:
-            xmin = 1847.1148476232615 
             xmax = 1905.3197085529384 
             text = "" 
-        intervals [173]:
+        intervals [171]:
             xmin = 1905.3197085529384 
             xmax = 1905.4079940062993 
             text = "{a}" 
-        intervals [174]:
+        intervals [172]:
             xmin = 1905.4079940062993 
             xmax = 1937.243244696494 
             text = "" 
-        intervals [175]:
+        intervals [173]:
             xmin = 1937.243244696494 
             xmax = 1937.4085454360923 
             text = "{a}" 
-        intervals [176]:
+        intervals [174]:
             xmin = 1937.4085454360923 
             xmax = 2025.7348667907079 
             text = "" 
-        intervals [177]:
+        intervals [175]:
             xmin = 2025.7348667907079 
             xmax = 2025.955626638594 
             text = "{a}" 
-        intervals [178]:
+        intervals [176]:
             xmin = 2025.955626638594 
             xmax = 2080.815 
             text = "" 
