@@ -16563,8 +16563,7 @@ item []:
         intervals [458]:
             xmin = 2685.402 
             xmax = 2685.832752879457 
-            text = "{shout}
-" 
+            text = "{shout}" 
         intervals [459]:
             xmin = 2685.832752879457 
             xmax = 2708.034 
