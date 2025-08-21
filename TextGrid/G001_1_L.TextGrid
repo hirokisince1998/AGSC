@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 3071.475 
+xmax = 3044 
 tiers? <exists> 
 size = 3 
 item []: 
@@ -10,8 +10,8 @@ item []:
         class = "IntervalTier" 
         name = "utterance" 
         xmin = 0 
-        xmax = 3071.475 
-        intervals: size = 1207 
+        xmax = 3044 
+        intervals: size = 1197 
         intervals [1]:
             xmin = 0 
             xmax = 73.02390062862376 
@@ -4798,54 +4798,14 @@ item []:
             text = "600" 
         intervals [1197]:
             xmin = 3043.8019985634473 
-            xmax = 3046.7175624674287 
-            text = "" 
-        intervals [1198]:
-            xmin = 3046.7175624674287 
-            xmax = 3048.041094229646 
-            text = "601" 
-        intervals [1199]:
-            xmin = 3048.041094229646 
-            xmax = 3053.8333165834297 
-            text = "" 
-        intervals [1200]:
-            xmin = 3053.8333165834297 
-            xmax = 3054.476152572778 
-            text = "602" 
-        intervals [1201]:
-            xmin = 3054.476152572778 
-            xmax = 3056.592749589559 
-            text = "" 
-        intervals [1202]:
-            xmin = 3056.592749589559 
-            xmax = 3057.41177025747 
-            text = "603" 
-        intervals [1203]:
-            xmin = 3057.41177025747 
-            xmax = 3064.6550720282635 
-            text = "" 
-        intervals [1204]:
-            xmin = 3064.6550720282635 
-            xmax = 3064.936704039275 
-            text = "604" 
-        intervals [1205]:
-            xmin = 3064.936704039275 
-            xmax = 3070.6619356055894 
-            text = "" 
-        intervals [1206]:
-            xmin = 3070.6619356055894 
-            xmax = 3071.0940285539905 
-            text = "605" 
-        intervals [1207]:
-            xmin = 3071.0940285539905 
-            xmax = 3071.475 
+            xmax = 3044 
             text = "" 
     item [2]:
         class = "IntervalTier" 
         name = "word" 
         xmin = 0 
-        xmax = 3071.475 
-        intervals: size = 1574 
+        xmax = 3044 
+        intervals: size = 1562 
         intervals [1]:
             xmin = 0 
             xmax = 73.02390062862376 
@@ -11092,62 +11052,14 @@ item []:
             text = "うん" 
         intervals [1562]:
             xmin = 3043.8019985634473 
-            xmax = 3046.7175624674287 
-            text = "" 
-        intervals [1563]:
-            xmin = 3046.7175624674287 
-            xmax = 3048.041094229646 
-            text = "いいね" 
-        intervals [1564]:
-            xmin = 3048.041094229646 
-            xmax = 3053.8333165834297 
-            text = "" 
-        intervals [1565]:
-            xmin = 3053.8333165834297 
-            xmax = 3054.476152572778 
-            text = "はいはいはい" 
-        intervals [1566]:
-            xmin = 3054.476152572778 
-            xmax = 3056.592749589559 
-            text = "" 
-        intervals [1567]:
-            xmin = 3056.592749589559 
-            xmax = 3056.750661049859 
-            text = "えっ" 
-        intervals [1568]:
-            xmin = 3056.750661049859 
-            xmax = 3057.132489588917 
-            text = "" 
-        intervals [1569]:
-            xmin = 3057.132489588917 
-            xmax = 3057.41177025747 
-            text = "うん" 
-        intervals [1570]:
-            xmin = 3057.41177025747 
-            xmax = 3064.6550720282635 
-            text = "" 
-        intervals [1571]:
-            xmin = 3064.6550720282635 
-            xmax = 3064.936704039275 
-            text = "ほ" 
-        intervals [1572]:
-            xmin = 3064.936704039275 
-            xmax = 3070.6619356055894 
-            text = "" 
-        intervals [1573]:
-            xmin = 3070.6619356055894 
-            xmax = 3071.0940285539905 
-            text = "あい" 
-        intervals [1574]:
-            xmin = 3071.0940285539905 
-            xmax = 3071.475 
+            xmax = 3044 
             text = "" 
     item [3]:
         class = "IntervalTier" 
         name = "affectburst" 
         xmin = 0 
-        xmax = 3071.475 
-        intervals: size = 313 
+        xmax = 3044 
+        intervals: size = 311 
         intervals [1]:
             xmin = 0 
             xmax = 155.34935580315076 
@@ -12390,13 +12302,5 @@ item []:
             text = "{a}" 
         intervals [311]:
             xmin = 3007.136946886556 
-            xmax = 3056.592749589559 
-            text = "" 
-        intervals [312]:
-            xmin = 3056.592749589559 
-            xmax = 3056.750661049859 
-            text = "{a}" 
-        intervals [313]:
-            xmin = 3056.750661049859 
-            xmax = 3071.475 
+            xmax = 3044 
             text = "" 
