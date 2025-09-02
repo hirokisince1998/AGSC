@@ -1,0 +1,3 @@
+[submodule "wav"]
+	path = wav
+	url = https://huggingface.co/datasets/hirokisince1998/AGSC-wav

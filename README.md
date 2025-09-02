@@ -27,19 +27,11 @@ It focuses on naturally occurring screams and shouts, providing resources for th
 
 ---
 
-## Usage
-You can load the dataset using the `datasets` library:
+## Download
 
-```python
-from datasets import load_dataset
-
-dataset = load_dataset("hirokisince1998/AGSC")
+```sh
+git clone --recurse-submodules https://github.com/hirokisince1998/AGSC.git
 ```
-
-The dataset contains the following components:
-
-- Audio files
-- Praat TextGrid files
 
 ---
 
@@ -49,28 +41,16 @@ The dataset contains the following components:
 README.md            # Corpus documentation
 sessions.csv         # Metadata for sessions and parts
 speakers.csv         # Metadata for speakers
-Sessions/
-  G001/
-    G001_1_L.wav        # Audio (left channel)
+TextGrid/
     G001_1_L.TextGrid   # Annotation (left channel)
-    G001_1_R.wav        # Audio (right channel)
     G001_1_R.TextGrid   # Annotation (right channel)
-    G001_2_L.wav
     G001_2_L.TextGrid
-    G001_2_R.wav
     G001_2_R.TextGrid
     ...
-  G003/
-  G004/
-  G005/
-  G006/
-  G007/
-  G008/
-  G009/
-  G010/
-  G011/
-  G012/
-  G013/
+wav/
+    G001_1.wav
+    G001_2.wav
+    ...
 ```
 
 - `sessions.csv`: Contains information about each session and part.  
